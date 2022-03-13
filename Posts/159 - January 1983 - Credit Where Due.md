@@ -16,10 +16,8 @@ summary: Why the Mac design team got credit for their work
 * Summary: Why the Mac design team got credit for their work
 
 ![The La Playa Hotel in Carmel](images/Macintosh/laplaya.jpg) 
-
     
 The Macintosh team held a series of off-site retreats, every six months or so starting in January 1982.  A retreat usually lasted two full days, including an overnight stay.  We'd travel by bus to a naturally beautiful resort an hour or two from Apple's offices in Cupertino, like Pajaro Dunes near Monterey Bay. Every employee on the team was invited, as well as folks from other parts of the company who were contributing to the project. The retreats were a mixture of a divisional communications meeting, an inspirational pep talk and a company party, featuring chats with industry legends like Robert Noyce (inventor of the integrated circuit) or Ben Rosen (the VC who funded Compaq and Lotus), and entertainment from Wyndham Hill artists like Liz Story.
-
 
 The third retreat was scheduled for January 27th and 28th, 1983 at the La Playa Hotel in Carmel, and it came at a pivotal time for the project.  The Lisa was just introduced the previous week, after four years of development, on January 19th (although it wouldn't actually ship for another five months), and it was becoming increasingly clear that it was time for the Mac team to shift gears, buckle down and change our focus to doing whatever it took to finish up and ship.
 
@@ -76,4 +74,3 @@ But most importantly of all, Steve promised Bill that he would receive public re
 Steve was true to his word, and the seven people that he designated as the "design team" were featured in various ways during the Macintosh launch.  Chiat-Day even filmed us for a series of television commercials, which never aired because they were deemed too self-congratulatory.  It was fun to get our pictures in the national press (see Can We Keep The Skies Safe?), but it was also problematic, because there wasn't a fair way to draw the line.  At least a dozen individuals made crucial contributions to the design, so there were some hard feelings from the people who didn't make the cut.
 
 In fact, Steve eventually decided that giving recognition to the designers was a bad idea.   Nowadays, Apple has abolished programmer names in the "About Box", and closely guards the names of their designers, allowing only a select few employees to interact with the press at all.
-

@@ -17,7 +17,6 @@ summary: My belated performance review is delivered verbally
 
 Apple's HR policy dictated that each employee was supposed to receive a performance review from their manager every six months, which helped to determine your salary increase or possibly an award of additional stock options.  But as the end of 1982 approached, I hadn't received my review for more than eight months.
 
-
 This wasn't very surprising, since Bob Belleville, who was my boss and our software manager, was not getting along very well with the software team.  He thought that some of us were intrinsically unmanageable, and that we didn't sufficiently respect him.  Bob had replaced Rod Holt as the overall engineering manager in August, responsible for both hardware and software, and had just hired a new software manager, Jerome Coonen, who was slated to begin in January, which would allow him to further distance himself from the software team.  But he still had to deal with us directly one last time to write our reviews for 1982.
 
 By the end of January, everyone on the team had received their review except for me.  Others mentioned that Bob had acted somewhat strangely during their reviews, making cryptic remarks that they didn't understand, so I wasn't particularly looking forward to mine.  I occasionally had to interact with Bob, but he was reticent around me, not saying much, seemingly hiding behind his enigmatic, tight-lipped smile.   Finally, after another couple of weeks, Bob's secretary called me to arrange an appointment, presumably for my belated review.
@@ -101,4 +100,3 @@ I was shocked. Bob was denying what he told me the day before, and I know that I
 A few more people spoke up, addressing other grievances, but Bob's trance-like manner persisted and eventually the meeting broke up, without anyone being satisfied.  Steve tried to declare victory at the end, but no one was buying it.
 
 I thought about things over the weekend, and realized that I cared too much about the Macintosh to quit before it was finished, managerial adversity notwithstanding.  The situation that I feared when Bud left had actually occured, in spades, and I wasn't confident that Steve would live up to his promise to protect me.   I wasn't sure what was going to happen, but I knew that my blissful days at Apple were over, and that things were going to be different from now on.
-

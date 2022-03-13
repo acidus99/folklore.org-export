@@ -16,10 +16,8 @@ summary: The evolution of the Finder
 * Summary: The evolution of the Finder
 
 ![The Finder](images/Macintosh/finder_logo.gif) 
-
     
 One of the first things I did when I joined the Mac group was to begin working on the Finder.  The first Finder, written in early 1982 with Andy's help, was a simple diskette image with tabs that represented the files on the disk.  (see Early Demos).  This Finder was the first to begin to take advantage of the idea of spatial organization: you could drag the tabs around and place them wherever you wanted on the floppy image.  Also, my experience with Smalltalk showed through: the big "Do It" button was named after the Do It menu item in Smalltalk, which evaluated a selected expression.  This Finder was actually usable, and served as a placeholder until the real Finder was available.
-
 
 Immediately after the first Finder prototype, I wrote a second which was much more recognizable as the ancestor to the Finder that shipped.  This prototype was a nonfunctional prototype that did not actually read the disk, but instead, read a text file that described a hierarchy of files within folders that would be displayed in windows.  Our filesystem at the time did not have the concept of directories, so I had to fake it with the proof-of-concept prototype.  This was the first Finder that provided double-clicking to open folders, documents, and applications; drag-and-drop to move files between folders; icon and list views; and persistent spatial locations of icons within windows.  Of course, it was all window-dressing and none of it was functional, but it did give a good idea of what we would eventually want to implement.  Unfortunately, it also made it look like the actual Finder implementation would be easy, which it most definitely was not.
 
@@ -58,4 +56,3 @@ The Mac was to ship in January, 1984, our final drop dead date.  In late 1983 it
 Writing the Finder was not easy.  Because of the tight memory requirements, most of the code was 68K assembly, like the ROM Toolbox.  Capps took on some of the more difficult tasks, including file copying (see Disk Swapper's Elbow).  We worked late into the night, listening to Violent Femmes and Capps' other punk rock recordings.  The clock was ticking.
 
 Capps and I ended up finishing version 1.0 of the Finder in time for the Mac to be introduced on January 24 (see Real Artists Ship).  It weighed in at 46K bytes, approximately 1/8th the size of the Lisa Filer.  The small size of the Finder made it possible to have the entire System and Finder, plus an application, plus a few documents, on a single 400K floppy...just barely.  We were overjoyed, but exhausted.  The Grand Unified Model --resources, types and creators, the Desktop Database, and the Finder-- was finally done.
-
