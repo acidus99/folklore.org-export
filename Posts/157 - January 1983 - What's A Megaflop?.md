@@ -24,7 +24,7 @@ In early 1982, Joanna Hoffman was still the only marketing person on the Mac tea
 
 A few months later, after conferring with a number of consultants who understood the college market, a plan began to emerge.  One of the words that the consultants reiterated was "consortium"; it seemed like colleges loved to band together into various consortiums.  We knew that the paucity of software at launch would be a barrier to initial acceptance, but maybe not if we could get the colleges to form a Macintosh consortium, where members received steeply discounted Macs for students and faculty.  All we had to do is sign up a few of the most prestigious schools, and many of the rest would follow.
 
-![](images/Macintosh/bicycle.gif)
+![University Consortium Logo](images/Macintosh/bicycle.gif)
 
  Mike Murray (who was now the permanent interim Macintosh marketing manager) and Joanna realized that they needed a superb salesperson to take charge of recruiting customers for our consortium-to-be.  The best salesperson that Joanna knew on the Lisa team was Dan'l Lewin, a handsome, personable, ivy educated ex-competitive swimmer who was frustrated with his current job of selling the Lisa to corporations. Dan'l was intrigued, and, after some negotiation, was soon barnstorming around the country visiting the leading universities, with Mike Boich in tow to run the demo and answer technical questions, trying to convince universities to sign up with Apple and buy discounted Macs by the thousands.
 
