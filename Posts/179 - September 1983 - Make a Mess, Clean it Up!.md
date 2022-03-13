@@ -16,10 +16,8 @@ summary: Burrell had a unique approach to playing Defender
 * Summary: Burrell had a unique approach to playing Defender
 
 ![Defender was Burrell's favorite video game](images/Macintosh/defenderscreen.gif) 
-
     
 Working 90 hours a work week requires frequent, and highly effective, work breaks.  In the center of Macintosh work area in Bandley 3 we had a ping pong table, a nice stereo system, and a Defender video game machine.  We found that competitive play gave us a jolt of adrenaline, and a refreshed mind-set when we resumed work.  We also learned a lot about our coworkers and how they excel during competition.  While playing Defender one day I got some great insight into how Burrell accelerates his own learning process.
-
 
 Andy, Burrell and I had a standing competition playing on the Defender machine.  We'd challenge each other, in two or three player competitions, taking turns at the video game machine, and compare techniques and high scores.  We were roughly equal in skill level, so as we'd take turns at the controls we could watch how the other player was doing, and have a gauge for who was ahead.  This gave us opportunities to refine our skills, learn the other guy's technique, and show off our prowess.
 
@@ -27,7 +25,7 @@ The goal of Defender is to defend your humans from abduction by aliens.  The evi
 
 After a while, surviving the first few game levels was pretty easy, unless you had been up all night programming or something.  The Defender machine was probably a pretty good objective measure of current mental capacity.  "Gee, I can't even get through level 2!  I guess it's time to get some sleep."  Better to put in a bad performance on the defender game than mess up the current programming task, or start down the wrong path on some hardware design.
 
-![](images/Macintosh/WozDefender_t.jpg)
+![Woz playing Defender in Bandley 3](images/Macintosh/WozDefender.jpg)
 
 One day Burrell started doing something radical.  Andy came by my cube and said "You've got to come see what Burrell's doing with Defender."  "How can you innovate with a video game?" I wondered.  I'd seen Burrell and Andy innovate on all kinds of things, but I couldn't image how he could somehow step outside the box of a video game - the machine controlled the flow and dictated the goals.  How could you gain some control in that environment?
 
@@ -42,4 +40,3 @@ Burrell may have lost that game and the next few, but it wasn't too long before 
 I was beginning to see how Burrell could be so successful with everything he does.  Like many high achievers, Burrell likes challenges so much that he actually seeks them out and consciously creates them.  In the long run, this approach makes sense.  He seems to aggressively set up challenging situations throughout his life.  Then, when life throws him a curve ball, he'll swing hard, and knock it out of the park.  
 
 Why intentionally "make a mess?"  So you can get really good at "cleaning up!"
-
