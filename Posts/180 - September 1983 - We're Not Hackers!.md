@@ -16,10 +16,8 @@ summary: We were always dealing with memory limitations
 * Summary: We were always dealing with memory limitations
 
 ![Capps drew this  with an earlyversion of MacPaint, tocelebrate a ROM release](images/Macintosh/rom2.0.jpg) 
-
     
 From the beginning, the Macintosh was conceived to be a very low cost, high volume personal computer.  It was important for the design team to keep manufacturing costs as low as possible.  Since memory was relatively expensive, we were always dealing with memory limitations.
-
 
 One of the most clever parts of Burrell Smith's original, 68000-based digital board was the "bus transformer" logic that multiplexed the data bus, allowing him to hook up the 68000, which demanded a 16 bit data bus, to only 8 memory chips.  He also included a single, byte-wide 64kbit ROM chip, so that first Macintosh, circa January 1981, had a total of 64K bytes of RAM and 8K bytes of ROM.
 
@@ -50,4 +48,3 @@ I went with Bill to Larry Kenyon's cubicle, where he was maintaining the memory 
 "Hey, that's not the right way to code. What are you guys, a bunch of hackers?  I'm not sure that I want to work with a bunch of hackers."
 
 Both Larry and I cared more about pleasing Bill than saving every possible byte or cycle, so we changed our fix to use the slower, more conservative, Bill-approved technique.  We also added a comment to the instruction in the source code, to remind us why we did it the slower way in this circumstance.  The comment said "We're Not Hackers!".
-
