@@ -16,10 +16,8 @@ summary: We travel to Woz's rock festival
 * Summary: We travel to Woz's rock festival
 
 ![Steve Wozniak on stage at the US Festival](images/Macintosh/woz_on_stage.jpg) 
-
     
 As soon as Steve Jobs took over the Macintosh project in January 1981, he recruited many of the crucial early Apple employees who had worked on the Apple II, including Rod Holt, Jerry Manock, Dan Kottke, Randy Wiggington and Apple co-founder Steve Wozniak.
-
 
 Woz was enthusiastic about the Macintosh and started hanging out at the Mac team's new office at Texaco Towers, reviewing Burrell's design and learning the 68000 instruction set.  But he was only working on the project for a couple of weeks when he crashed his Beechcraft Bonanza airplane while taking off near his home in Scott's Valley, sustaining a serious head injury and knocking out a couple of teeth.
 
@@ -33,7 +31,7 @@ Peter put together a team, and plans began to take shape for a impressive 3 day 
 
 Woz encouraged his Apple friends to come to the US Festival by giving us special gold passes that got us in for free, and permitted us to hang around back stage.  Burrell Smith, Bill Budge and myself rented a camper and drove down together, skipping work to leave Friday morning so we could be there by the start of festivities that evening.
 
-![](images/Macintosh/us2_t.jpg)
+![A view of the stage from afar](images/Macintosh/us2.jpg)
 
 After the long drive, we parked the camper a half mile away from the festival site, and walked the dusty trail to the main concert area amid the gathering crowd.  We arrived just as the sun was setting and the first band, The Gang of Four, was taking the stage.  After their set ended, we made our way to the stage area, to test out our gold passes and see if we could find Woz.
 
@@ -66,4 +64,3 @@ Burrell looked around for Woz but couldn't spot him.  He started to argue but st
 Bill Graham motioned to one of his ubiquitous bodyguards, a huge guy with long hair and tatoos covering his forearms.  "Please escort this gentleman from the premises", he ordered peremptorily, "and don't let him return!"  The bodyguard literally picked Burrell up off the ground by the back of his shirt collar and carried him off the stage and then completely out of the backstage area.
 
 That was the last we saw of Burrell for the next six hours and we wondered what had happened to him. Finally, he reappeared just before Tom Petty started the final set of the day.  Bill Graham's thug had dragged him outside the festival gates and confiscated his gold pass.  Burrell didn't know what to do, but eventually he obtained another gold pass by walking a few miles to the house that Woz had rented for the weekend.   Woz was sorry about what had transpired and asked Burrell if he wanted to try again on Sunday to introduce another band, but this time Burrell was wary and quickly declined.  In fact, he had had enough of the US Festival and persuaded Bill and me to drive back home early on Sunday morning without attending the last day of shows.
-
