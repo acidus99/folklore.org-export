@@ -16,7 +16,6 @@ summary: We visit my alma mater to try to sell them Macs
 * Summary: We visit my alma mater to try to sell them Macs
 
 ![Andy van Dam](images/Macintosh/vandam.gif) 
-
     
 Apple always had a natural affinity for education, and, almost from its inception, the Apple II became very successful in the K-12 education market.  In the late 1970's, Steve Jobs initiated a marketing program called "Kids Can't Wait" and personally paced the halls of Congress in Washington for three weeks, lobbying for legislation granting tax breaks for donating computers to schools.  Even though the national legislation got stymied by politics (it was blocked by Bob Dole), California eventually passed a similar bill and Apple soon donated almost 9,000 computers, one to every school in California.
 
@@ -25,7 +24,7 @@ In early 1982, Joanna Hoffman was still the only marketing person on the Mac tea
 
 A few months later, after conferring with a number of consultants who understood the college market, a plan began to emerge.  One of the words that the consultants reiterated was "consortium"; it seemed like colleges loved to band together into various consortiums.  We knew that the paucity of software at launch would be a barrier to initial acceptance, but maybe not if we could get the colleges to form a Macintosh consortium, where members received steeply discounted Macs for students and faculty.  All we had to do is sign up a few of the most prestigious schools, and many of the rest would follow.
 
-![](images/Macintosh/bicycle_t.gif)
+![](images/Macintosh/bicycle.gif)
 
  Mike Murray (who was now the permanent interim Macintosh marketing manager) and Joanna realized that they needed a superb salesperson to take charge of recruiting customers for our consortium-to-be.  The best salesperson that Joanna knew on the Lisa team was Dan'l Lewin, a handsome, personable, ivy educated ex-competitive swimmer who was frustrated with his current job of selling the Lisa to corporations. Dan'l was intrigued, and, after some negotiation, was soon barnstorming around the country visiting the leading universities, with Mike Boich in tow to run the demo and answer technical questions, trying to convince universities to sign up with Apple and buy discounted Macs by the thousands.
 
@@ -50,4 +49,3 @@ Steve looked a little angry.  "What are you waiting for?  You're going to have t
  A megaflop was the ability to execute one million floating point operations per second.  The Mac didn't have any floating point hardware, so it was off by an order of magnitude.  In fact, we were off by around a factor of 10 in each of the three dimensions.
 
 "Oh, we believe in that, too," Steve shot back, without skipping a beat.  "Apple will have an affordable 3M machine before anyone else.  I only have one question.  What's a megaflop?"
-
