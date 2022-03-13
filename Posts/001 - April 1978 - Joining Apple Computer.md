@@ -15,11 +15,9 @@ summary: Reflections on the 40th anniversary of my joining Apple
 * Characters: Bill Atkinson, Jef Raskin, Steve Jobs, Susan Kare
 * Summary: Reflections on the 40th anniversary of my joining Apple
 
-![](images/Macintosh/bill-atkinson-id.jpg) 
+![](images/Macintosh/bill-atkinson-id.jpg)
 
-    
 40 years ago today, I joined Apple Computer on April 27, 1978. It was a big turning point in my life and I am glad I said "Yes".
-
 
 I was working on my PhD in neuroscience with Doug Bowden at the University of Washington Regional Primate Research Center. Jef Raskin, a professor and friend from my undergraduate days at UC San Diego, called and urged me to join him at an exciting new startup called Apple Computer. 
 
@@ -58,4 +56,3 @@ Inspired by a mind-expanding LSD journey in 1985, I designed the HyperCard autho
 I worked at Apple for 12 years, making tools to empower creative people, and helping Apple grow from 30 employees to 15,000. In 1990, with John Sculley's blessing, I left Apple with Marc Porat and Andy Hertzfeld to co-found General Magic and help to invent the personal communicator.
 
 The road I took 40 years ago has made all the difference. I still follow research in consciousness, but I am more than satisfied with the contributions I was able to make with my years at Apple. I am grateful to Jef Raskin and Steve Jobs for believing in me and giving me the opportunity to change the world for the better.
-

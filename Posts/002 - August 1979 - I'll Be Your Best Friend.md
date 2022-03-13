@@ -16,10 +16,8 @@ summary: Burrell Smith was creative in more than just engineering.
 * Summary: Burrell Smith was creative in more than just engineering.
 
 ![Andy and Burrell in January 1983](images/Macintosh/Burrell_and_Andy.jpg) 
-
     
 Toward the end of my first week as an Apple employee in August 1979, I noticed that someone had left a black binder on my desk, with a hand-written title that read, "Apple II: Principles of Operation".  It contained a brilliant, concise description of how the Apple II hardware worked, reverently explaining details of Woz's epic, creative design hacks, in a clearer fashion than I'd ever read before.  I didn't know who left it there, but the title page said it was written by "Burrell C. Smith".
-
 
 Later that day, in the late afternoon, I was approached by a young, animated, slightly nervous guy with long, straight, blond hair, who entered my cubicle and walked right up to me.
 
@@ -42,4 +40,3 @@ One of his favorite expressions was "I'll be your best friend".  He offered "bes
 Once, right after Burrell conferred best friendship upon me, I heard him offer best friendship to someone else, for a different favor.  "Wait a second", I challenged Burrell, "How can you give out best friendship to someone else?  There can be only one best friend at a time, can't there?"
 
 Burrell had a quick reply, delivered with a smile.  "Of course there can be only one "best" friend  at a given instant of time.  But best friendship relationships may be highly dynamic. The average length of a best friendship is three to five milliseconds.  So there's no problem in having a new B.F.R. a second or two later."
-
