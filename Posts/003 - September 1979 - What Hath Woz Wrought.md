@@ -17,9 +17,7 @@ summary: The first product I developed for Apple
 
 ![The Apple Silentype](images/Macintosh/apple-silent-type.jpg) 
 
-    
 In the summer of 1979, I abandoned grad school to start working at Apple Computer as a systems programmer. I was already thoroughly obsessed with their main product, the Apple II, so it was a dream come true to become an Apple employee and meet the amazing people behind the company.
-
 
 I became even more excited when I found out about the first project that I was slated to work on: an inexpensive little graphical printer.  Most printers were large, loud and expensive, printing by impacting an inky ribbon.  Apple collaborated with a small, local start-up named Trendcom that had a different approach, relying on coated thermal paper that darkened when heat was applied. The "print-head" was a column of seven tiny thermal elements that got hot when enabled. It was almost silent as it glided across the page, printing up to 80 characters per line at 40 characters per second.
 
@@ -46,4 +44,3 @@ At first nothing seemed to happen, except for a low volume humming sound emanati
 Unfortunately, the experiment seemed to permanently damage the print-head; it burned out or possibly melted some of the thermal elements. The printer could no longer print text or graphics, but it still was able to set the paper on fire, so I kept it around for the occasional incendiary demo.
 
 I finished the Silentype firmware around mid-September, which was theoretically early enough to meet our goal of a Christmas 1979 release, but Trendcom had a series of production issues that delayed shipments in any significant volume until early 1980.   It sold pretty well for a while as the official printer for the Apple II, before it was replaced by the ImageWriter dot matrix printer around the end of 1983.
-

@@ -16,10 +16,8 @@ summary: Burrell proves his mettle with the 80k language card.
 * Summary: Burrell proves his mettle with the 80k language card.
 
 ![Apple II Language Card](images/Macintosh/language_card.jpg) 
-
     
 Burrell Smith was a 23 year old, self-taught engineer, without a college degree, who was drawn to Apple by the sheer elegance of the Apple II design.  He was hired into Apple in February 1979, as Apple employee #282, a lowly service technician responsible for fixing broken Apple IIs that were sometimes returned by customers.  As he debugged broken logic boards, sometimes more than a dozen in a single day, he began to develop a profound respect and empathy for Steve Wozniak's unique, creative design techniques.
-
 
 Meanwhile, the Lisa team had been writing their first code in Pascal, running on Apple IIs, because the Lisa hardware wasn't ready yet.  They had been at it for almost a year, and they had written more code than would fit in the 64 Kbytes of memory in a standard Apple II.  In fact, the Apple II only had 48 Kbytes on its main board, but it used a "language" card to give it an extra 16 Kbytes used to run Pascal.  To accomplish this, the language card had to "bank switch" its RAM over the ROM on the Apple II motherboard.
 
@@ -40,4 +38,3 @@ Around this time, Bill ran into Jef Raskin.  Jef had been writing a series of pa
 Bill and Burrell showed up at Jef's house at the appointed time.  Bill introduced Burrell to Jef, saying.  "Jef, this is Burrell.  He's the guy who's going to design your Macintosh for you."
 
 "We'll see about that", Jef replied.  "We'll see about that."
-
