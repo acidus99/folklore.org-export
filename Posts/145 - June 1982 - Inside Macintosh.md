@@ -16,10 +16,8 @@ summary: Developer documentation was crucial to our success.
 * Summary: Developer documentation was crucial to our success.
 
 ![The phone book edition of Inside Macintosh](images/Macintosh/inside_mac.gif) 
-
     
 One of the main differences between the Lisa and Macintosh projects was the way that they viewed third party developers. The Lisa team was writing an integrated suite of seven office-oriented applications internally, so they didn't see a need to support third party developers at first, although they planned to do it eventually.
-
 
 The Macintosh, inspired by the Apple II, took a different approach. The Apple II's sales had increased more than ten-fold when a tiny company named Software Arts released the first spreadsheet, Visicalc, which initially ran only on the Apple II.  We wanted all the people who resonated with our Macintosh dream to be able to extend it with own creativity, so having first class support for third party developers was considered to be a must, from the very beginning.
 

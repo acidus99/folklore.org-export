@@ -16,10 +16,8 @@ summary: We almost lose Bill in a car accident
 * Summary: We almost lose Bill in a car accident
 
 ![Regions were the heart of QuickDraw](images/Macintosh/regions.jpg) 
-
     
 The single most significant component of the original Macintosh technology was QuickDraw, the graphics package written by Bill Atkinson for the Lisa project, which pushed pixels around the frame buffer at blinding speeds to create the celebrated user interface.  One of QuickDraw's main jobs was to provide the primitives for quickly drawing text and graphics into overlapping windows, when the window that you're drawing into may be partially obscured by other windows.  Applications could just draw without worrying if their window was obstructed because Quickdraw, with a little help from the window manager, would take care of the clipping to make sure pixels stayed inside in their window.
-
 
 Overlapping windows can form complex shapes, especially if their corners are rounded.  The key data structure in QuickDraw was called a "region", which compactly represented an area of the screen.  QuickDraw provided routines that allowed the programmer to define regions by using the built-in drawing primitives, and to perform operations with them like union and intersection.  Most importantly, all of the QuickDraw drawing primitives clipped to the intersection of three different regions, to allow drawing into obscured windows. We considered QuickDraw's speed and deftness at region handling to be the most significant "crown jewel" in Apple's entire arsenal.
 
@@ -34,4 +32,3 @@ When Steve Jobs heard about the accident, he immediately jumped into his car and
 Steve entered the hospital room and was relieved to see that Bill had regained consciousness.  "Is everything OK?", Steve asked.  "We were pretty worried about you."
 
 Bill turned his head and looked at Steve.  He managed a painful smile.  "Don't worry, Steve, I still remember regions."
-

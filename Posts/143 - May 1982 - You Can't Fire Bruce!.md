@@ -16,10 +16,8 @@ summary: The software team has a personality clash
 * Summary: The software team has a personality clash
 
 ![Bruce Horn](images/Macintosh/bruce-horn.jpg) 
-
     
 Even though he was only twenty two years old when he joined the Mac team, Bruce Horn already had seven years of experience tinkering with graphical user interfaces.  He was recruited as a 14-year-old by Ted Kaehler to do some programming experiments in Smalltalk at Alan Kay's Learning Research Group in the mid-seventies, and he took to it so well that he had worked part-time at Xerox PARC ever since.  By the time he joined the Mac team in late 1981, he was an expert in object-oriented programming and graphical user interfaces.
-
 
 Bruce was a bright, idealistic and uncompromising programmer who fit right in with the prevailing values of the team, and he quickly became an important contributor to the Macintosh system software effort.  He was slated to work on the application that graphically represented files, which Bud Tribble had dubbed the "Finder", but after a few weeks he convinced us that we were missing a crucial level of the system that he called the "Resource Manager", which was a way to manage the various chunks of data (like text strings and images) that an application relied on, and which was going to be needed for the Finder application as well for managing icons and bindings between documents and applications (see Resource Manager Countdown).
 
@@ -62,4 +60,3 @@ Now it was my turn to get upset.  "You can't fire Bruce!", stating something tha
 But I was adamant, defending Bruce until Bob got frustrated with me.  "Well, Andy, I am very disappointed in you.  I thought you had more sense than that."  I walked out of his office not knowing what was going to happen.
 
 Later that day, when Steve Jobs came by for his usual early evening visit, I told him what transpired and repeated how bad it would be if we lost Bruce. I don't know what Steve eventually said to Bob, but he apparently dropped his plan to fire Bruce since he never mentioned it again. But I never thought of Bob the same way after that, and I think that was when he started to have problems with me as well.
-
