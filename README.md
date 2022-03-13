@@ -6,7 +6,7 @@ This project has extracted all the posts and their metadata from Folklore.org, c
  
  ## Why this project exists
  
-Folklore.org is an incredible unique source of first hand content about Apple. Unfortunately the website and its content have some problems that make reading the content a poor experience:
+Folklore.org is an unique source of incredible first hand content about Apple. Unfortunately the website and its content have some problems that make reading the content a poor experience:
 
 * Does not have a mobile friendly layout
 * Missing images
