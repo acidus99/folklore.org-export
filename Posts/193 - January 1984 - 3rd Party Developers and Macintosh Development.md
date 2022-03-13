@@ -17,7 +17,7 @@ summary: Some Comments about Developing Applications for the Apple Macintosh 128
 
 Some Comments about Developing Applications for the Apple Macintosh 128 Computer from a 20 Year Perspective
 
-## OVERVIEW
+## Overview
 
 This commentary contains my recollections about developing 3rd party software for the Apple Macintosh computer during the years 1984 to 1986. This paper was written as my contribution to the Macintosh's 20th anniversary celebrations in February 2004.
 
@@ -25,7 +25,7 @@ During this time I worked for a small company in Wichita Kansas called PPP Inc. 
 
 The original Macintosh (called the "Macintosh 128" since it had 128K bytes of memory) provided a fascinating development and application environment which I enjoyed immensely. The Macintosh's rich ROM-based software toolbox in a 64K byte ROM along with the machine's small footprint and superbly clear screen display made the Macintosh a wonderful application platform.
 
-## SOFTWARE DEVELOPMENT USING THE LISA WORKSHOP ENVIRONMENT
+## Software Development Using the Lisa Workshop Environment
 
 Macintosh development in the early days (circa 1983-1985) was done using the Apple Lisa computer and its Lisa Workshop development environment. I originally used a Lisa 2/5 model which contained 1M byte of RAM, an internal 400K 3.5" Sony floppy drive, and an external 5M byte ProFile hard drive (yes, 5M as in mega bytes was considered a rather large drive in those days). I later used a Lisa 2/10 model which had an additional 10M byte internal Widget hard drive which gave me a total of 15M bytes of hard drive storage.
 
@@ -45,7 +45,7 @@ Concerning the Macintosh Plus computer which debuted in 1986, this computer was 
 
 Note that the Lisa Workshop also supported a C compiler around 1985, but very little Macintosh development used Lisa C.
 
-## SOFTWARE DEVELOPMENT USING THE MACINTOSH MPW ENVIRONMENT
+## Software Development Using the Macintosh MPW Environment
 
 I used a beta version of the MPW (Macintosh Programmer's Workshop) programming environment around late 1985 early 1986 for Macintosh development. This was Apple's successor to the Lisa Workshop which was being discontinued since the Lisa hardware had been discontinued in 1985.
 
@@ -53,7 +53,7 @@ MPW ran on the then new Macintosh Plus computer which contained 1M byte of RAM a
 
 MPW was a very good development environment which I still use today (it now is up to version 3.4 or 3.5 I believe).
 
-## MACINTOSH TOOLBOX AND OPERATING SYSTEM API
+## Macintosh Toolbox and Operation System API
 
 Macintosh programming was based on the Macintosh application programming interface (API) called at that time the Macintosh Toolbox and Operating System routines. There were around 500 of these routines in the original Macintosh. As a comparison, I just counted the number of routines in the Macintosh API MPW 3.2 Pascal interfaces from 1990 and there were around 2,300 routines (almost 5 times as many).
 
@@ -65,7 +65,7 @@ The Macintosh Print Manager was a joy to use. It provided a device independent a
 
 The Macintosh Memory Manager and its use of double indirect memory references called handles was an eye opener. This handle architecture provided a simple way to maximize the use of the Macintosh's limited memory size when memory blocks needed resizing; the Macintosh team has to thank Tom Malloy of the LisaWrite word processor team for this (see Hungarian).
 
-## INSIDE MACINTOSH
+## Inside Macintosh
 
 The Macintosh API was documented in a wonderful collection of notes called collectively "Inside Macintosh". Originally distributed on a chapter basis these eventually were collected in several volumes. Each chapter documented a specific Macintosh API "manager" such as the Menu Manager. Volumes 1 to 3 from 1984-1985 documented the original Macintosh API information. Volume 4 from 1986 documented the Macintosh Plus and the API changes made for this machine (such as the new SCSI disk manager). Volume 5 from 1988 documented the Macintosh II and its extensive API additions (such as Color QuickDraw).
 
@@ -81,11 +81,11 @@ The User Interface Guidelines chapter was in my opinion the most innovative area
 
 Compared to the later book-based Inside Macintosh information that Apple produced around 1990, the original chapter-based Inside Macintosh information was for me more readable and concise. The later material tended to be wordy and overly simplistic.
 
-## LISA MACWORKS
+## Lisa MacWorks
 
 In 1984 and 1985 Apple supported the Macintosh operating system on the Lisa. This system was called MacWorks and allowed most Macintosh applications to run on a Lisa 2 computer. MacWorks booted the Macintosh OS from a single 400K floppy disk and even displayed the standard "happy Macintosh" boot icon. I recall MacWorks running well as long as the applications you used were well behaved (my Macintosh application The Investor was).
 
-## EARLY MACINTOSH DEVELOPMENT DISAPPOINTMENTS
+## Early Macintosh Development Disappointments
 
 Though the original Macintosh provided a revolutionary user interface and application programming interface (API), there were some disappointments from my perspective.
 
