@@ -15,11 +15,9 @@ summary: Bill decides to leave out a very impressive feature
 * Characters: Steve Jobs, Bill Atkinson, Rod Perkins
 * Summary: Bill decides to leave out a very impressive feature
 
-![MacPainttool palette](images/Macintosh/macpaint_tools.jpg) 
-
+![MacPaint tool palette](images/Macintosh/macpaint_tools.jpg) 
     
 While Bill Atkinson was developing LisaGraf, the crucial, lightning fast graphics package that was the foundation of both the Lisa and Macintosh user interface (it was renamed QuickDraw for the Mac), he also worked sporadically on a simple bitmap-based drawing program for the Lisa called SketchPad.  SketchPad enabled mouse-based drawing with a selection of paintbrushes and patterns, and gave Bill a quick way to test out and show off new features or improvements as they were added to LisaGraf.
-
 
 In early 1983, soon after the Lisa was announced at the 1983 annual shareholders meeting, Bill switched from working on Lisa system software to writing a killer graphics application for the Macintosh.  Steve Jobs thought that he should work on a structured drawing program, something like Mark Cutter's LisaDraw, but Bill thought that structured drawing was too complex, and wanted to create something that was simple, elegant and fun to use.
 
@@ -31,7 +29,7 @@ In fact, despite the Macintosh's limited memory, he used two offscreen buffers, 
 
 After getting basic updating working well, Bill began to add more tools to the palette.  He added a rectangular selection tool, to allow the user to perform operations on a subset of the document.  The selection rectangle was depicted by inverting the pixels beneath it, which worked well enough over solid areas, but was confusing and hard to see when the underlying image was complex, like a digitized picture.  Bill knew he had to find a better way to do it.
 
- ![](images/Macintosh/hamms_sign_t.jpg)
+![The inspiration for "marching ants"](images/Macintosh/hamms_sign.jpg)
 
 He was thinking about the selection problem one evening when he went to dinner at an old beer and hamburger joint in Los Gatos, the kind of place where decades worth of initials are carved into the wooden tables.  He ordered a beer, looked around the bar, and noticed a Hamm's beer sign. The beer sign featured an impressive animated waterfall, with the water seeming to flow down the waterfall into the lake. Bill figured out the animation was accomplished by a mask layer moving beneath the surface of the sign that varied which portion of the image was visible below.it.
 
@@ -56,4 +54,3 @@ I was surprised a few days later when Bill told me that he decided to remove the
 MacPaint was essentially finished by October 1983, long before our other key applications.  The last part of finishing MacPaint involved dealing with out of memory problems, since it was really pushing the limits of the 128K Macintosh by using the three, large offscreen buffers.  At the worst case, there was only about 100 bytes free in MacPaint's heap.   Most of the bugs we encountered when running MacPaint turned out to be bugs in the underlying system, which were exposed by running so close to the edge of available memory.
 
 It's interesting to note that MacPaint was a rather small program by today's standards, but I guess that it had to be to run in the Mac's one eighth of a megabyte of memory.  The finished MacPaint consisted of 5,804 lines of Pascal code, augmented by another 2,738 lines of assembly language, which compiled into less than .05 megabytes of executable code.
-
