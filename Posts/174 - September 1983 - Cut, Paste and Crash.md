@@ -16,10 +16,8 @@ summary: We uncover a particularly bad bug shortly after ROM freeze
 * Summary: We uncover a particularly bad bug shortly after ROM freeze
 
 ![The sneaker was used to demo cut and paste](images/Macintosh/sneaker.jpg) 
-
     
 One of the last parts of the Macintosh system software to be finished before freezing the ROM in September 1983 was the "clipboard manager", which was the code responsible for facilitating cutting and pasting information between applications.   The clipboard manager provided some simple calls to access and manipulate the "clipboard", a memory buffer that held the last piece of data that was cut or copied.  The trickiest part of the clipboard manager was the way it managed memory when the user quit an application.
-
 
 The clipboard buffer was typically kept in the primary memory area that was available to an application, known as the "application heap".  But when an application terminated, its application heap was deallocated, before a brand new heap was allocated for the incoming application.   The clipboard manager had to take special measures to preserve the clipboard during this interregnum, when no application heap was available to hold it.
 
@@ -38,4 +36,3 @@ I got off the phone and thought about it.  I was describing the problem to someo
 Once I understood what was going on, it was easy to fix by rounding up the clipboard size to an even number.  Unfortunately, the errant code in question was in ROM, which was already frozen in immutable silicon.  This was the first major bug that I knew of in the ROM and I wondered if we were going to have to spin another version.  But Larry Kenyon had already figured out a sneaky technique to fix ROM bugs, by patching system traps.  We had always figured to replace entire buggy system calls in that fashion, but Larry thought of a finer grain way to do it, by patching the first trap called before or after the problem area.  Basically, we could grab control any time the system was invoked, and then add code to fix problems.  I used Larry's technique to devise a patch that fixed the odd stack problem, and then he helped me incorporate it into the System file, so it was loaded when the system booted.
 
 We made a floppy containing the new System file, which was flown out to the sales presentation with a sales manager who was leaving the next day.  But it took a while for the fixed System to proliferate to everyone, so for the next few weeks I had to brace myself every time that I saw someone about to cut and paste between applications.
-

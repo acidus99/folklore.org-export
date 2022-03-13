@@ -16,14 +16,12 @@ summary: The Mac Team hoists a pirate flag
 * Summary: The Mac Team hoists a pirate flag
 
 ![The pirate flag, as posed for Fortune Magazine in 1984.](images/Macintosh/pirate_flag.jpg) 
-
     
 The Mac team held another off-site retreat in Carmel in January 1983, just after the Lisa introduction (see Credit Where Due).  Steve Jobs began the retreat with three "Sayings from Chairman Jobs", intended to inspire the team and set the tone for the meeting.   The sayings were:
 
-
-            1.  Real artists ship.
-            2.  It's better to be a pirate than join the navy.
-            3.  Mac in a book by 1986.
+1.  Real artists ship.
+2.  It's better to be a pirate than join the navy.
+3.  Mac in a book by 1986.
 
 I think the "pirates" remark addressed the feeling among some of the earlier team members that the Mac group was getting too large and bureaucratic. We had started out as a rebellious skunkworks, much like Apple itself, and Steve wanted us to preserve our original spirit even as we were growing more like the Navy every day.
 
@@ -42,4 +40,3 @@ We weren't sure how everyone would react to the flag, especially Steve Jobs, but
 The flag waved proudly over Bandley 3 for about a month or two, but one morning in late September or early October, I noticed that it was gone.  It turns out that the Lisa team, with whom we had a mostly friendly rivalry, decided it would be fun to steal the flag for themselves.  I think they sent us a ransom note or something, so a few of us stormed over to the Lisa building to retrieve it, which we accomplished, although Capps had to wrestle it from the grasp of one of the secretaries, who was hiding it in her desk.
 
 The flag continued to fly over Bandley 3 for more than a year.  I think it was even photographed for a magazine or two during the Mac introduction.  But suddenly one day it was missing again, and I'm not sure if anyone knows what happened to it.  It would be a great artifact for the Computer History Museum if it ever turns up.
-

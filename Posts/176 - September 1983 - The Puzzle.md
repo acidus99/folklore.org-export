@@ -16,10 +16,8 @@ summary: The puzzle desk accessory became controversial.
 * Summary: The puzzle desk accessory became controversial.
 
 ![The Puzzle desk accessory](images/Macintosh/puzzle-desk-accessory.jpg) 
-
     
 The original Macintosh could only run one real application at a time, but it could also concurrently run little programs called "desk accessories" that shared memory with the main application.  Like the system itself, most of the desk accessories were written in 68000 assembly language, but in the fall of 1982, I decided to write one in Pascal as a proof of concept and to show developers how to do it, by writing a tiny adaptor that the Pascal code linked with.
-
 
 Desk accessories were usually utilities, like the calculator or the alarm clock, but I thought that we should also have a game or two, to show that the Macintosh was fun, too.  I decided to write a "15 number puzzle", where there are fifteen numbered tiles in a four by four space that must be arranged in sequential order.  If you click on a tile next to the empty space, it slides into that space.   It was a fun way to waste time and build up your mouse coordination.
 
@@ -34,4 +32,3 @@ I liked the puzzle and I didn't want to capitulate to the buttoned-down, all bus
 Jerome thought about it, and then told me if I could get it down to 600 bytes or so, it would be in the release.  The only problem was I had to get it done over the weekend, because they had to send the manuals out to the printer soon, and there was plenty of other stuff for me to work on.
 
 Of course, I couldn't resist a challenge like that.  It only took a few hours on Saturday to recode it in assembly language, and get it down to the required 600 bytes, since it no longer had to link with the bulky Pascal code.  I proudly showed it off to everyone on Monday, and it did make it into the first release, and stayed there for many years, although it was completely rewritten a couple of times, for various reasons.
-
