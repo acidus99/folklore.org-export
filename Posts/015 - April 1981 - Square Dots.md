@@ -17,9 +17,7 @@ summary: The Lisa had a different screen resolution than the Macintosh
 
 ![The Apple Lisa](images/Macintosh/lisa.jpg) 
 
-    
 From the very beginning, even before it had a mouse, the Lisa was designed to be an office machine, and word processing was considered to be its most important application.  In the late seventies, the acid test for an office computer (as compared with a hobby computer) was the ability to display 80 columns of text.
-
 
 The Lisa team decided to optimize their display for horizontal resolution, in order to be able to display 80 columns of text in an attractive font. The vertical resolution wasn't as important, because vertical scrolling works much better for text than horizontal scrolling.  The designers decided to endow Lisa with twice as much horizontal resolution as vertical, using a 720 by 360 pixel display, with pixels that were twice as high as they were wide. This was great for text oriented applications like the word processor, but it made things somewhat awkward for the more graphical applications.
 
@@ -32,4 +30,3 @@ The Lisa hardware was scheduled to go through a final round of design tweaks, an
 Wayne Rosing led a delegation of his top hardware and software guys over to Texaco Towers for a demo on a Monday afternoon, including hardware guys Rich Page and Paul Baker and software manager Bruce Daniels.  We ran various graphics demos, with Bill Atkinson doing the talking, and then Burrell gave a presentation on the Mac design, and his ideas for scaling it up to 768 by 512 display. Everyone seemed pretty impressed and Bill was optimistic that they would make the change.
 
 After a few days, Bill told us the disappointing news that Wayne had decided that there wasn't enough time to embark on such a radical redesign, since at that point the Lisa was scheduled to ship in less than a year.  It ended up shipping around two years later with the original 720 by 360 resolution and relatively slow microprocessor, which became a problem when Apple decided to offer a Macintosh compatibility mode for Lisa in 1984. The emulation software didn't try to compensate for the different resolutions, so the applications were distorted by the resolution disparity, almost like looking at a fun-house mirror.   It would have continued to be a problem for Apple if the Lisa hadn't been discontinued in 1985.
-

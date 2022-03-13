@@ -16,7 +16,6 @@ summary: The design of the Macintosh case
 * Summary: The design of the Macintosh case
 
 ![The original Macintosh industrial design](images/Macintosh/macintosh_case.jpg) 
-
     
 In March 1981, I had been working on the Mac team for only a month.  I was used to coming back to the office after dinner and working for a few hours in the evening.  Even though many of the early Mac team members usually worked late, and we often went out to dinner together, I was by myself one evening when I returned to Texaco Towers after dinner around 8pm.  As soon as I entered the building, I heard loud voices emanating from Bud's office, which was adjacent to mine, apparently engaged in a spirited discussion.
 

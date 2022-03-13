@@ -16,10 +16,8 @@ summary: My first job on the Macintosh project
 * Summary: My first job on the Macintosh project
 
 ![An Apple II Disk Drive](images/Macintosh/disk2.gif) 
-
     
 My very first job on the Mac project was to help Burrell Smith and Brian Howard verify that the disk controller was working properly. They had just wired up a Woz-style disk controller to the Macintosh prototype, but they had no way to test if it was working properly without writing a fairly complicated program.
-
 
 When I arrived on the scene, they were trying to debug a small 68000 routine that they had written together.  They had written a simple loop to access the disk controller and were watching it execute with a logic analyzer.  But neither of them were much of a programmer, so I was able to help right away, even though I had never programmed the 68000 before.
 
@@ -40,4 +38,3 @@ So I spent a couple of days writing the basic routines, and then sat down with B
 I expected to feel elated when I finally got the disk reading and writing, but it didn't feel that satisfying, because you couldn't really see it in action.  The previous year, soon after Woz wrote his one-to-one interleave read routines, I made some fast slideshow disks for the Apple II, where the screen was filled with a new image in less than a second, twice as fast as previously possible.  I thought it would be fun to use the new disk routines to read the slideshow disks on the Mac.
 
 By this time, it was around 7pm and everyone else was going out to dinner.  I was invited to come, but I was so close to getting the slideshow working, that I didn't think that I could concentrate on eating until I got it done.  I was alone in the office when I finally got it working, the embryonic Mac reading and displaying images from an Apple II disc as fast as possible.  It was far and away the coolest thing a Mac could do so far.  It was fun to show it to everyone when they came back from dinner.
-

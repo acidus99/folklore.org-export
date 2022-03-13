@@ -16,10 +16,8 @@ summary: Various demos showed off what the hardware could do
 * Summary: Various demos showed off what the hardware could do
 
 ![Early Finder Prototype from Feb 1982](images/Macintosh/microfinder.jpg) 
-
     
 The first demo program for the 68000-based Macintosh was written by Bud Tribble, as part of the original boot ROM.  It filled the screen with the word 'hello' in tiny letters, more than a hundred times.  When the Mac was switched on, it performed some hardware diagnostics, filled the screen with 'hello', and then listened to its serial ports for commands to execute.  The 'hellos' told us that everything was working OK.
-
 
 The boot ROM allowed us to download other programs from the Lisa to the Mac over a serial line, to try out new code and test or demo the prototype.  There was a ton of work to do: writing an operating system, hooking up the keyboard and mouse, getting Bill's graphics and UI routines running, and many other tasks, but we also sometimes just did things for fun.
 
@@ -36,4 +34,3 @@ In June 1981, we realized that it would be worthwhile to create a stand-alone de
 In the Lisa Monitor environment, it was easy for us to run QuickDraw-based programs.  Soon, we had a Window Manager demo, featuring balls bouncing in multiple windows (see Bouncing Pepsis), as well as a nice icon editor and MacSketch, an early ancestor of MacPaint going.
 
 I think the most interesting early demo was an early prototype for the Finder, written by Bruce Horn and myself in the spring of 1982, and pictured above.  Its window was filled with an image of a floppy disc, over which the files were represented as draggable tabs.  You could select files and perform operations on them by selecting them and then clicking on command button.  Bruce also made a second mock-up, with folder icons, which influenced Bill's design for Lisa's Filer (see Rosing's Rascals), which we eventually adopted instead.  It provides an interesting glimpse of possibilities that we might have chosen instead of what seems so familiar today.
-

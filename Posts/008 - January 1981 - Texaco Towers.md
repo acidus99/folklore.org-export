@@ -16,10 +16,8 @@ summary: The office where the Mac became real
 * Summary: The office where the Mac became real
 
 ![](images/Macintosh/texaco.jpg) 
-
     
 The main Apple buildings on Bandley Drive in Cupertino had boring numerical appellations (Bandley 1, Bandley 3, etc.), but from the beginning the Lisa team gave the buildings they inhabited more interesting names.  The original office for the Lisa team was adjacent to a Good Earth restaurant (in fact, it was Apple's original office in Cupertino), so it was called the "Good Earth" building.  When the team grew larger and took over two nearby office suites, they were designated "Scorched Earth" (because it housed the hardware engineers, who were all smokers) and "Salt of the Earth".
-
 
 When the Lisa team became a separate division in 1980, they moved to a larger, two-story office building a block or two away from the main building on Bandley Drive.  Everyone was so impressed at having two stories (all the other Apple buildings were single story) that the building was dubbed "Taco Towers", although I'm not sure where the "Taco" part came from.
 
@@ -38,4 +36,3 @@ Burell and I liked to have lunch at Cicero's Pizza, which was an old Cupertino r
 In May of 1981, Steve complained that our offices didn't seem lively enough, and gave me permission to buy a portable stereo system for the office at Apple's expense.  Burrell and I ran out and bought a silver, cassette-based boom box right away, before he could change his mind.   After that we usually played cassette tapes at night or on the weekends when there was nobody around that it would bother.
 
 By early 1982, the Mac team was overflowing Texaco Towers and it was obvious that we'd have to move to larger quarters soon.   Steve decided to move the team back to the main Apple campus, into Bandley 4, which had enough space for more than 50 people.   The 68000 based Macintosh was born in the Good Earth building, but I still think of Texaco Towers as the place where it came of age, transitioning from a promising research project into a real, world-changing commercial product.
-
