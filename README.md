@@ -10,6 +10,7 @@ Folklore.org is an unique source of incredible first hand content about Apple. U
 
 * Does not have a mobile friendly layout
 * Missing images
+* Low res-thumbnails used in articles, requiring links out to high resolution ones
 * Broken links
 * CMS issues (posts 32-51 and 53-132 don't exist, breaking paging and navigation)
 * Table-based layouts with complex and obtuse HTML markup.
