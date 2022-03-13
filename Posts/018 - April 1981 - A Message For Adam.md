@@ -16,10 +16,8 @@ summary: We encounter Adam Osborne at the West Coast Computer Faire
 * Summary: We encounter Adam Osborne at the West Coast Computer Faire
 
 ![The Osborne 1 portable computer](images/Macintosh/osborne1.jpg) 
-
     
 The Apple II was officially introduced at the First West Coast Computer Faire in April 1977, one of the very first trade shows dedicated to the newly emerging microcomputing industry.  I loved the Computer Faires because they were attended by passionate hobbyists in the days before commercial forces completely dominated.
-
 
 In April 1981, a few members of the Mac team took off the afternoon and drove up to San Francisco to visit the sixth West Coast Computer Faire at Brooks Hall. The biggest splash at the show was the unveiling of the Osborne I, from a brand new company named Osborne Computer, which was touted as the world's first portable computer.
 
@@ -44,4 +42,3 @@ The secretary informed Steve that Mr. Osborne was not available, and would not b
 "Yes", Steve replied.  He paused for a second.  "Here's my message.  Tell Adam he's an asshole."
 
 There was a long delay, as the secretary tried to figure out how to respond.  Steve continued, "One more thing.  I hear that Adam's curious about the Macintosh.  Tell him that the Macintosh is so good that he's probably going to buy a few for his children even though it put his company out of business!"
-
