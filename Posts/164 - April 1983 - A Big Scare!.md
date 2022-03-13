@@ -16,10 +16,8 @@ summary: A visit to the Lisa offices by former Governor Jerry Brown
 * Summary: A visit to the Lisa offices by former Governor Jerry Brown
 
 ![Apple Appoints New CEO?](images/Macintosh/jbrown.jpg) 
-
     
 On April 8th of 1983, Steve Jobs came by the Lisa offices on Bandley Drive with the former governor of California, Jerry Brown, in tow. I had just arrived at the office, with a full day of work already scheduled, but had to drop everything when Steve asked me to brief Brown on the Lisa and to give him a tour of the offices.
-
 
 Al Mandel and I spent an hour or so with Jerry in the Lisa "Sneak Roomâ€ (a very well designed multimedia, executive briefing facility), giving him demonstrations and encouraging him to try some stuff himself. As I recall we even took apart a Lisa to show him the hardware architecture. He was trying to feign interest but his mind was off somewhere else (as it often was during his tenure as Governor).
 
@@ -30,4 +28,3 @@ As soon as I went back in the Bandley Lobby I discovered the source of the bewil
 And, looking back, at that time in Apple's history this scenario was actually very plausible...
 
 As it turns out the Apple rumor mill was correct. Later that day John Sculley was announced as the new CEO of Apple. But that's another story for another time.
-
