@@ -15,7 +15,7 @@ summary: How the hand and the mouse came together!
 * Characters: 
 * Summary: How the hand and the mouse came together!
 
-![Early MacWorld cover, Dec 84(click to enlarge)](images/Macintosh/MacWorldDec84_t.jpg) 
+![Early MacWorld cover, Dec 84(click to enlarge)](images/Macintosh/MacWorldDec84.jpg) 
 
     
 In the mid '70s, I became San Francisco's first professional male hand model.  That's a whole other story in itself.  But for three or four years, there were no others in the field and I built a nice (and profitable) reputation, shooting hand shots for all manner of products and companies.

@@ -23,7 +23,7 @@ Most of the Macintosh software team members were between twenty and thirty years
 
 The rest of the Macintosh team, which had now swelled to almost a hundred people, nearing the limit that Steve Jobs swore we would never exceed, tended to work more traditional hours, but as our deadline loomed, many of them began to stay late as well to help us test the software during evening testing marathons.  Food was brought in as a majority of the team stayed late to help put the software through its paces, competing to see who could find the most bugs, of which there were still plenty, even as the weeks wore on.
 
-![](images/Macintosh/90_hours_t.jpg)
+![](images/Macintosh/90_hours.jpg)
 
 Debi Coleman's finance team decided to commemorate the effort that the entire team was putting forth in the traditional Silicon Valley manner:  they made a T-Shirt.  Actually, to make it a little more special, they chose a high quality, gray hooded sweatshirt.   Steve Jobs had recently bragged to the press that the Macintosh team was working "90 hours a week".   They decided that the tag line for the sweatshirt should be "90 Hours A Week And Loving It", in honor of Steve's exaggerated assertion.
 

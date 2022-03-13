@@ -25,7 +25,7 @@ The absolute deadline for finishing the software was when the factory opened at 
 
 I came into work later than usual, around noon, since I had been at Apple until 3am the previous evening, and I wanted to get one decent night's sleep before the final push.  As I went to sit down, I noticed that a handwritten note had been placed on my chair.  It was from our software librarian, Patti King, who had taken a message from Steve Jobs' secretary, Lynn Takahashi.
 
-![](images/Macintosh/jagger_note_t.jpg)
+![](images/Macintosh/jagger_note.jpg)
 
 "Andy -  Steve J. called - we can deliver a Mac to Mick Jagger tomorrow.  You can fly out to meet them by tomorrow noon and bring lots of neat software.  If you can come, make arrangements for the trip through Lynn. Steve will call back in a couple of hours, also, he'll be at the Carlyle Hotel tomorrow."
 

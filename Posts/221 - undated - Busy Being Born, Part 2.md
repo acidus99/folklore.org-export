@@ -20,7 +20,7 @@ Bill Atkinson had the foresight to document the creation of the Lisa User Interf
 
 You can click on an image to see a larger version of it, and use the back button to return to the story. 
 
-<center><img src="images/Macintosh/pattern_menu_t.jpg">
+<center><img src="images/Macintosh/pattern_menu.jpg">
 
 </center>  
 
@@ -34,7 +34,7 @@ Xerox aficionados will note the use of Cream 12 as our first system font, which 
 
 In April, I had written some screen printing code, that dumped whatever was on the display out the serial port to a dot matrix printer.  Since the Mac screen was rather small, I added a feature to print it at double size, so it mostly filled a page.   I used that to print the display of Bud's demo, with the impressive graphical pattern menu pulled down, on the very day that Bud got it working, and that's what is reproduced above.
 
-<center><img src="images/Macintosh/diskettefinder_t.jpg">
+<center><img src="images/Macintosh/diskettefinder.jpg">
 
 </center>  
 
@@ -44,7 +44,7 @@ Bruce came up with the idea of representing files as small tabs superimposed on 
 
 After the micro-finder, Bruce also worked on another prototype that included folders in a two-pane view (Bruce thinks he can eventually dig up a picture of it; if he does I'll include it here).  Meanwhile, Bill Atkinson was crafting an icon-based file manager prototype for Lisa (see Rosing's Rascals), and eventually we decided to follow that direction for the Macintosh.
 
-<center><img src="images/Macintosh/early_macpaint_t.jpg">
+<center><img src="images/Macintosh/early_macpaint.jpg">
 
 </center>  
 
@@ -59,13 +59,13 @@ It's interesting to note the window highlighting decorations, which are quite di
 
 The featured MacPaint document was drawn late one night by Steve Capps, to celebrate one of our ROM releases;  he also saved and scanned the document for inclusion here.
 
-![](images/Macintosh/bomb_icon_t.jpg)
+![](images/Macintosh/bomb_icon.jpg)
 
 
-![](images/Macintosh/happy_mac_t.jpg)
+![](images/Macintosh/happy_mac.jpg)
 
 
-![](images/Macintosh/sad_mac_t.jpg)
+![](images/Macintosh/sad_mac.jpg)
 
 
 

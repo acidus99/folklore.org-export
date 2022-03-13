@@ -39,7 +39,7 @@ Everyone agreed that we should get Capps a Mac prototype right away.  I accompan
 
 Two days later, Capps came over to present us with a floppy disk containing the newly ported Alice game, now running on the Macintosh.  It ran even better on the Mac than the Lisa, since the Mac's faster processor enabled smoother animation.  Pretty soon, almost everybody on the software team was playing Alice for hours at a time.  
 
-![Alice's packaging](images/Macintosh/alice_book_t.jpg)
+![Alice's packaging](images/Macintosh/alice_book.jpg)
 
 Within a few weeks, I must have played hundreds of games of Alice, but the most prolific and accomplished player was Joanna Hoffman, the Mac's first marketing person.  Joanna liked to come over to the software area toward the end of the day to see what was new, and now she usually ended up playing Alice for longer and longer periods.  She had a natural talent for the game, and enjoyed relieving work-related stress by knocking out the rival chess pieces.  She complained about the game being too easy, so Capps obliged by tweaking various parameters to keep it challenging for her, which was probably a mistake, since it made the game much too hard for average players.
 
@@ -53,12 +53,12 @@ One day he showed me Alice's hidden "Cheshire Cat" menu, which allowed you to ad
 
 Over time, he added some interesting variations, invoked by clicking on various parts of the Cheshire Cat.  For example, one variation made some of the squares of the chessboard disappear at random, causing unlucky pieces to fall through to oblivion below.  He also added a feature that Woz suggested:  as the cursor moved to the back of the board, its image got correspondingly smaller, adding to the illusion of depth.
 
-![Alice's packaging's interior](images/Macintosh/alice_book_2_t.jpg)
+![Alice's packaging's interior](images/Macintosh/alice_book_2.jpg)
 
 By the fall of 1983, Capps started thinking about the best way to get Alice to market.  One possibility was publishing it through Electronic Arts, which was founded a year earlier by Trip Hawkins, Lisa's former marketing manager.   But Steve Jobs thought that the game at least partially belonged to Apple, and insisted that Apple be the publisher.  He negotiated a modest deal with Capps, promising him that Apple would do a deluxe job with the packaging and marketing.
 
   
-![hidden DK logo](images/Macintosh/alicedk_t.jpg)
+![hidden DK logo](images/Macintosh/alicedk.jpg)
 
 Alice was announced at the launch and featured in the original brochure, but it didn't became available until a couple of months later.  True to Steve's word, the packaging was beautiful.  The game disk was enclosed in a small cardboard box designed to look like a finely printed, old fashioned book, complete with an elaborate woodcut on the cover, that contained a hidden Dead Kennedy's logo, in tribute to one of Capp's favorite bands.  Since Alice didn't take up the whole disk, Capps including a few other goodies with it, including a font and "Amazing", a fascinating maze generating program that he wrote.
 

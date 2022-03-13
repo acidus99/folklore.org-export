@@ -23,7 +23,7 @@ Susan started working on icons for the Finder, but she also would draw lots of o
 
 Icons were only 32 by 32 black or white pixels, 1024 dots in total, and I didn't think it was possible to do a very good portrait in that tiny a space, but somehow Susan had succeeded in crafting an instantly recognizable likeness with a mischevious grin that captured a lot of Steve's personality.  Everyone she showed it to liked it, even Steve himself.
 
-![Bill Atkinson icon by Susan Kare](images/Macintosh/billicon_t.jpg)
+![Bill Atkinson icon by Susan Kare](images/Macintosh/billicon.jpg)
 
 Bill Atkinson was so impressed with the Steve icon that he asked Susan to do one of him, that he could use in the MacPaint about box.  He sat in Susan's cubicle for an hour or so, chatting with her while she crafted his icon. I don't think it turned out quite as good as the Steve icon, but it certainly was an unmistakable likeness, and did become part of MacPaint.
 

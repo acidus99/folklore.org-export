@@ -44,7 +44,7 @@ Later in 1981 we brought Colette Askeland over from the Apple-II/III division to
 
 **Macintosh Schematics**
 
-![](images/Macintosh/schematic_t.jpg)
+![](images/Macintosh/schematic.jpg)
 
 The Macintosh schematics were drawn by Dave Root (I think) in the CAD group, under the direction of lead mechanical designer Jerry Manock. Following industry practice, the set of official Mac schematics comprised something like 3 or 4 large 'D' size drawings, with many signals crossing from one page to the other and back again. As the Mac electrical design became frozen in early 1983 I was thinking we needed a simplified condensed schematic, a one-page version that could be reduced and hung on the wall when troubleshooting the logic board. Since so much of the Mac architecture was incorporated in PALs and every input and output of a PAL has a name, it occurred to me to make a new kind of hybrid schematic, where the signal paths were not actually drawn (except in a few cases), but there's a name for every input and output of every chip on the board. This would be a hybrid of the assembly drawing, which shows every part in its actual location and orientation on the board, and the schematic, which shows what connects to what. 
 

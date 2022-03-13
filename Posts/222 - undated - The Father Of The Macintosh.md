@@ -22,7 +22,7 @@ By the 1980s, things had gotten more complicated.  The Macintosh was more of a t
 
 But if you look up the phrase "Father of the Macintosh" on Google, you get lots of links mentioning the initiator of the project,  Jef Raskin.  Jef was a former professor at UCSD (of both computer science and music) who started at Apple in January 1978 as Apple employee #31, after contracting to write Apple's manual for Basic with his friend Brian Howard, at their consulting firm named Bannister and Crun (a playful name appropriated from the Goon Show).  Apple liked the Basic manual so much that they hired Jef and Brian to be founders of their internal publications group.
  
-![](images/Macintosh/jef_t.jpg)
+![](images/Macintosh/jef.jpg)
 
  In early 1979, after successfully building an outstanding pubs department, Jef turned the reins over to Phyllis Cole and started thinking about what it would take for personal computers to expand beyond the current hobbyist market, writing up his ideas in a series of short papers.  He presented his idea for an ultra low cost, easy to use appliance computer to Mike Markkula in March 1979, and got the go-ahead to hire a few people and form an official research project later in September 1979, naming it Macintosh, after his favorite kind of eating apple.  Most of his ideas for the new machine were collected in a set of papers he called "The Book of Macintosh".
 

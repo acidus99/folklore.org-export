@@ -127,7 +127,7 @@ I didn't seem to have any alternative but to capitulate to Steve's price setting
 
 Getting Switcher going wasn't that hard, but it was a very difficult program to finish, because it overturned some of the underlying assumptions that applications were making, yet it was committed to keeping everything working anyway.  Much of the work in the latter stages involved testing it with every application that I could get my hands on and debugging crashes.  Usually I could concoct some kind of technique that would mitigate the problem without causing worse problems elsewhere.
 
-![](images/Macintosh/gates_letter_t.jpg)
+![](images/Macintosh/gates_letter.jpg)
 
 Predictably, the hardest part of finishing Switcher was making it work smoothly with the Microsoft applications.  That was partially because Microsoft was a very early developer, and took liberties with the system that most developers would shy away from, but it was mostly because the instructions comprising their applications were encoded in pseudo-code to save space, in the tradition of the byte-code interpreters from Xerox, which Charles Simonyi advocated.
 

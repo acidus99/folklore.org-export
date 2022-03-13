@@ -23,7 +23,7 @@ The Mac team had a complicated set of motivations, but the most unique ingredien
 
 Since the Macintosh team were artists, it was only appropriate that we sign our work.  Steve came up with the awesome idea of having each team member's signature engraved on the hard tool that molded the plastic case, so our signatures would appear inside the case of every Mac that rolled off the production line.  Most customers would never see them, since you needed a special tool to look inside, but we would take pride in knowing that our names were in there, even if no one else knew.
 
-![](images/Macintosh/signatures1_t.jpg)
+![](images/Macintosh/signatures1.jpg)
 
 We held a special signing party after one of our weekly meetings on February 10, 1982. Jerry Mannock, the manager of the industrial design team,  spread out a large piece of drafting paper on the table to capture our signatures.  Steve gave a little speech about artists signing their work, and then cake and champagne were served as he called each team member to step forward and sign their name for posterity.  Burrell had the symbolic honor of going first, followed by members of the software team.  It took forty minutes or so for around thirty-five team members to sign. Steve waited until last, when he picked a spot near the upper center and signed his name with a flourish.
 

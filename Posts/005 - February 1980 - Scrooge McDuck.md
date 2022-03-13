@@ -23,7 +23,7 @@ I went out to lunch with Burrell a few weeks later and, knowing my appreciation 
 
 By now, Burrell thought that he had the graphics running properly, but he wasn't really sure; he still needed to write some software to try it out.  I told him that I'd look into it when I had some time. He gave me a copy of a handwritten page that contained the magic addresses that I'd have to use, hoping that I'd get around to it soon.
 
-![](images/Macintosh/burrelldma_t.jpg)
+![](images/Macintosh/burrelldma.jpg)
 
 I was used to coming back to the lab at Apple after dinner, to see if anything interesting was going on and working on various extra-curricular projects.  I had some spare time that night, so I got out Burrell's instructions and wrote an Apple II (6502) assembly language routine to do the necessary bit-twiddling to transfer whatever was on the Apple II's hi-res graphic display to the Mac prototype's frame-buffer, using Burrell's unusual synchronization scheme.
 

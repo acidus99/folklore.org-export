@@ -22,7 +22,7 @@ The product manager, Dan Cochran, oversaw Inside Mac through its production into
 
 The hardcover edition was actually in hand by the end of November 1985 - but not in my hands: I was told I couldn't see it until a celebratory event that was scheduled for December 4. People at Apple aren't usually big on formalities, but I could understand wanting to make a ceremony of this occasion. I was delighted to see that one of the three pixelated Mac images on the printed invitation to the event showed a red rose on its screen. I was often called "C. Rose" by others on the team, and I made no secret of how much I liked (and identified with) that flower. Seeing the rose on the invitation brought a big smile to my face.
 
- ![](images/Macintosh/InsideMacInvite_t.jpg)
+ ![](images/Macintosh/InsideMacInvite.jpg)
 
 
 
@@ -30,5 +30,5 @@ The event started with a few words about the Inside Mac effort, followed by a pr
 
 Upon opening the book, I saw that a row of Macs like the one on the plaque had been printed on the reverse of the front cover, all along the bottom, as well as on both sides of a stiff sheet inserted before the title page. As I began to thumb through the book, the others around me seemed impatient, and finally asked me to turn to the inside of the back cover; not surprisingly, the now-familiar row of Macs appeared there and on the sheet inserted before it. Then they asked me to lift up the dust jacket so I could see the last couple of Macs in the row, and that was when I saw it: a rose in the last Mac. Seeing *that* rose brought tears to my eyes, and made it a day - and a tribute - I would always remember. (I also received a small rhododendron bush from Dan, which is now flourishing in front of my house, so every Spring I have real flowers as an additional reminder.)
 
-![](images/Macintosh/InsideMacRose_t.jpg)
+![](images/Macintosh/InsideMacRose.jpg)
 

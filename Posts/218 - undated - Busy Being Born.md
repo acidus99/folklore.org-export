@@ -22,7 +22,7 @@ Fortunately, the main developer of the user interface, Bill Atkinson, was an avi
 
 The images are scaled so they easily fit onto a typical screen, but you can click on them for larger versions that show more detail.
 
-![](images/Macintosh/polaroids/polaroids.1_t.jpg)
+![](images/Macintosh/polaroids/polaroids.1.jpg)
 
 
 
@@ -30,7 +30,7 @@ The first picture in Bill's notebook is from Bill's previous project, just befor
 
 The center and right photos, from the spring of 1979, were rendered on the actual Lisa Display system, featuring the 720 by 360 resolution that remained constant all the way through to the shipping product.  No Lisa existed yet;  these were done on a wired wrapped prototype card for the Apple II.   The middle picture shows the very first characters ever displayed on a Lisa screen; note the variable-width characters.  The rightmost picture has more proportional text, about the Lisa display system, rendered in a font that Bill designed by hand.
 
-![](images/Macintosh/polaroids/polaroids.2_t.jpg)
+![](images/Macintosh/polaroids/polaroids.2.jpg)
 
 
 
@@ -38,25 +38,25 @@ The leftmost picture illustrates the first graphics primitives that Bill wrote f
 
 The middle picture depicts the initial user interface of the Lisa, based on a row of "soft-keys", drawn at the bottom of the screen, that would change as a user performed a task.  These were inspired from work done at HP, where some of the early Lisa designers hailed from.
 
-![](images/Macintosh/polaroids/polaroids.3_t.jpg)
+![](images/Macintosh/polaroids/polaroids.3.jpg)
 
 
 
 Here are some more demos of the initial graphics routines.  Bill made line-drawing blindingly fast with an algorithm that plotted "slabs" of multiple pixels in a single memory access.  The rightmost picture shows how non-rectangular areas could be filled with patterns, too.
 
-![](images/Macintosh/polaroids/polaroids.6_t.jpg)
+![](images/Macintosh/polaroids/polaroids.6.jpg)
 
 
 
 Here are some scanned images, showing off Lisa's impressive resolution for the time, which Bill scanned using a modified fax machine.  He was always tweaking the half-toning algorithm, which mapped gray scales into patterns of monochrome dots.  Bill had made versions of these for the Apple II that Apple distributed on demo disks, but these higher resolution Lisa versions were much more impressive.
 
-![](images/Macintosh/polaroids/polaroids.7_t.jpg)
+![](images/Macintosh/polaroids/polaroids.7.jpg)
 
 
 
 The left and middle pictures show off the first sketch program, an early ancestor of MacPaint, that allowed mouse-based drawing with patterns and a variety of brush shapes.  I think these are perhaps a bit out of sequence, done in early 1980.   The rightmost picture shows the final soft-key based UI, which is about to change radically...
 
-![](images/Macintosh/polaroids/polaroids.8_t.jpg)
+![](images/Macintosh/polaroids/polaroids.8.jpg)
 
 
 
@@ -64,7 +64,7 @@ The left and middle pictures show off the first sketch program, an early ancesto
 
 The leftmost picture shows different fonts in overlapping windows, but we didn't have a window manager yet, so they couldn't be dragged around.  The middle window shows the first pop-up menu, which looks just like SmallTalk, as does the simple, black title bar.  The rightmost picture shows that we hadn't given up on the soft-keys yet.
 
-![](images/Macintosh/polaroids/polaroids.9_t.jpg)
+![](images/Macintosh/polaroids/polaroids.9.jpg)
 
 
 
@@ -72,7 +72,7 @@ By now, it's the spring of 1980 and things are starting to happen fast.   The le
 
 The middle picture shows the very first scroll bar, on the left instead of the right, before the arrow scroll buttons were added.  It also has a folder-tab style title bar, which would persist for a while before being dropped (Bill says that at that point, he was confusing documents and folders).  The right most photo shows that we adopted the inverse selection method of text highlighting.
 
-![](images/Macintosh/polaroids/polaroids.10_t.jpg)
+![](images/Macintosh/polaroids/polaroids.10.jpg)
 
 
 
@@ -82,13 +82,13 @@ The next picture shows that we dropped the proportional scroll box for a simpler
 
 The right most picture shows Bill playing around with splines, which are curves defined by a few draggable control points.  QuickDraw didn't end up using splines, but the picture is still notable for the first appearance of the "knobbie" (a small, draggable, rectangular affordance for a point).
 
-![](images/Macintosh/polaroids/polaroids.11_t.jpg)
+![](images/Macintosh/polaroids/polaroids.11.jpg)
 
 
 
 By now, it's the fall of 1980.  The middle picture shows us experimenting with opened and closed windows, which was eventually dropped (but it made a comeback in the 1990s and is in most systems today one way or another).  The right most picture shows the first window resizing, by dragging a gray outline, although it's not clear how resizing was initiated.
 
-![](images/Macintosh/polaroids/polaroids.12_t.jpg)
+![](images/Macintosh/polaroids/polaroids.12.jpg)
 
 
 
@@ -96,55 +96,55 @@ The middle picture shows that windows can be repositioned by dragging a gray out
 
 The right most picture shows the first appearance of pull-down menus, with a menu bar at the top of the window instead of the top of the screen, which is the way Windows still does things.   By this point, we also gave up on using a single scroll bar for both horizontal and vertical scrolling; it's looking very much like what the Mac shipped with in 1984 now.
 
-![](images/Macintosh/polaroids/polaroids.13_t.jpg)
+![](images/Macintosh/polaroids/polaroids.13.jpg)
 
 
 
 This set of pictures illustrates the Lisa desktop, circa the end of 1980, with a tab-shaped title, followed by a menu bar attached to the window.  Windows could be reduced to tabs on the desktop.   We've also changed the name of the clipboard to "the scrap", an old typesetting term.
 
-![](images/Macintosh/polaroids/polaroids.14_t.jpg)
+![](images/Macintosh/polaroids/polaroids.14.jpg)
 
 
 
 The leftmost picture mentions the first use of double-click, to open and close windows.  The middle picture represents a real breakthrough, by putting the menu bar at the top of the screen instead of the top of each window.  The menu bar contains the menus of the "active folder", which is the topmost window.  By this point, the grow icon found its way to the bottom right, at the intersection of the horizontal and vertical scrollbars, which stuck.   This is the first picture which is really recognizable as the shipping Macintosh.
 
-![](images/Macintosh/polaroids/polaroids.15_t.jpg)
+![](images/Macintosh/polaroids/polaroids.15.jpg)
 
 
 
 By now, it's early 1981, and things are beginning to shape up.  The leftmost picture shows a window with scrollbars that look a lot like the ones that shipped.   The middle folder illustrates split views, which were used by Lisa's spreadsheet application.   The rightmost picture contains the first appearance of a dialog box, which at the time ran the entire length of the screen, just below the menu bar.
 
-![](images/Macintosh/polaroids/polaroids.16_t.jpg)
+![](images/Macintosh/polaroids/polaroids.16.jpg)
 
 
 
 Now that the basic window structure was stabilizing, Bill turned his attention back to the graphics routines.   He worked more on the Sketch program (the forerunner of MacPaint); the snowman drawing on the left is a clue that it's now Winter 1981.   He added algorithmic text styles to the graphics, adding styles of bold (pictured on the right), as well as italic, outline and shadow (Bill took pictures of the other styles which I'm omitting to save space).
 
-![](images/Macintosh/polaroids/polaroids.18_t.jpg)
+![](images/Macintosh/polaroids/polaroids.18.jpg)
 
 
 
 Bud Tribble was living at Bill's house now, and tended to sleep during the day and work all night, so Bill drew the  phase diagram diagram on the left with the sketch program.   The middle picture shows fast ovals, which were added to LisaGraf as a basic type in Spring 1981, using a clever algorithm that didn't require multiplication.  They were quickly followed by rectangles with rounded corners, or "roundrects", illustrated on the right, which were suggested by Steve Jobs (see Round Rects Are Everywhere!).
 
-![](images/Macintosh/polaroids/polaroids.19_t.jpg)
+![](images/Macintosh/polaroids/polaroids.19.jpg)
 
 
 
 By May 1981, the Lisa user interface is beginning to solidify.  The leftmost photo shows scrollable documents of different types in overlapping windows, still sporting folder tabs for titles.   The middle picture shows how roundrects began to creep into various UI elements, like menus, providing a more sophisticated look, especially when combined with drop shadows.   The right most photo shows how menus could be also be graphical, as well as text based. 
 
-![](images/Macintosh/polaroids/polaroids.20_t.jpg)
+![](images/Macintosh/polaroids/polaroids.20.jpg)
 
 
 
 The Lisa team was worried about the closed window tabs being obscured by other windows on the desktop, so Bill added a standard menu on the extreme left called "the tray", that could show and hide opened windows.  The middle and right pictures portray a prototype that Bill created for the Lisa Graphics Editor (which eventually evolved into MacDraw), to demonstrate that modes could sometimes be useful; it was the first program to select modes with a graphical palette, which eventually became the main user interface of MacPaint.
 
-![](images/Macintosh/polaroids/polaroids.23_t.jpg)
+![](images/Macintosh/polaroids/polaroids.23.jpg)
 
 
 
 The last major change in the Lisa User Interface was moving to an icon-based file manager in March 1982.   The leftmost picture was an early mock-up done in the graphics editor, using a two-level hierarchy; selecting an icon in the top pane displays its contents in the bottom one.   By the middle photo, Bill arrived at something very similar to the shipping design, complete with a trash can at the lower right. (see Rosing's Rascals).  Note that the folder tab on windows has disappeared now, replaced by a rectangular title bar that's partially inverted when highlited.
 
-![](images/Macintosh/polaroids/polaroids.27_t.jpg)
+![](images/Macintosh/polaroids/polaroids.27.jpg)
 
 
 

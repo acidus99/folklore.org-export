@@ -71,7 +71,7 @@ The rest of the meeting was an anti-climactic blur, as Steve runs through some m
 
 Every member of the audience was given a copy of the first issue of MacWorld magazine, with Steve on the cover, as they departed.  Most of the Mac team hung around near the stage, congratulating each other, waiting for the crowd to disperse.
 
-![](images/Macintosh/certificate_t.jpg)
+![](images/Macintosh/certificate.jpg)
 
 A little bit later, after we returned to Bandley 3, we were surprised by a large Apple truck that pulled up in the parking lot near the back of the building.  It contained 100 brand new Macintoshes, one for each member of the team, personalized with a little plaque on the back. Steve presented one at a time to each team member with a handshake and a smile as the rest of us stood around cheering.
 
