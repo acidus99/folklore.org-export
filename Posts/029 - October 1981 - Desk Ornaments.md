@@ -16,10 +16,8 @@ summary: A brief history of desk accessories
 * Summary: A brief history of desk accessories
 
 ![Some original Desk Accessories](images/Macintosh/desk_accessories.gif) 
-
     
 One of the first architectural decisions that Bud and I made for the Macintosh system software in the spring of 1981 was that we were only going to try to run one application at a time.  We barely had enough RAM or screen space to do even that, and we thought that we'd benefit from the resultant simplifications.  Besides, multi-tasking was supposed to be Lisa's forte, and we didn't want to usurp all of the reasons for buying a Lisa.
-
 
 Bud Tribble was usually on an even keel, but one afternoon in the fall of 1981 he came into my office, unusually excited. "You know, I've been thinking about it.  Even if we can only run one major application at a time, there's no reason that we can't also have some little miniature applications running in their own windows at the same time."
 
@@ -52,4 +50,3 @@ We needed a way to control various system parameters like the sound volume, or t
 The most controversial part of the Control Panel was the desktop pattern editor, which I had rescued from its earlier stand-alone incarnation.  Users could select from a couple dozen prefabricated desktop patterns or edit their own in fat bits.  It was this latter capability that caused problems, as it was pretty easy to create ugly, abominable patterns.
 
 Bill Atkinson complained to me that it was a mistake to allow users to specify their own desktop patterns, because it was harder to make a nice one than it looked, and led directly to ugly desktops.  But I thought that users should be free to do as they pleased, since it was their desktop, and it was easy to revert to one of the built-in patterns.  Bill cared most about MacPaint, and didn't want a potentially ugly desktop pattern marring his creation.  So he made MacPaint allocate a window that was the size of the screen when it started up, and filled it with the standard 50% gray pattern, making his own desktop covering up the real one,  thus protecting the poor users from their rash esthetic blunders, at least within the friendly confines of MacPaint.
-

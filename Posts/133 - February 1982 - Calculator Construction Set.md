@@ -16,10 +16,8 @@ summary: Chris tries to make a Steve-approved calculator
 * Summary: Chris tries to make a Steve-approved calculator
 
 ![The Calculator](images/Macintosh/calculator.gif) 
-
     
 Chris Espinosa was one of Apple's earliest and youngest employees, who started work for the company at the ripe age of 14.  He left Apple in 1978 to go to college at UC Berkeley, but he continued to do freelance work during the school year, like writing the Apple II Reference Manual, the replacement for the legendary "Red Book".
-
 
 In the summer of 1981, Steve Jobs convinced Chris to drop out of school to come work on the Mac team full time, arguing that he could go back to school anytime, but there'd only be one chance to help shape the Macintosh.   Chris dropped out of school to become the manager of documentation for the Macintosh, starting in August 1981.
 
@@ -36,4 +34,3 @@ So, for a couple of days, Chris would incorporate Steve's suggestions from the p
 The next afternoon, instead of a new iteration of the calculator, Chris unveiled his new approach, which he called "the Steve Jobs Roll Your Own Calculator Construction Set".  Every decision regarding graphical attributes of the calculator were parameterized by pull-down menus.  You could select line thicknesses, button sizes, background patterns, etc.
 
 Steve took a look at the new program, and immediately started fiddling with the parameters.  After trying out alternatives for ten minutes or so, he settled on something that he liked.  When I implemented the calculator UI (Donn Denman did the math semantics) for real a few months later, I used Steve's design, and it remained the standard calculator on the Macintosh for many years, all the way up through OS 9.
-

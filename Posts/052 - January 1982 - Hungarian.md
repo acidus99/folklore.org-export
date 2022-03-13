@@ -16,10 +16,8 @@ summary: A curious style of programming
 * Summary: A curious style of programming
 
 ![Charles Simonyi in the early days](images/Macintosh/simonyi.jpg) 
-
     
 The Macintosh used the same Motorola 68000 microprocessor as its predecessor, the Lisa, and we wanted to leverage as much code written for Lisa as we could.  But most of the Lisa code was written in the Pascal programming language.  Since the Macintosh had much tighter memory constraints, we needed to write most of our system-oriented code in the most efficient way possible, using the native language of the processor, 68000 assembly language.  Even so, we could still use Lisa code by hand translating the Pascal into assembly language.
-
 
 We directly incorporated Quickdraw, Bill Atkinson's amazing bit-mapped graphics package, since it was already written mostly in assembly language.  We also used the Lisa window and menu managers, which we recoded in assembly language from Bill's original Pascal,  reducing the code size by a factor of two or so.  Bill's lovely Pascal code was a model of clarity, so that was relatively easy to accomplish.
 
@@ -40,4 +38,3 @@ The lack of vowels made programs look like they were written in some inscrutable
 Bud decided that it would be too error prone to try to translate the Hungarian memory manager directly into assembly language.  First, he made a pass through it to strip the type prefixes and restore the vowels to all the identifier names, so you could read the code without getting a headache, before adding lots of block comments to explain the purpose of various sub-components.
 
  A few weeks later, when Bud came back to attend one of our first retreats, he brought with him a nicely coded, efficient assembly language version of the memory manager, complete with easy to read variable names, which immediately became a cornerstone of our rapidly evolving Macintosh operating system.
-

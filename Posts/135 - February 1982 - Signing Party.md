@@ -16,10 +16,8 @@ summary: The artists sign their work
 * Summary: The artists sign their work
 
 ![the back side of the Macintosh case](images/Macintosh/signatures.jpg) 
-
     
 The component of the Macintosh hardware that had the longest lead time was the hard tool that molded its distinctive plastic case.  After tweaking the case design for more than six months and building a small production run of 50 units with a soft-tooled case, the final design was ready to go out for hard tooling toward the end of February 1982, so we could meet the ship date that we were aiming for at the time, which was January 1983.
-
 
 The Mac team had a complicated set of motivations, but the most unique ingredient was a strong dose of artistic values.  First and foremost, Steve Jobs thought of himself as an artist, and he encouraged the design team to think of ourselves that way, too.  The goal was never to beat the competition, or to make a lot of money; it was to do the greatest thing possible, or even a little greater.  Steve often reinforced the artistic theme; for example, he took the entire team on a field trip in the spring of 1982 to the Louis Comfort Tiffany museum, because Tiffany was an artist who learned how to mass produce his work.
 
@@ -34,4 +32,3 @@ We were aware that the team was still growing rapidly, and in a few months there
 Over the next few months, a few more signatures of people who weren't on the team at the time of the signing party managed to make it into the case.  For a while Rod Holt held the line, but eventually Bob Belleville, who hired on in April 1982 as the software manager but soon became the overall engineering manager when Rod Holt retired, decided to add his own name.  He also snuck in a few other key people, like marketing manager Mike Murray and original evangelist Mike Boich, who started before he did and who otherwise would have just missed the cut-off.
 
 And then, over time, names gradually began to disappear for practical reasons, as Apple changed the case to make it easier to manufacture.  Some details were changed even before first ship, partially obscuring some of the signatures.   Each time the case was revised, more names were left off, as dictated by the nature of the revision, until a substantial number of them were gone.  I'm not sure which model was the last to have any names at all, but I'm pretty sure that the Macintosh Classic, from the early nineties, didn't have any left.
-

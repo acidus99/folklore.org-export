@@ -17,7 +17,6 @@ summary: The Reality Distortion Field changes Bruce's mind about working at Appl
 
 In the spring of 1981, I was 21, and just about to graduate from Stanford.  I had been working at least part-time (and often fulltime during the summers) at Xerox PARC in the Learning Research Group for the last eight years.  The people at PARC were legendary, and I felt extraordinarily lucky to be able to work with many of them.  It was a tremendous learning experience, and I had had the chance to work on a variety of exciting projects through the years.
 
-
 My most recent project had been the NoteTaker, a portable Smalltalk machine with a bitmap touchscreen display, mouse and keyboard, stereo sound, and dual 8086 processors: one I/O processor which also ran BitBLT (Bitwise BLock Transfer) to draw the graphics, and one emulator processor dedicated to running the Smalltalk bytecode interpreter.  My job was to help out on the bytecode interpreter, to write the I/O processor routines, and to basically keep enough of the NoteTaker prototypes running so that they could be used for demos to management.  The NoteTaker hardware had been created by Doug Fairbairn, a gifted hardware and chip designer who had recently left to start a new company, VLSI Technology, Inc., or VTI.
 
 On that project I had been working closely with Larry Tesler.  Larry was an amazing guy--he had invented the modeless text editing engine for Smalltalk (modeled on his Gypsy editor), and would wear a t-shirt with the slogan "Don't Mode Me In" around the lab.  He also was famous for writing a piece of software that would coordinate flash cards at Stanford football games to provide spectators across the stadium with animated bitmap graphics.  One evening Larry and I went out for dinner to a local pizza parlor on El Camino in Palo Alto.  While we were waiting for the pizza, Larry said, "Bruce, I'm thinking of leaving PARC."
@@ -43,4 +42,3 @@ Steve switched on the Reality Distortion Field full-force.  I met with seemingly
 On Monday I called Doug Fairbairn at VTI and told him I had changed my mind.
 
 I was going to join Apple, where we would change the world with a little computer called the Macintosh.
-

@@ -16,10 +16,8 @@ summary: The creation of resources
 * Summary: The creation of resources
 
 ![Applications contained many resources](images/Macintosh/resources.gif) 
-
     
 Imagine the challenge: designing and implementing a brand new, graphical user interface, operating system, and core applications for a small personal computer to compete with the IBM PC.  That's what we were going to do with the Macintosh.
-
 
 The year was 1981, and I had just graduated from Stanford University.  The past eight years I had spent as much time as possible working in the Learning Research Group at the Xerox Palo Alto Research Center.  PARC was the place where everybody who was anybody in computer science wanted to go work, or at least visit.  And I had just decided to leave PARC to join Apple (see Joining the Mac Group).
 
@@ -64,4 +62,3 @@ We were lucky: it turned out that resources were the answer to quite a few quest
 Almost every piece of data in the Macintosh ended up being touched by the Grand Unified Model.  Even transient data, data being cut and pasted within and between applications, did not escape.  The Scrap Manager labeled each piece of data on the clipboard with a resource type.  In another Mac innovation, multiple pieces of data, each of a different type, could be stored on the clipboard simultaneously, so that applications could have a choice of representation of the same data (for example, storing both plain and styled text).  And since this data could easily be stored on disk in a resource file, we were able to provide cutting and pasting of relatively large chunks of data by writing a temporary file called the Clipboard.  
 
 So, in late 1982, with the Resource Manager finished, more or less, I finally turned my attention back to the Finder (see The Grand Unified Model (2) - The Finder).
-

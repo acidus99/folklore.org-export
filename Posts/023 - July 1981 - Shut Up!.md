@@ -16,10 +16,8 @@ summary: The first time we demoed the Macintosh to Microsoft
 * Summary: The first time we demoed the Macintosh to Microsoft
 
 ![This movie had a scene based on this story](images/Macintosh/pirates.jpg) 
-
     
 Apple had already learned the value of having a thriving third party software market with the Apple II, whose sales increased more than ten-fold when Visicalc, developed by a tiny company called Software Arts, caught on in the business market.  The Macintosh intended to replicate the success of the Apple II as an industry standard platform, so it was very important to bring third party developers into the picture as soon as possible.
-
 
 Microsoft was an obvious choice for one of the first companies for us to talk to.  Both companies were started around the same time during the infancy of the personal computer industry, and they already had a business relationship, since Apple licensed Microsoft's Applesoft Basic for the Apple II.  Bill Gates and Steve Jobs were born in the same year and shared a similar vision for the potential of personal computers.   Each one thought he was smarter than the other one, but Steve generally treated Bill as someone who was slightly inferior, especially in matters of taste and style.  Bill looked down on Steve because he couldn't actually program.
 
@@ -44,4 +42,3 @@ Of course, the Macintosh didn't use any special hardware at all.  It did everyth
 "Shut up!", he yelled as loud as he could, looking directly at me.  He yelled it again, possibly trying to drown me out in case I kept on going.  But I understood what he wanted, changing what I was going to say, "In fact, doing it in software is better anyway".
 
 The rest of the demo went pretty well, and both teams shared their excitement about how the Macintosh was going to take the industry to another level.  We went out to dinner at a fancy restaurant in Los Gatos to celebrate working together, and we agreed to a framework of a deal where we would give them a stand-alone Mac prototype to develop with in the fall.  We were very excited to be working with a third-party company that seemed to understand and appreciate what we were doing.
-
