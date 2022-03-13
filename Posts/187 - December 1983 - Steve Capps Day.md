@@ -16,10 +16,8 @@ summary: We all dress up in honor of Steve Capps
 * Summary: We all dress up in honor of Steve Capps
 
 ![The software team, all dressed up like Capps](images/Macintosh/capps_day_story.jpg) 
-
     
 The Macintosh software finally seemed to be coming together as the fall of 1983 wore on.  The ROMs containing most of the system software were finished, and they seemed to mostly be holding up.  Larry Kenyon devised a clever technique for fixing problems in the ROM by patching the nearest system trap to the problem, with the patch code looking on the stack for the ROM address of the caller, which allowed us to fix problems with tiny, surgical incisions, adding some code snippets here or there, without needing to replace large chunks of the ROM with precious RAM as we had originally envisioned.
-
 
 By the middle of November 1983, MacPaint was already stable enough to ship, even though it was always skirting on the edge of running out of memory if we changed something in the system.  MacWrite still had lots of bugs, but its core functionality seemed to be ready, as long as you weren't pushing memory limits.  The only vital application that seemed like it could delay our target date in mid-January was the Finder, which was the shell application responsible for launching other applications and managing files.
 
@@ -36,4 +34,3 @@ Jerome thought of a unique way for the software team to show our appreciation fo
 I had to go to Macy's to buy a white dress shirt, but I managed to come up with a reasonable fascimile of Capps' attire.  It was hilarious to see everyone else as we gathered in our "fishbowl" office in Bandley 3 the next morning, all dressed in Capps' unique sartorial style.  Even the French and German translators who were visiting us for the month to get European versions underway joined in.  The funniest person was probably Patti Kenyon, who was over 8 months pregnant at the time, wearing an extra large white shirt.
 
 Jerome went to get Capps and Bruce from their enclave, telling them there was an important meeting that required their attendance.  We could hardly hold back the laughter as an unsuspecting Capps walked in, and then we finally cracked up and gave him a round of applause when he realized what was going on.
-

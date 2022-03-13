@@ -16,10 +16,8 @@ summary: The final push to finish the software
 * Summary: The final push to finish the software
 
 ![Chocolate Covered Espresso Beans](images/Macintosh/expresso_beans.gif) 
-
     
 By the fall of 1983, we had committed to announcing and shipping the Macintosh at Apple's next annual shareholder's meeting, to be held on January 24th, 1984.  The failure of the Twiggy disk drive almost caused us to be late (see Quick, Hide In This Closet!), but it seemed like the new Sony 3.5 inch drive solved all of our problems, and the rest of the hardware was ready to go. The Macintosh ROM was frozen in early September and sent out for fabrication.  All that remained was finishing the System Disk, and our two applications, MacWrite and MacPaint.
-
 
 The software team worked hard over the Christmas break of 1983. The Finder still wasn't finished, and there were lots of performance problems, especially when copying files between disks, which seemed interminable.  There was lots of integration testing to do, like cutting and pasting between applications, or applications interacting with desk accessories.  As the New Year rolled around, it was clear that we were running out of time.
 
@@ -46,4 +44,3 @@ We all focused on testing the final release as much as we could until 6am, when 
 The sun had already risen and the software team finally began to scatter and go home to collapse.  We weren't sure if we were finished or not, and it felt really strange to have nothing to do after working for so hard for so long.  Instead of going home, Donn Denman and I sat on a couch in the lobby in a daze and watched the accounting and marketing people trickling into work around 7:30am or so.  We must have been quite a sight; everybody could tell that we had been there all night (actually, I hadn't been home or showered for three days).
 
 Finally, around 8:30 Steve Jobs arrived, and as soon as he saw us he immediately asked if we had made it.  I explained the formatting bug to him, and he thought that it wasn't a show stopper, which meant that we were actually finished.  I finally drove home to Palo Alto around 9am and collapsed on my bed, thinking that I'd sleep for the next day or two.
-

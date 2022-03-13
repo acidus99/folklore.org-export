@@ -16,10 +16,8 @@ summary: Steve confronts Bill Gates about copying the Mac
 * Summary: Steve confronts Bill Gates about copying the Mac
 
 ![The Xerox Star was an influential predecessor](images/Macintosh/xerox-star.jpg) 
-
     
 When Steve Jobs recruited Microsoft to be the first third party applications software developer for the Macintosh, he was already concerned that they might try to copy our ideas into a PC-based user interface.  As a condition of getting an early start at Macintosh development, Steve made Microsoft promise not to ship any software that used a mouse until at least one year after the first shipment of the Macintosh.
-
 
 Microsoft's main systems programmer assigned to the Mac project was Neil Konzen, a brilliant young Apple II hacker who grew up in their backyard in the suburbs of Seattle.  Neil started working at Microsoft while he was still a high school student, and single-handedly implemented the system software for their hit Z80 card that allowed the Apple II to run CP/M software.    
 
@@ -48,4 +46,3 @@ Unfortunately,  it turned out that while the agreement that Microsoft signed in 
 Microsoft didn't manage to ship a version of Windows until almost two years later, releasing Windows 1.0 in the fall of 1985.  It was pretty crude, just as Steve had predicted, with little of the Mac's thoughtful elegance.  It didn't even have overlapping windows, preferring a simpler technique called "tiling".  When its utter rejection became apparent a few months later, Bill Gates fired the implementation team and started a new version from scratch, led by none other than Neil Konzen.
 
 Neil's version of Windows, released a couple of years later, was good enough that Apple filed a monumental copyright lawsuit against Microsoft in 1988, but they eventually lost on a technicality (the judge ruled that Apple inadvertently gave Microsoft a perpetual license to the Mac user interface in November 1985).
-

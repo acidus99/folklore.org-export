@@ -17,7 +17,6 @@ summary: a last minute bug causes some problems
 
 One of the more common afflictions of early Macintosh users was the dreaded "Disk Swapper's Elbow" caused by a disk copying operation run amok. Disk swapping was a necessary evil caused by having 400KB floppy disks, 128KB of RAM, and a single floppy drive. If a user wanted to make a backup of a disk, she had to eject the source disk, insert a blank one, format it, drag the source disk over the new disk, and then the Finder would copy data piece-by-piece with the necessary swapping.
 
-
 A typical application on a 128K Mac had about 85K of memory available; the rest was used by the system, mostly for the bitmap display. A simple calculation shows that copying a 400K disk should involve about 5 or 6 swaps. Five disk swaps was barely tolerable, but, as early Finder users will remember, occasionally it would take well over 20 disk swaps.
 
 You'd start a disk copy and hold your breath during the fifth, and hopefully, final swap. If the Mac dutifully disgorged the floppy that sixth time, you'd convince yourself you miscounted, cross your fingers, and hope for the best. By the seventh swap you start cursing because you knew you were trapped and you'd start wondering about investing in a second, external drive.
@@ -31,4 +30,3 @@ When anybody first starts using a mouse, dragging is one of the more difficult t
 To support the user's spatial memory, the Finder always remembered where icons were located on the desktop. When you dropped the icon -- even for a half a second -- the Finder would dutifully record its location. The routine to save the icon's location was, as you probably guessed, in the big portion of the Finder's code. When this bug occurred, the Finder would carefully massage the memory for copying and then belatedly discover the icon's location hadn't been flushed out. It would blindly call the routine to flush it and you now know what would happen...
 
 I introduced this bug about 2AM the morning we built the final disks. This bug was caused by a fix to a much more egregious bug, so it was definitely the lesser of two evils....really!
-
