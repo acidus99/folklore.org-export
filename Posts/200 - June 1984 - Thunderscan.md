@@ -16,10 +16,8 @@ summary: A clever device transforms a printer into a scanner
 * Summary: A clever device transforms a printer into a scanner
 
 ![brochure for Thunderscan](images/Macintosh/tscan_brochure.jpg) 
-
     
 The first project that I worked on for Apple after starting in August 1979 was writing low level software for the Silentype printer, a cute, inexpensive thermal printer for the Apple II, that was based on technology licensed from a local company named Trendcom.  In typical Apple fashion, we improved on Trendcom's design by replacing their relatively expensive controller board with a much simpler one that relied on the microprocessor in the Apple II to do most of the dirty work.
-
 
 The only other engineer working on the project was Victor Bull, who was the hardware designer and also the project leader.  Vic was smart, taciturn and easy to work with, and I learned a lot from him about how thermal printers worked, as well as how things worked at Apple.  We finished the project quickly, and the Silentype shipped in November 1979, less than four months after I began working on it.
 
@@ -43,7 +41,7 @@ I called Thunderware and told them I was interested in working on Macintosh soft
 
 Tom and Vic had already encountered and surmounted a number of tough problems just to get scanning going at all.  For example, the ImageWriter printer was not really designed to be stepped one scanline at a time, and if you tried that the paper would bunch up against the platen, causing distortion.  Tom and Vic solved the problem by commanding the printer to move three steps up and then two steps back, instead of a single step up, which held the paper snugly against the platen as required.   There were also various techniques for sensing the beginning and end of the scan line, and some timings that were determined by tedious experimentation for how long it took the printer to respond to a command.
 
-![](images/Macintosh/tscanapp.jpg)
+![The Thunderscan application](images/Macintosh/tscanapp.jpg)
 
 It took a week or so to get basic scanning working on the Macintosh, and then a few more days to render the gray scale data with Bill's modified Floyd-Steinberg dithering.  After shaking out a variety of problems, mostly involving synchronization between the printer and the software, I was surprised and impressed by the consistent high quality of the results.  I went through a brief, elated phase of scanning every image in sight that would fit through the printer, just to see how it would turn out.
 
