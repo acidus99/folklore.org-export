@@ -27,6 +27,6 @@ A year later, I bought my first Mac, a 512.  Unpacking it, I saw that virtually 
 
 The connection also brought me a variety of hand shots for MacWorld magazine (Dec 84 cover pictured) and I was later told that my hand was the only 'live' thing on MacWorld covers for its first five years of publication.
 
-So though I didn't have anything to do with the creation of the Mac, I did contribute to it's great marketing effort.
+So though I didn't have anything to do with the creation of the Mac, I did contribute to its great marketing effort.
 
 The mouse shot, btw, paid me only $100.  I don't suppose Steve would be willing to pay residuals at this late date?
