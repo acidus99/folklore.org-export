@@ -16,10 +16,8 @@ summary: How the hand and the mouse came together!
 * Summary: How the hand and the mouse came together!
 
 ![Early MacWorld cover, Dec 84(click to enlarge)](images/Macintosh/MacWorldDec84.jpg) 
-
     
 In the mid '70s, I became San Francisco's first professional male hand model.  That's a whole other story in itself.  But for three or four years, there were no others in the field and I built a nice (and profitable) reputation, shooting hand shots for all manner of products and companies.
-
 
 Around April, 1984, I got a call from one of my favorite photographers, Dennis Gray, booking me for an hour, asking me to bring a variety of shirt colors, a couple of sports jackets and a suit jacket.
 
@@ -31,6 +29,4 @@ The connection also brought me a variety of hand shots for MacWorld magazine (De
 
 So though I didn't have anything to do with the creation of the Mac, I did contribute to it's great marketing effort.
 
-The mouse shot, btw, paid me only $100.  I don't suppose Steve would be willing to pay residuals at this late date? <g>
-  </g>
-
+The mouse shot, btw, paid me only $100.  I don't suppose Steve would be willing to pay residuals at this late date?

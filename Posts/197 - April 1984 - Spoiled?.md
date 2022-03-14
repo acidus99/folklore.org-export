@@ -16,10 +16,8 @@ summary: The Mac team had a reputation for being spoiled
 * Summary: The Mac team had a reputation for being spoiled
 
 ![Woz in the Bandley 3 Lobby](images/Macintosh/woz_lobby.jpg) 
-
     
 The Macintosh team had a reputation for being spoiled, which was certainly true by the middle of 1984, but it wasn't always the case.  Even though Steve Jobs was fond of bragging that the Mac designers were Apple's best engineers, that wasn't necessarily reflected in their compensation.
-
 
 Two weeks before I transfered to the Mac team after a shake-up in the Apple II group in February 1981 (see Black Wednesday), I received my regular six month review and was slated for a nominal raise in salary, from $22,000/year to $24,000.  I thought that I should still get my raise, even though I had switched groups, so after working on the Mac for a few weeks I approached my new manager Bud Tribble about it.
 
@@ -46,4 +44,3 @@ Bandley 3 also had a nice little kitchen, near the software area, with a much bi
 In the spring of 1984, right about the time that I left Apple, the lobby began to fill up with more interesting artifacts, purchased by Steve Jobs on his various travels.  There was an outrageously expensive Bosendorfer piano that was soon accompanied by a BMW motorcycle, on display as examples of exquisite craftmanship, although it was rumored that Steve purchased them to impress the industrial designer that he was enamored with at the time, Hartmut Esslinger, whose firm, Frog Design, designed the case of the Apple IIc.
 
 That was right around the time that the 100 person Macintosh Division merged with the 250 person Lisa Division, with the Mac people occupying most of the management roles.  The Mac had completed its journey from a funky research project to the center of the company, but I continue to think that it was more fun when we had a lot fewer resources.
-

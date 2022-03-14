@@ -17,7 +17,6 @@ summary: I didn't know how to deal with my bad review
 
 I didn't know how to deal with the bad performance review that I received from Bob Belleville in February 1983 (see Too Big For My Britches).  Up to that point, I had loved my job at Apple, and was devoting myself to working on the Macintosh, which I passionately believed would change the world significantly for the better.  But it was clear that Bob was out to get me, for reasons that I only partially understood.
 
-
 Jerome Coonen had recently started as the new software manager, so at least I didn't have to interact with Bob directly very often.  In fact, Bob seemed to want to avoid me even more than I wanted to avoid him.  My initial instinct was to quit, but I believed in the Macintosh too much to leave until it shipped, which was at least six months away, so I resolved to keep working hard while I thought about what I should do.
 
 It seemed like the main problem was that Bob and I had very different views concerning the organization.  I worshiped at the altar of the Apple II, and romanticized my work, seeing it more as a calling than a job. I was much more enthusiastic about the computer that we were creating than the engineering organization that was creating it, and I was difficult to manage because I was self-righteous and immature (although I didn't see it that way at the time) and thoroughly disrespected organizational authority.
@@ -47,4 +46,3 @@ At the end of my last day of work, the software team held a farewell dinner for 
 Most of the software team came to the dinner, as well as Steve Jobs. I was in a sort of daze as the elaborate dinner was served, followed by some toasts, where people said how much they liked working with me, while I only had sporadic success at holding back tears.  Bill Atkinson said that he had no idea of what I would work on next, but he knew that he would be amazed by it.  Steve Jobs said that he would miss me, and that he hoped that I would hurry back from my leave.  But then he said something strange, apparently commenting on my emotional state:  "The thing I like best about Andy is that it's so easy to make him cry".
 
 Finally, the dinner was over and I walked back home with Burrell, still feeling numb, as if I didn't want to think about my conflicted feelings just yet.  When  I awoke at my usual time the next morning, I had to fight the urge to drive down to Apple as usual.  It took a week or two before it stopped feeling strange to not go into work.
-
