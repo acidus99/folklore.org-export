@@ -17,21 +17,28 @@ summary: The big day finally arrives
 
 ![Bow-tie era Steve Jobs](images/Macintosh/bowtiesteve.jpg) 
 
-    
 January 24, 1984 - the big day had finally arrived.  We had looked forward to the date for so long that it didn't seem real to be actually experiencing the long-awaited public unveiling of the Macintosh at Apple's 1984 annual shareholder's meeting. We were excited, of course, but also nervous about our hastily contrived demo software, and still exhausted from the final push to finish the system software (see Real Artists Ship)
 
+I attended one of the rehearsals held over the weekend, to help set up the demo, and it was fraught with problems.  Apple rented a powerful video projector called a LightValve, that projected the Macintosh display larger and brighter than I thought possible.  But the Mac had to be connected to the projector through a special board that Burrell cooked up to compensate for the Mac's unique video timings, and the LightValve seemed to be quite tempermental, taking eons to warm up and then sometimes shutting down inexplicably.  Plus, Steve wasn't into rehearsing very much, and could barely force himself into doing a single, complete run-through.
 
-    I attended one of the rehearsals held over the weekend, to help set up the demo, and it was fraught with problems.  Apple rented a powerful video projector called a LightValve, that projected the Macintosh display larger and brighter than I thought possible.  But the Mac had to be connected to the projector through a special board that Burrell cooked up to compensate for the Mac's unique video timings, and the LightValve seemed to be quite tempermental, taking eons to warm up and then sometimes shutting down inexplicably.  Plus, Steve wasn't into rehearsing very much, and could barely force himself into doing a single, complete run-through.
+Most of the software team usually didn't come to work until after 10am, but this morning we gathered in our fishbowl office in Bandley 3 at 7:30am, so we could walk over together to the big auditorium at Flint Center, which was a half mile away.  We got to the cavernous room (which seated up to 2,500) early, but it was already filling up, and soon it was packed tight, with standing room only.  The software team sat up close in the second row, in a section reserved for Macintosh division employees.
 
-    Most of the software team usually didn't come to work until after 10am, but this morning we gathered in our fishbowl office in Bandley 3 at 7:30am, so we could walk over together to the big auditorium at Flint Center, which was a half mile away.  We got to the cavernous room (which seated up to 2,500) early, but it was already filling up, and soon it was packed tight, with standing room only.  The software team sat up close in the second row, in a section reserved for Macintosh division employees.
+Finally, the lights dimmed, and Steve Jobs appeared at a podium on the left side of the stage.  He was resplendent in a finely tailored black suit complete with a prominent bow tie, looking more like a Las Vegas impresario than a computer industry executive.  You could tell that he was nervous as he quieted the rousing applause and began to speak.
 
-    Finally, the lights dimmed, and Steve Jobs appeared at a podium on the left side of the stage.  He was resplendent in a finely tailored black suit complete with a prominent bow tie, looking more like a Las Vegas impresario than a computer industry executive.  You could tell that he was nervous as he quieted the rousing applause and began to speak.
+"Welcome to Apple's 1984 Annual Shareholders meeting.  I'd like to begin by reading part of an old poem by Dylan, that's Bob Dylan", Steve flashed a big smile as he started to recite the second verse of "The Times They Are A-Changin'", stretching an occasional vowel in a Dylanesque fashion:
 
-    "Welcome to Apple's 1984 Annual Shareholders meeting.  I'd like to begin by reading part of an old poem by Dylan, that's Bob Dylan", Steve flashed a big smile as he started to recite the second verse of "The Times They Are A-Changin'", stretching an occasional vowel in a Dylanesque fashion:
-
-
-> **Come writers and criticsWho prophesize with your penAnd keep your eyes wide,The chance won't come againAnd don't speak too soonFor the wheel's still in spinAnd there's no tellin' who that it's namin'.For the loser nowWill be later to winFor the times they are a-changin'.**
-
+```
+Come writers and critics
+Who prophesize with your pen
+And keep your eyes wide
+The chance won't come again
+And don't speak too soon
+For the wheel's still in spin
+And there's no tellin' who that it's namin'.
+For the loser now
+Will be later to win
+For the times they are a-changin'.
+```
 
 He thanked Apple's board of directors individually by name for their support in a turbulent year, and then turned the meeting over to Apple's chief counsel, Al Eisenstadt, to run the formal part of the shareholders' meeting.  Al ran through some procedural stuff, and then he introduced Apple's CEO, John Sculley, who was just hired nine months ago, for a report on the business.
 
@@ -61,9 +68,7 @@ Steve describes the Macintosh as the third industry milestone product, after the
 
 All this time, a lone Macintosh has been sitting in its canvas carrying case near the center of the stage.  Steve walks over to the bag and opens it up, unveiling the Mac to the world for the very first time.  He pulls it out and plugs it in, inserting a floppy, and the demo begins to run, flawlessly (see It Sure Is Great To Get Out Of That Bag!).  The Macintosh becomes the first computer to introduce itself, speaking in a tremulous voice:
     
-
-> **Hello, I am Macintosh.  It sure is great to get out of that bag!  Unaccustomed as I am to public speaking, I'd like to share with you a maxim I thought of the first time I met an IBM mainframe: Never trust a computer that you can't lift!Obviously, I can talk, but right now I'd like to sit back and listen.  So it is with considerable pride that I introduce a man who has been like a father to me... Steve Jobs!**
-
+> Hello, I am Macintosh.  It sure is great to get out of that bag! Unaccustomed as I am to public speaking, I'd like to share with you a maxim I thought of the first time I met an IBM mainframe: Never trust a computer that you can't lift! Obviously, I can talk, but right now I'd like to sit back and listen.  So it is with considerable pride that I introduce a man who has been like a father to me... Steve Jobs!
 
 Pandemonium reigns as the demo completes.  Steve has the biggest smile I've ever seen on his face, obviously holding back tears as he is overwhelmed by the moment.  The ovation continues for at least five minutes before he quiets the crowd down.
 
@@ -71,9 +76,8 @@ The rest of the meeting was an anti-climactic blur, as Steve runs through some m
 
 Every member of the audience was given a copy of the first issue of MacWorld magazine, with Steve on the cover, as they departed.  Most of the Mac team hung around near the stage, congratulating each other, waiting for the crowd to disperse.
 
-![](images/Macintosh/certificate.jpg)
+![Certificate for gift Mac](images/Macintosh/certificate.jpg)
 
 A little bit later, after we returned to Bandley 3, we were surprised by a large Apple truck that pulled up in the parking lot near the back of the building.  It contained 100 brand new Macintoshes, one for each member of the team, personalized with a little plaque on the back. Steve presented one at a time to each team member with a handshake and a smile as the rest of us stood around cheering.
 
 We were so keyed up that it was impossible to get back to work that afternoon, but most of us didn't want to go back home, either.  The Macs were supposed to go on sale that very day, immediately following the introduction.  I thought that it would make it more real to me if I actually could go out and buy one, so five or six of us walked to the nearest Apple dealer, to see if that was possible.  The first, closest dealer didn't have any units in stock, and said that they weren't for sale yet, but we didn't give up, and the next dealer was willing to sell me one, even though he didn't have any units in yet either.
-
