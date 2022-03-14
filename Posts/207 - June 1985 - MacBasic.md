@@ -17,9 +17,7 @@ summary: The sad story of MacBasic
 
 ![Applesoft Basic Cassette](images/Macintosh/applesoft.jpg) 
 
-    
 When the Apple II was first introduced in April 1977, it couldn't do very much because there were few applications written for it. It was important to include some kind of programming language, so users, who were mostly hobbyists, could write their own programs. "Basic", which was designed for teaching introductory programming by two Dartmouth professors in the 1960s, became the language of choice for early microcomputers because it was interactive, simple and easy to use. The Apple II included a Basic interpreter known as "Integer Basic", written from scratch by Steve Wozniak, which was almost as idiosyncratically brilliant as his hardware design, stored in 5K bytes of ROM on the motherboard.  It also came with Microsoft's Basic interpreter, dubbed "Applesoft Basic", on cassette tape.  Sadly, Applesoft eventually displaced Integer Basic in ROM in the Apple II Plus because it had the floating point math routines that Woz never got around to finishing.
-
 
 Donn Denman started working at Apple around the same time that I did, in the summer of 1979.  His job was to work with Randy Wiggington on porting Applesoft Basic to the Apple III.  They needed to rewrite parts of it to deal with the Apple III's  tricky segmented memory addressing, as well as porting it to SOS, the new operating system designed for the Apple III.  It was easy for me to track Donn's steady progress because he sat in the cubicle across from mine when we moved into Bandley III in the spring of 1980.
 
@@ -44,4 +42,3 @@ Bill Atkinson was outraged that Apple could treat Donn and his users so callousl
 Donn quickly filed for a leave of absence, but eventually returned to Apple to work on various projects, including AppleScript.  
 
 The Beta version of MacBASIC had been released to interested parties, including Dartmouth University which used it in an introductory programming class.  Apple tried to get back all the copies, but the Beta version was widely pirated, and two books on MacBASIC were published, and sold quite well for several years.
-

@@ -16,10 +16,8 @@ summary: The Mac division undergoes an inconceivable reorganization
 * Summary: The Mac division undergoes an inconceivable reorganization
 
 ![Steve Jobs and John Sculleyin November 1984](images/Macintosh/Jobs_Sculley.jpg) 
-
     
 The original Macintosh enjoyed robust sales following its spectacular launch in January 1984 (see The Times They Are A-Changin').  Steve Jobs defined success as selling 50,000 units in the first 100 days, which was a high hurdle for a brand new computer with only a handful of applications available.   In fact, Apple was able to sell more than 72,000 Macintoshes by end of April, and continued to ramp up to sell over 60,000 units in June 1984 alone.
-
 
 I travelled to the 1984 National Computer Conference show in June 1984 with the Mac team, sharing a hotel room with Burrell Smith, even though I was on leave of absence (see Leave Of Absence).  Apple had assembled over a dozen small software developers who had written cool applications for the Macintosh, to display them at the trade show.  Steve Jobs was ebullient, and thought that the sprouting applications and blossoming sales meant that we had turned the corner. When I ran into him on the floor of the show, he put his arm around my shoulder and exclaimed, "Look at all these applications! We did it! The Macintosh has made it!"
 
@@ -68,4 +66,3 @@ After dinner, we retired to another room that had an expensive stereo system and
 Later, when it was time to leave, we lingered outside under the beautiful summer night sky.  We were all pretty emotional by then, especially Steve.  I tried to convince him that the change wasn't necessarily so bad, and that I would be excited about returning to Apple to work with him on a small team again. But Steve was inconsolable, and more depressed than I had ever seen him before.  As we left, I thought that it was lucky that he had Tina there to keep him company in the cavernous mansion.
 
 It took a while for me to understand the consequences of the reorganization.  The best news for me was that my nemesis Bob Belleville had resigned from Apple, because he had sided with Steve during the recent infighting and burned too many bridges to continue.  Most of the rest of Steve's staff stayed on to work for Jean-Louis Gassee, who replaced Steve in the reorganized division, although Mike Murray resigned soon thereafter.  Steve Jobs spent most of the summer traveling, trying to figure out what to do next.   He was still the chairman of Apple Computer, but he was so at odds with the rest of its leadership that it was hard to see how he could remain there much longer.
-
