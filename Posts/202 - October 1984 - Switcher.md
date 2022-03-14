@@ -16,10 +16,8 @@ summary: The Macintosh's first multi-tasking environment
 * Summary: The Macintosh's first multi-tasking environment
 
 ![The Switcher About Box](images/Macintosh/switcher_about.gif) 
-
     
 The first commercial product that I worked on after going on leave of absence from Apple in March 1984 (see Leave Of Absence) was a low cost, high resolution scanner for the Macintosh called Thunderscan, that I created in collaboration with a tiny company named Thunderware (see Thunderscan).  I started working on it in June 1984, and by early October, it was almost complete.
-
 
 Tom Petrie, one of the two principals at Thunderware (the other was Victor Bull, who I worked with on the Silentype thermal printer, the first project that I did for Apple), arranged a few demos for various computer magazines, to curry favorable reviews to promote the product.  On October 11th, 1984, I drove with Tom to an office in Hillsborough, to demonstrate Thunderscan for Byte magazine.
 
@@ -127,7 +125,7 @@ I didn't seem to have any alternative but to capitulate to Steve's price setting
 
 Getting Switcher going wasn't that hard, but it was a very difficult program to finish, because it overturned some of the underlying assumptions that applications were making, yet it was committed to keeping everything working anyway.  Much of the work in the latter stages involved testing it with every application that I could get my hands on and debugging crashes.  Usually I could concoct some kind of technique that would mitigate the problem without causing worse problems elsewhere.
 
-![](images/Macintosh/gates_letter.jpg)
+![Thank you note from Bill Gate](images/Macintosh/gates_letter.jpg)
 
 Predictably, the hardest part of finishing Switcher was making it work smoothly with the Microsoft applications.  That was partially because Microsoft was a very early developer, and took liberties with the system that most developers would shy away from, but it was mostly because the instructions comprising their applications were encoded in pseudo-code to save space, in the tradition of the byte-code interpreters from Xerox, which Charles Simonyi advocated.
 
@@ -148,4 +146,3 @@ Jeff didn't have anything specific in mind, so he told me that he would get back
 "We'll change Word in the next release not to use it.  The problem was that we couldn't find a safe sequence - I guess we're already using every key combination!"
 
 I officially released the finished version of Switcher in April 1985, and I maintained it for a few versions after that.  Eventually, I handed it off to Phil Goldman, a tremendous young programmer from Princeton who was recently hired at Apple, who went on to write MultiFinder (with Erich Ringewald), Switcher's eventual successor, in 1987.
-
