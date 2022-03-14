@@ -16,10 +16,8 @@ summary: My leave of absence was drawing to a close
 * Summary: My leave of absence was drawing to a close
 
 ![My Apple Badge](images/Macintosh/badge.jpg) 
-
     
 Toward the end of August 1984, my six month leave of absence (see Leave of Absence) was drawing to a close, and I still hadn't decided whether I would return to Apple.  I continued to feel very close to the company, so it wouldn't be easy for me to turn in my badge, but I didn't see a reasonable alternative.
-
 
 Either way, I was sure that I would continue to write software for the Macintosh, which was still brand new and overflowing with exciting opportunities for innovative applications (see Thunderscan).  I was confident that I could earn more money working independently than Apple was willing to pay me, even if you counted the appreciation of stock options, but financial matters were not my paramount consideration.
 
@@ -52,4 +50,3 @@ I couldn't believe what I was hearing, or tell if Steve was serious or not.  I l
 I saw that we were so far apart that there was little point in continuing the conversation.  We finished dinner quickly and walked back to Apple without further discussion.
 
 Actually, quitting was easier than I thought it would be; I just called up Apple's HR department and let them know that I wouldn't be coming back.  I didn't even have to sign any paperwork or turn in my badge, which I still have today, almost twenty years later.  I had thought it would feel devastating to finally resign, but instead I actually felt relieved for the situation to be resolved, and optimistic about writing Macintosh software on my own.
-
