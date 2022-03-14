@@ -15,11 +15,9 @@ summary: The story of how this site turned into a book
 * Characters: Steve Jobs, Andy Hertzfeld, Mike Markkula, Steve Wozniak, Tim O'Reilly, Allen Noren, Michelle Weatherbee, Melanie Wang
 * Summary: The story of how this site turned into a book
 
-![](images/Macintosh/revolution.jpg) 
-
+![Book Cover for Revolution in the Valley](images/Macintosh/revolution.jpg) 
     
 **Revolution in the Valley** is a new hardcover book, published by O'Reilly Media in December 2004, that is based on the anecdotes from this website.  This story describes the book and how it came to be, and what it means to Folklore.org moving forward.
-
 
 When I began to write stories for this site in June 2003,  I had no intention of trying to publish them in book form.   I was excited by the idea of developing a web site to facilitate collective historical storytelling, where a group of participants could collaborate to recollect an interesting event.   I chose the format of numerous interlinked anecdotes because it seemed natural for the web and better suited to a collaborative effort  than a single, continuous narrative, allowing a tale to be elaborated indefinitely without compromising the voices of the individual authors.  
 
@@ -56,6 +54,3 @@ My biggest disappointment with the book has to do with the story links.  We deci
 Now that the book is complete, it's interesting to compare it to the website.  Once I finally got a finished copy of the book in my hands, I was amazed at how much better it seemed than the website for continuous reading, in terms of ease and enjoyment, even though most of the content was crafted for the site instead of the book.  Computers still have a long way to go before they match the ease of use of books.  The website has some compensating strengths, though, and is better than the book for only reading stories about a particular character or topic.
 
 But by far the main advantage of the website over the book is that it's a living document, capable of correcting itself and growing indefinitely.   That might seem ironic, given the moribund state of the Folklore site since I finished writing in June 2004.   But there's a (somewhat feeble) reason:  I didn't want to write new stories while the book was in production, because I knew that I would want to squeeze them into the book, and I didn't want to delay it.  Hopefully, this essay helped to shake off some of the rust, and I will start adding new stories soon, probably at the rate of around one per month.
-
-You can buy **Revolution in the Valley** from Amazon by clicking here.
-
