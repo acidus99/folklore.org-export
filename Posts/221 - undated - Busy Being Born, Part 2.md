@@ -17,12 +17,7 @@ summary: Here are a few seminal Macintosh screenshots, ala the Lisa polaroids
 
 Bill Atkinson had the foresight to document the creation of the Lisa User Interface by keeping a polaroid camera near his computer, taking a snapshot of each significant milestone (see Busy Being Born).   Although we didn't systematically save pictures of key Mac milestones, I've managed to cobble together a few seminal Macintosh screenshots to present here in a similar fashion.
 
-
-You can click on an image to see a larger version of it, and use the back button to return to the story. 
-
-<center><img src="images/Macintosh/pattern_menu.jpg">
-
-</center>  
+![screen shot of MacSketch's Fill Style menu](images/Macintosh/pattern_menu.jpg)
 
 Bud Tribble had a tendency to work late at night.  I usually came to work at Texaco Towers around 10:30AM, so if Bud was there when I arrived, it usually meant that he had spent all night there.  One morning, in the middle of May 1981, when I arrived at my usual time, Bud was anxious to show me something before I could even take off my backpack.
 
@@ -34,9 +29,7 @@ Xerox aficionados will note the use of Cream 12 as our first system font, which 
 
 In April, I had written some screen printing code, that dumped whatever was on the display out the serial port to a dot matrix printer.  Since the Mac screen was rather small, I added a feature to print it at double size, so it mostly filled a page.   I used that to print the display of Bud's demo, with the impressive graphical pattern menu pulled down, on the very day that Bud got it working, and that's what is reproduced above.
 
-<center><img src="images/Macintosh/diskettefinder.jpg">
-
-</center>  
+![](images/Macintosh/diskettefinder.jpg)
 
 Bruce Horn joined the Mac team in late 1981 (see Joining The Mac Group), with the charter to write a graphical shell that we were calling the "Finder", since it helped the user find applications and documents to launch.  We were influenced by ideas from the Architecture Machine group at MIT (a predecessor to the better known Media Lab) as portrayed in a program called "DataLand" that allowed users to manipulate graphical objects in spacial arrangements.  Bruce was excited about spacial data management and his first assignment was to write a prototype to explore how it could work on the Mac.
 
@@ -44,10 +37,7 @@ Bruce came up with the idea of representing files as small tabs superimposed on 
 
 After the micro-finder, Bruce also worked on another prototype that included folders in a two-pane view (Bruce thinks he can eventually dig up a picture of it; if he does I'll include it here).  Meanwhile, Bill Atkinson was crafting an icon-based file manager prototype for Lisa (see Rosing's Rascals), and eventually we decided to follow that direction for the Macintosh.
 
-<center><img src="images/Macintosh/early_macpaint.jpg">
-
-</center>  
-
+![](images/Macintosh/early_macpaint.jpg)
 
 Here is a very early version of MacPaint, probably from March 1983, after Bill had been working on it for around one month.  The first thing to notice is that it wasn't called "MacPaint" yet - it still bore its original name, "MacSketch", inherited from its predecessor, LisaSketch.  
 
@@ -61,15 +51,10 @@ The featured MacPaint document was drawn late one night by Steve Capps, to celeb
 
 ![](images/Macintosh/bomb_icon.jpg)
 
-
 ![](images/Macintosh/happy_mac.jpg)
 
-
 ![](images/Macintosh/sad_mac.jpg)
-
-
 
 In early 1983, I wrote an icon editor based on Bill Atkinson's "Fat Bits" pixel editing techniques that Susan Kare used to craft most of the early Mac icons.  The icon editor displayed both a large and actual size representation of the icon, and allowed editing multiple icons at once.   I needed a way to incorporate the icons into the ROM, so I added a feature called the "Hex Window", that displayed the representation of the current  icon in hexadecimal, which is what I needed to add the icons to the Mac ROM source code.   The screen dumps on the left are the actual ones used to enter some famous Mac icons into ROM, like the bomb and the happy Mac.
 
 Note that the name on the window containing the bomb icon is "Deep".  That's the first word of the original name of the code that displayed the dreaded bomb icon on the screen.  Originally the code had an obscene name, with the API calls prefixed with "DS".   Jerome came up with various euphemisms for it, like the "Deep Sauce" manager evolving into the "Dire Straights" manager, eventually settling on the more prosaic "System Error" manager.
-
