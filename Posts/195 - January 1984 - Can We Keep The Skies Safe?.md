@@ -16,10 +16,8 @@ summary: Burrell and I get our pictures in Newsweek
 * Summary: Burrell and I get our pictures in Newsweek
 
 ![Burrell and Andy in Newsweek](images/Macintosh/andyburrellnews.jpg) 
-
     
 The marketing campaign that launched the original Macintosh was almost as imaginative and innovative as the product itself. It included a carefully orchestrated press blitz, masterminded by Regis McKenna, the legendary Silicon Valley marketing guru whose business card read "Regis McKenna, Himself", and his team of bright, young female assistants, who we nicknamed the "Rejettes": Andy Cunningham, Jane Anderson and Katie Cadigan.
-
 
 The basic idea was to create a perception of the Macintosh introduction as an epochal event, by garnering as much attention as we could from every possible venue, coordinated to appear around the time of the introduction at the shareholders meeting.  Some of the monthly magazines had more than three months lead time, so the press briefings and interviews began in October 1983 with Byte Magazine (see The Mythical Man Year), and became more numerous with each passing week.
 
@@ -31,7 +29,7 @@ After we returned to Cupertino, we got word that we had passed muster and that N
 
 The software still wasn't finished, even though there were only five days left to work on it, and tension mounted as weeks of relentless pressure were taking their toll on the team (see Real Artists Ship).  When the Newsweek photographer arrived, he wanted to photograph me in my office, but I was afraid that would be too disruptive to the rest of the team, so I told him that I often worked at home, and convinced him to take the picture in the messy office of my house in Palo Alto.
 
- ![](images/Macintosh/skies_safe.jpg)
+![Newsweek cover they used instead](images/Macintosh/skies_safe.jpg)
 
 Unfortunately, somehow the San Jose Mercury found out that we had been granted the Newsweek cover, and mentioned it in their business gossip column that came out on Friday.  Newsweek didn't want the world to think their cover was pre-determined, so that was enough to make them change it - switching, at the last minute, to a stand-by cover asking the burning question "Can We Keep The Skies Safe?"
 
@@ -50,4 +48,3 @@ I was flustered, because no one had ever asked me for an autograph before.  I de
 I turned on my Walkman, pushed back my seat and tried to relax, hoping to be able to fall asleep, but around twenty minutes later, we were approached by a different stewardess, also holding a copy of the Newsweek issue.  "Are you the guys who designed the Macintosh?", she asked, "I'd love to get your autographs."
 
 Wait a second, I thought to myself, Woz is on this flight.  And sure enough, when I stood up and turned around, Woz was also standing, pointing at us and cracking up.  He had convinced the stewardesses to cooperate in pulling one of his typical pranks on us.  I started laughing too, because it was a pretty good one.
-
