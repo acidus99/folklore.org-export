@@ -103,7 +103,7 @@ The Lisa team was worried about the closed window tabs being obscured by other w
 
 ![polaroid photos of Lisa screens](images/Macintosh/polaroids/polaroids.23.jpg)
 
-The last major change in the Lisa User Interface was moving to an icon-based file manager in March 1982.   The leftmost picture was an early mock-up done in the graphics editor, using a two-level hierarchy; selecting an icon in the top pane displays its contents in the bottom one.   By the middle photo, Bill arrived at something very similar to the shipping design, complete with a trash can at the lower right. (see Rosing's Rascals).  Note that the folder tab on windows has disappeared now, replaced by a rectangular title bar that's partially inverted when highlited.
+The last major change in the Lisa User Interface was moving to an icon-based file manager in March 1982.   The leftmost picture was an early mock-up done in the graphics editor, using a two-level hierarchy; selecting an icon in the top pane displays its contents in the bottom one.   By the middle photo, Bill arrived at something very similar to the shipping design, complete with a trash can at the lower right. (see Rosing's Rascals).  Note that the folder tab on windows has disappeared now, replaced by a rectangular title bar that's partially inverted when highlighted.
 
 ![polaroid photos of Lisa screens](images/Macintosh/polaroids/polaroids.27.jpg)
 
