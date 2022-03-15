@@ -15,8 +15,7 @@ summary: We hooked up a mouse to the Apple II
 * Characters: Andy Hertzfeld, Burrell Smith, Dan Kottke, Bill Budge, Steve Jobs, Bud Tribble, Bill Atkinson
 * Summary: We hooked up a mouse to the Apple II
 
-![Apple II Mouse Card Protoype](images/Macintosh/mouse_card.jpg) 
-
+![Apple II Mouse Card Prototype](images/Macintosh/mouse_card.jpg) 
     
 Burrell's Macintosh design was elegant and clever in many different ways, always using minimal hardware resources for maximal value.  The mouse interface was a typical example, using just a fraction of the general purpose 6522 VIA chip that Burrell had incorporated.  The mouse is hooked up to the 6522 so that it generates an interrupt each time the mouse moved a notch horizontally or vertically, with a one bit line to sense the mouse button.  That was it - the rest was done in software.
 
