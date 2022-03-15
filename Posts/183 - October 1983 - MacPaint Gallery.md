@@ -23,7 +23,7 @@ Susan kept a notebook of many of the MacPaint documents that she created as the 
 
 ![](images/Macintosh/MacPaint_Gallery/picnic.jpg)
 
-The image on the left is an annoucement of a combined birthday party for seven Mac team members whose birthday was in early April, including myself, who was terrified of turning 30 at the time.  As a birthday gift, Susan made a jersey for me with a large hexadecimal number "1E"  (which is 30 in base 16) on it, so I could still say I was a teenager, at least in hexadecimal.
+The image on the left is an announcement of a combined birthday party for seven Mac team members whose birthday was in early April, including myself, who was terrified of turning 30 at the time.  As a birthday gift, Susan made a jersey for me with a large hexadecimal number "1E"  (which is 30 in base 16) on it, so I could still say I was a teenager, at least in hexadecimal.
 
 The image on the right is for picnic held in July to celebrate the wedding of two members of the software team: programmer Larry Kenyon and librarian Patti King.  Larry and Patti actually eloped in June; the picnic happened after they returned from their honeymoon.
 
