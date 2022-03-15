@@ -43,7 +43,7 @@ Now that we had cut and paste working, I realized that it would be useful to hav
 
 The Macintosh's character encoding scheme allocated the upper half of the 8-bit character set to occasionally useful but obscure characters that were not portrayed on the keys, accessed with the option key, that were nearly impossible to remember.   Steve Capps conceived of a desk accessory called "Key Caps" (named partially after himself?) that displayed a picture of the keyboard, with the keycaps changing depending on the meta-keys that were pressed, which allowed you to hunt for the special characters visually.  He coded it up quickly and it became another great addition.
 
-![](images/Macintosh/controlpanel.gif)
+![screenshot of Macintosh control panel](images/Macintosh/controlpanel.gif)
 
 We needed a way to control various system parameters like the sound volume, or the mouse scaling parameters.   We decided that a desk accessory would be perfect for that, since it would be easy to access no matter what application you were in.   So the last desk accessory that I worked on before shipping, in November 1983, was the Control Panel.  Susan Kare came up with a beautiful, highly graphical design (with no text whatsoever) that I implemented using a separate purgable resource for each section, so they didn't have to be in memory at once.   It had a little rabbit and tortoise to represent a range of speeds, and lots of other graphical embellishments; after the Mac was released, one review described it as a crib toy, which I took more or less as a compliment.
 

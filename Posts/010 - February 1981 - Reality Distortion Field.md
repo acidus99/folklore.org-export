@@ -15,8 +15,7 @@ summary: Bud defines Steve's unique talent
 * Characters: Steve Jobs, Bud Tribble
 * Summary: Bud defines Steve's unique talent
 
-![](images/Macintosh/reality_distortion.jpg) 
-
+![Illustration of Steve Jobs](images/Macintosh/reality_distortion.jpg) 
     
 I officially started on the Mac project on a Thursday afternoon, and Bud Tribble, my new manager and the only other software person on the project, was out of town.  Bud was on leave of absence from an M.D.-Ph.D. program and he had to occasionally return to Seattle to keep up his standing in the program.
 

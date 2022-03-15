@@ -15,8 +15,7 @@ summary: Steve inspires Bill by pointing out something about the real world
 * Characters: Steve Jobs, Bill Atkinson
 * Summary: Steve inspires Bill by pointing out something about the real world
 
-![](images/Macintosh/roundrects.jpg) 
-
+![Photo of screen with Round Rect demo](images/Macintosh/roundrects.jpg) 
     
 Bill Atkinson worked mostly at home, but whenever he made significant progress he rushed in to Apple to show it off to anyone who would appreciate it.   This time, he visited the Macintosh offices at Texaco Towers to show off his brand new oval routines, which were implemented using a really clever algorithm.
 
@@ -33,4 +32,3 @@ Steve suddenly got more intense.  "Rectangles with rounded corners are everywher
 When Steve and Bill passed a no-parking sign with rounded corners, it did the trick.  "OK, I give up", Bill pleaded.  "I'll see if it's as hard as I thought."  He went back home to work on it.
 
 Bill returned to Texaco Towers the following afternoon, with a big smile on his face.  His demo was now drawing rectangles with beautifully rounded corners blisteringly fast, almost at the speed of plain rectangles.  When he added the code to LisaGraf, he named the new primitive "RoundRects".   Over the next few months, roundrects worked their way into various parts of the user interface, and soon became indispensable.
-

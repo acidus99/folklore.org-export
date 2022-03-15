@@ -15,7 +15,7 @@ summary: Reflections on the 40th anniversary of my joining Apple
 * Characters: Bill Atkinson, Jef Raskin, Steve Jobs, Susan Kare
 * Summary: Reflections on the 40th anniversary of my joining Apple
 
-![](images/Macintosh/bill-atkinson-id.jpg)
+![Bill Atkinson's Apple ID](images/Macintosh/bill-atkinson-id.jpg)
 
 40 years ago today, I joined Apple Computer on April 27, 1978. It was a big turning point in my life and I am glad I said "Yes".
 
@@ -43,11 +43,11 @@ To handle overlapping windows and graphics clipping, I wrote the original Lisa W
 
 I had fun writing the MacPaint bitmap painting program that shipped with every Mac. I learned a lot from watching Susan Kare using my early versions. MacPaint showed people how fun and creative a computer with a graphics display and a mouse could be.
 
-![](images/Macintosh/Steve_and_Bill.jpg)
+![Photo of Steve Jobs and Bill](images/Macintosh/Steve_and_Bill.jpg)
 
 The portrait of Steve and me was made by Norman Seeff at Steve's home in December 1983, just before the Mac was introduced. Steve's expression looks like he is calculating how to harness this kid's energy. Some say Steve used me, but I say he harnessed and motivated me, and drew out my best creative energy. It was exciting working at Apple, knowing that whatever we invented would be used by millions of people.
 
-![](images/Macintosh/revolution.jpg)
+![Cover of book "Revolution in the Valley"](images/Macintosh/revolution.jpg)
 
 The image showing the Mac team is from the cover of Andy Hertzfeld's great little book, "Revolution in the Valley, The Insanely Great Story of How the Mac Was Made." You can also read these stories at Andy's website www.folklore.org.  
 

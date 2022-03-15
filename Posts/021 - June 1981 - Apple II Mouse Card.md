@@ -41,7 +41,7 @@ Bill Atkinson had told Steve that you couldn't pull off a decent graphical user 
 
 We were reluctant to show it to Steve, knowing that he would want to commandeer it, but he heard about it from someone and demanded to see it.  We showed it to him, and, unfortunately, he loved it.  But he also insisted that Apple owned all the rights to it, even though we had developed it in our spare time.
 
-![](images/Macintosh/mousepaint.jpg)
+![Photo of MousePaint 1.0 screen](images/Macintosh/mousepaint.jpg)
 
 Steve couldn't insist that Apple owned all of it, because Bill Budge wasn't an Apple employee at the time.  But Steve could claim complete ownership of the interface card, which he said was developed with Apple resources.  Burrell and I were pretty upset, because we did it on our own time and thought that we should be compensated, but it's really hard to argue with Steve, especially about money.
 

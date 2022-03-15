@@ -15,7 +15,7 @@ summary: The office where the Mac became real
 * Characters: Steve Jobs, Dan Kottke, Brian Howard, Bud Tribble, Jef Raskin, Burrell Smith, George Crow
 * Summary: The office where the Mac became real
 
-![](images/Macintosh/texaco.jpg) 
+![Vintage Texaco Gas Logo](images/Macintosh/texaco.jpg) 
     
 The main Apple buildings on Bandley Drive in Cupertino had boring numerical appellations (Bandley 1, Bandley 3, etc.), but from the beginning the Lisa team gave the buildings they inhabited more interesting names.  The original office for the Lisa team was adjacent to a Good Earth restaurant (in fact, it was Apple's original office in Cupertino), so it was called the "Good Earth" building.  When the team grew larger and took over two nearby office suites, they were designated "Scorched Earth" (because it housed the hardware engineers, who were all smokers) and "Salt of the Earth".
 
