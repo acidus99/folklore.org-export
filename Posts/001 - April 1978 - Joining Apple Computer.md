@@ -25,7 +25,7 @@ I told him I had to finish my PhD, a required credential for researching brains 
 
 I don't know what Jef told Steve Jobs about me, but Steve spent the entire day recruiting me. He introduced me to all 30 employees at Apple Computer. They seemed intelligent and passionate, and looked like they were having fun, but that was not enough to lure me away from my graduate studies.
 
-Toward the end of the day, Steve took me aside and told me that any hot new technology I read about was actually two years old. "There is a lag time between when someting is invented, and when it is available to the public. If you want to make a difference in the world, you have to be ahead of that lag time. Come to Apple where you can invent the future and change millions of people's lives." 
+Toward the end of the day, Steve took me aside and told me that any hot new technology I read about was actually two years old. "There is a lag time between when something is invented, and when it is available to the public. If you want to make a difference in the world, you have to be ahead of that lag time. Come to Apple where you can invent the future and change millions of people's lives." 
 
 Then he gave me a visual: "Think how fun it is to surf on the front edge of a wave, and how not-fun to dog paddle on the tail edge of the same wave." That image persuaded me, and within two weeks I had quit my graduate program, moved to Silicon Valley, and was working at Apple Computer. I never finished my neuroscience degree, and my dad was mad at me for wasting ten years of college education that he helped to pay for. I was pretty nervous, but knew I had made the right choice.
 
