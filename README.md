@@ -18,3 +18,7 @@ Folklore.org is an unique source of incredible first hand content about Apple. U
 * Formatting issues
 
 I wanted to clean this content up and make it available to [Gemini Space](https://en.wikipedia.org/wiki/Gemini_(protocol)). Luckily this content is licensed under [Creative Commons Attribution-NonCommercial 1.0 Generic (CC BY-NC 1.0)](https://creativecommons.org/licenses/by-nc/1.0/), so it can be remixed into other mediums. I was also able to leverage the Wayback machine to find versions of the posts as they existed in the mid 2000s, to recover lost images.
+
+## Gemini Mirror:
+
+Gemtext versions of these posts are available on my Gemini Capsule: [gemini://gemi.dev/apple-folklore/](gemini://gemi.dev/apple-folklore/)
