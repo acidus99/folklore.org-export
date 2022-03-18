@@ -1,6 +1,6 @@
 #  Folklore.org's Apple History (Markdown Export)
 
-Andy Hertzfeld was an early Apple employee who created the amazing Folklore.org, which contains an oral history of the Apple Inc. and the creation of the first Macintosh computer. These Folklore.org posts were all collected into the 320 page book [Revolution in the Valley](https://www.amazon.com/exec/obidos/asin/0596007191), published by O'Reilly Media in 2004.
+Andy Hertzfeld was an early Apple employee who created the amazing Folklore.org, which contains an oral history of Apple Inc. and the creation of the first Macintosh computer. These Folklore.org posts were all collected into the 320 page book [Revolution in the Valley](https://www.amazon.com/exec/obidos/asin/0596007191), published by O'Reilly Media in 2004.
  
 This project has extracted all the posts and their metadata from Folklore.org, cleaned up the markup, and converted them to Markdown for easier reading and converting to other formats.
  
