@@ -1,0 +1,38 @@
+---
+post: 116
+title: Mea Culpa
+date: undated
+author: Andy Hertzfeld
+characters: Bruce Horn, Bud Tribble, Jerome Coonen, Bill Atkinson, Andy Hertzfeld, Bill Gates, Burrell Smith
+topics: Hardware Design, Software Design, Technical
+summary: Here are some of our worst mistakes
+---
+
+# Mea Culpa
+* Author: Andy Hertzfeld
+* Story Date: undated
+* Topics: Hardware Design, Software Design, Technical
+* Characters: Bruce Horn, Bud Tribble, Jerome Coonen, Bill Atkinson, Andy Hertzfeld, Bill Gates, Burrell Smith
+* Summary: Here are some of our worst mistakes
+
+Almost everyone involved with the design of the original Macintosh is proud of the work that we did on the project, both individually and collectively, but that doesn't mean that we aren't also embarrassed about some of the mistakes that we made.  It's worthwhile to consider, if not apologize for, the worst decisions that I was personally responsible for, as well as other major faults in the system software and product as a whole.
+
+The worst blunder that I perpetrated had to do with the memory manager.  Bud Tribble adapted the Lisa intra-segment memory manager for the Macintosh (see Hungarian), but we needed to add a few features.  One was a "locked" attribute associated with a relocatable memory block, that temporarily prevented the block from being moved.  Another enhancement was a "purgable" attribute, that told the memory manager that it could release a block if it needed to, as memory was getting full.  The big mistake was where I chose to locate the bits that controlled the attributes.
+
+I decided to put the bits controlling the "locked" and "purgable" attributes in the high-order bits of the master pointer (a pointer to the current address of a memory block), because they weren't being used for anything else.  The 68000 had a 24 bit address bus, allowing 16 megabytes of addressable memory, so the high-order 8 bits of an address were not used by the processor.  The high bit of a word is the most efficient one to test, which was another reason that I thought it was efficient to locate the flags there.
+
+Of course, it was foolish to count on unused address bits to stay that way for very long, and it became a problem when the Macintosh transitioned to the 68020 processor in 1987, with the introduction of the Macintosh II.  The 68020 had a full thirty-two bit address bus, so the memory manager could no longer get away with using the high-order master pointer bits for flags.  It wasn't that hard for Jerome Coonen to convert the memory manager to keep the flags in the block header instead of the master pointer (which was where they should have been in the first place), but the practice of manipulating them directly had crept into third party applications, even though it wasn't supposed to, and it took another year or so to identify and eradicate all the transgressions to upgrade the Macintosh software base to be "32 bit clean", so the full address space could be used.
+
+I paid a more direct price for my second worst mistake, which was to use fixed low memory addresses for toolbox globals.  The Apple II kept important system globals in low memory, and the 68000 included a special 'short' addressing mode that made accessing addresses in the first 32K of memory more efficient, which motivated us to use low memory for various globals.  While that may have been acceptable for system globals, it was a clearly a mistake for the toolbox, since that precluded us from running more than one application at a time, since each application required its own copy of the toolbox globals.
+
+That didn't matter much at first, because with 128K of RAM, we barely had enough memory to run a single application at a time.  But when the 512K Macintosh was released in September 1984, it started to become an issue.  In October 1984, after I left Apple to work on my own, I realized that you could solve the problem by swapping all of the application-dependent low memory locations when you performed a context switch. In a few days, I wrote the core of the Mac's first multi-tasking environment called Switcher, using the low memory swapping technique, that kept multiple programs resident in memory at once, and switched between them with a nifty scrolling effect.  Using low memory like we did ended up making context switching a few milliseconds slower than it should have been, and made it harder to eventually use a memory management unit, but it didn't turn out to be as devastating as I once thought.
+
+We wanted the Macintosh to have a relatively simple system architecture, so it could perform well with limited hardware resources, but perhaps we went a little too far.  We decided that we could live without a memory management unit, which was the right decision because of the expense of the associated hardware.  But we also decided to eliminate the distinction between user and system code, by running everything in supervisor mode.   This empowered applications and simplified the system, but it was a poor choice in the long run, because it made it harder to control the software base as the system evolved.
+
+Even Bill Atkinson made an occasional error.  His worst mistake was using signed 16-bit integers as sizes in various QuickDraw data structures like regions and pictures.  This limited the maximum size of a region or picture to 32 kilobytes, which became a significant limitation a few years later as memory sizes grew.  Bruce Horn's resource manager suffered a similar problem, using 16 bit offsets, limiting the size of resource files unnecessarily.
+
+The biggest problem with the Macintosh hardware was pretty obvious, which was its limited expandability.  But the problem wasn't really technical as much as philosophical, which was that we wanted to eliminate the inevitable complexity that was a consequence of hardware expandability, both for the user and the developer, by having every Macintosh be identical.  It was a valid point of view, even somewhat courageous, but not very practical, because things were still changing too fast in the computer industry for it to work, driven by the relentless tides of Moore's Law.  Burrell did try to sneak some expandability into the design (see Diagnostic Port), but was only partially successful.
+
+Limited hardware expandability exacerbates other flaws in the design, since you don't have the flexibility for yourself or third-parties to easily correct them.  One of the biggest mistakes that we made in the first Mac was not enough support for a hard drive.  Our first file system used a simple data structure that didn't scale well to large drives (in fact, it was suggested to us by Bill Gates in July 1981), and we didn't have a way to get bits in and out of the box at the rates that a hard disk required.  In our defense, it was hard to for us to consider adding a hard disk to the Macintosh because it was one of the last differentiators from the Lisa, which was more than three times as expensive.  But the lack of hardware flexibility made it more difficult for third parties to jump into the breach, although some did anyway.
+
+From a broader perspective, I think that many of our mistakes came from a lack of understanding about exactly what we were doing.  We thought that we were making a great product, reincarnating the Apple II for the 1980's, but we were actually creating the first in a long line of compatible computers that would persist for decades, although the latter wouldn't have happened if we didn't succeed at the former.  Perhaps our design would have given the future more priority over the present if we had understood how long it would last.
