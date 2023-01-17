@@ -15,7 +15,7 @@ summary: Eulogy for Brian Howard, Macintosh hero, 1944-2010
 * Characters: Brian Howard, Jef Raskin, Burrell Smith
 * Summary: Eulogy for Brian Howard, Macintosh hero, 1944-2010
 
-![Brian with his wife Lynne Toribara](images/Macintosh/brian-howard.jpg) 
+![Brian with his wife Lynne Toribara](images/brian-howard.jpg) 
     
 Brian Howard was the second person to join the Mac team, and played a crucial role at Apple co-designing many generations of Macs for over thirty years.   When he passed away from cancer on February 1, 2010, his wife Lynne asked me to speak about his contributions to Apple at his memorial service; I'm including my notes for the talk below.
 

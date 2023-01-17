@@ -15,7 +15,7 @@ summary: The evolution of the Macintosh digital board
 * Characters: Dan Kottke, Burrell Smith, Brian Howard, Folon, Jerry Manock, George Crow, Steve Jobs, Wendell Sander, Colette Askeland
 * Summary: The evolution of the Macintosh digital board
 
-![Macintosh wire-wrap #5](images/Macintosh/wirewrap83a.jpg) 
+![Macintosh wire-wrap #5](images/wirewrap83a.jpg) 
     
 When I started with the Mac team in Jan '81 there was just one wire-wrapped 68000 prototype, so my first job was to start making more protos along with Brian ('Uncle Dougie') Howard - who technically was a writer working under Jef but had been handling many of the hardware build-and-debug tasks for Burrell. Between the two of us Brian and I built another 4 or 5 prototypes for use by the programmers. These were built using some generic 8" x 9" printed circuit cards we found. One of these wire-wrap protos could be built in a couple of days if you had all the parts on hand, and they had the advantage of being readily modifiable.  Actually, these protos were undergoing fairly continual modification and the one I that I held on to, #5, had been updated in 1982 with the Z8530 SCC (Serial Comm Controller), the IWM (Integrated Woz Machine) disk controller, and the STF (Special Task Force) clock, which were improvements over the original design.
 
@@ -44,7 +44,7 @@ Later in 1981 we brought Colette Askeland over from the Apple-II/III division to
 
 **Macintosh Schematics**
 
-![Diagram of Macintosh circuit board schematic](images/Macintosh/schematic.jpg)
+![Diagram of Macintosh circuit board schematic](images/schematic.jpg)
 
 The Macintosh schematics were drawn by Dave Root (I think) in the CAD group, under the direction of lead mechanical designer Jerry Manock. Following industry practice, the set of official Mac schematics comprised something like 3 or 4 large 'D' size drawings, with many signals crossing from one page to the other and back again. As the Mac electrical design became frozen in early 1983 I was thinking we needed a simplified condensed schematic, a one-page version that could be reduced and hung on the wall when troubleshooting the logic board. Since so much of the Mac architecture was incorporated in PALs and every input and output of a PAL has a name, it occurred to me to make a new kind of hybrid schematic, where the signal paths were not actually drawn (except in a few cases), but there's a name for every input and output of every chip on the board. This would be a hybrid of the assembly drawing, which shows every part in its actual location and orientation on the board, and the schematic, which shows what connects to what. 
 

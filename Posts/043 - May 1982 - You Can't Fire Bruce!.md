@@ -15,7 +15,7 @@ summary: The software team has a personality clash
 * Characters: Bob Belleville, Bud Tribble, Alan Kay, Steve Jobs, Bruce Horn, Ted Kaehler
 * Summary: The software team has a personality clash
 
-![Bruce Horn](images/Macintosh/bruce-horn.jpg) 
+![Bruce Horn](images/bruce-horn.jpg) 
     
 Even though he was only twenty two years old when he joined the Mac team, Bruce Horn already had seven years of experience tinkering with graphical user interfaces.  He was recruited as a 14-year-old by Ted Kaehler to do some programming experiments in Smalltalk at Alan Kay's Learning Research Group in the mid-seventies, and he took to it so well that he had worked part-time at Xerox PARC ever since.  By the time he joined the Mac team in late 1981, he was an expert in object-oriented programming and graphical user interfaces.
 

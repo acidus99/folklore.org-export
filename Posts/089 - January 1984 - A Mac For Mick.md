@@ -15,7 +15,7 @@ summary: We present a Mac to Mick Jagger
 * Characters: Bob Belleville, Steve Jobs, Lynn Takahashi, Patti King, Bill Atkinson, Mike Murray, Andy Hertzfeld
 * Summary: We present a Mac to Mick Jagger
 
-![Mick Jagger](images/Macintosh/mick.jpg) 
+![Mick Jagger](images/mick.jpg) 
 
 The last couple of weeks before the Macintosh unveiling on January 24th were extremely hectic.  The software still wasn't finished, and it wasn't clear if there was enough time left to get it into adequate shape.  Meanwhile, the Apple PR machine was revved up to full speed, so there were also plenty of unusual diversions, like being interviewed and photographed for the national press.
 
@@ -23,7 +23,7 @@ The absolute deadline for finishing the software was when the factory opened at 
 
 I came into work later than usual, around noon, since I had been at Apple until 3am the previous evening, and I wanted to get one decent night's sleep before the final push.  As I went to sit down, I noticed that a handwritten note had been placed on my chair.  It was from our software librarian, Patti King, who had taken a message from Steve Jobs' secretary, Lynn Takahashi.
 
-![Actual Note about Mac for Mick Jagger](images/Macintosh/jagger_note.jpg)
+![Actual Note about Mac for Mick Jagger](images/jagger_note.jpg)
 
 "Andy -  Steve J. called - we can deliver a Mac to Mick Jagger tomorrow.  You can fly out to meet them by tomorrow noon and bring lots of neat software.  If you can come, make arrangements for the trip through Lynn. Steve will call back in a couple of hours, also, he'll be at the Carlyle Hotel tomorrow."
 

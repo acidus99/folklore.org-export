@@ -15,7 +15,7 @@ summary: The final push to finish the software
 * Characters: Andy Hertzfeld, Bill Atkinson, Steve Capps, Jerome Coonen, Bob Belleville, Steve Jobs, Donn Denman, Randy Wigginton, Mike Murray
 * Summary: The final push to finish the software
 
-![Chocolate Covered Espresso Beans](images/Macintosh/expresso_beans.gif) 
+![Chocolate Covered Espresso Beans](images/expresso_beans.gif) 
     
 By the fall of 1983, we had committed to announcing and shipping the Macintosh at Apple's next annual shareholder's meeting, to be held on January 24th, 1984.  The failure of the Twiggy disk drive almost caused us to be late (see Quick, Hide In This Closet!), but it seemed like the new Sony 3.5 inch drive solved all of our problems, and the rest of the hardware was ready to go. The Macintosh ROM was frozen in early September and sent out for fabrication.  All that remained was finishing the System Disk, and our two applications, MacWrite and MacPaint.
 

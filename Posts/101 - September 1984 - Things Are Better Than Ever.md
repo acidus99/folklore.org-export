@@ -15,7 +15,7 @@ summary: My leave of absence was drawing to a close
 * Characters: Andy Hertzfeld, Bob Belleville, Bud Tribble, Steve Jobs, Pat Sharp, Burrell Smith
 * Summary: My leave of absence was drawing to a close
 
-![My Apple Badge](images/Macintosh/badge.jpg) 
+![My Apple Badge](images/badge.jpg) 
     
 Toward the end of August 1984, my six month leave of absence (see Leave of Absence) was drawing to a close, and I still hadn't decided whether I would return to Apple.  I continued to feel very close to the company, so it wouldn't be easy for me to turn in my badge, but I didn't see a reasonable alternative.
 

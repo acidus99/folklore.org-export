@@ -15,7 +15,7 @@ summary: We put a hidden icon in the ROM
 * Characters: Steve Jobs, Susan Kare, Steve Capps, Andy Hertzfeld, Steve Jasik
 * Summary: We put a hidden icon in the ROM
 
-![the secret 'Stolen From Apple' icon](images/Macintosh/stolen_from_apple.jpg) 
+![the secret 'Stolen From Apple' icon](images/stolen_from_apple.jpg) 
     
 In 1980, a company called Franklin Computer produced a clone of the Apple II called the Franklin Ace, designed to run the same software.  They copied almost every detail of the Apple II, including all of its ROM based software and all the documentation, and sold it at a lower price than Apple.   We even found a place in the manual where they forgot to change "Apple" to "Ace".   Apple was infuriated, and sued Franklin.  They eventually won, and forced Franklin to withdraw the Ace from the market.
 

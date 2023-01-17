@@ -15,7 +15,7 @@ summary: The Mac team had a reputation for being spoiled
 * Characters: Bud Tribble, Steve Jobs, Rod Holt, Burrell Smith, Jef Raskin, Randy Wigginton, Hartmut Esslinger
 * Summary: The Mac team had a reputation for being spoiled
 
-![Woz in the Bandley 3 Lobby](images/Macintosh/woz_lobby.jpg) 
+![Woz in the Bandley 3 Lobby](images/woz_lobby.jpg) 
     
 The Macintosh team had a reputation for being spoiled, which was certainly true by the middle of 1984, but it wasn't always the case.  Even though Steve Jobs was fond of bragging that the Mac designers were Apple's best engineers, that wasn't necessarily reflected in their compensation.
 

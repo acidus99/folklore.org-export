@@ -15,7 +15,7 @@ summary: We travel to Woz's rock festival
 * Characters: Dan Kottke, Jerry Manock, Steve Jobs, Bill Budge, Rod Holt, Burrell Smith, Steve Wozniak, Andy Hertzfeld
 * Summary: We travel to Woz's rock festival
 
-![Steve Wozniak on stage at the US Festival](images/Macintosh/woz_on_stage.jpg) 
+![Steve Wozniak on stage at the US Festival](images/woz_on_stage.jpg) 
     
 As soon as Steve Jobs took over the Macintosh project in January 1981, he recruited many of the crucial early Apple employees who had worked on the Apple II, including Rod Holt, Jerry Manock, Dan Kottke, Randy Wiggington and Apple co-founder Steve Wozniak.
 
@@ -31,7 +31,7 @@ Peter put together a team, and plans began to take shape for an impressive 3 day
 
 Woz encouraged his Apple friends to come to the US Festival by giving us special gold passes that got us in for free, and permitted us to hang around back stage.  Burrell Smith, Bill Budge and myself rented a camper and drove down together, skipping work to leave Friday morning so we could be there by the start of festivities that evening.
 
-![A view of the stage from afar](images/Macintosh/us2.jpg)
+![A view of the stage from afar](images/us2.jpg)
 
 After the long drive, we parked the camper a half mile away from the festival site, and walked the dusty trail to the main concert area amid the gathering crowd.  We arrived just as the sun was setting and the first band, The Gang of Four, was taking the stage.  After their set ended, we made our way to the stage area, to test out our gold passes and see if we could find Woz.
 

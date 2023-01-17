@@ -15,7 +15,7 @@ summary: Burrell and I get our pictures in Newsweek
 * Characters: Steve Jobs, Burrell Smith, Regis McKenna, Steve Wozniak, Andy Hertzfeld, Andy Cunningham, Jane Anderson, Katie Cadigan
 * Summary: Burrell and I get our pictures in Newsweek
 
-![Burrell and Andy in Newsweek](images/Macintosh/andyburrellnews.jpg) 
+![Burrell and Andy in Newsweek](images/andyburrellnews.jpg) 
     
 The marketing campaign that launched the original Macintosh was almost as imaginative and innovative as the product itself. It included a carefully orchestrated press blitz, masterminded by Regis McKenna, the legendary Silicon Valley marketing guru whose business card read "Regis McKenna, Himself", and his team of bright, young female assistants, who we nicknamed the "Rejettes": Andy Cunningham, Jane Anderson and Katie Cadigan.
 
@@ -29,7 +29,7 @@ After we returned to Cupertino, we got word that we had passed muster and that N
 
 The software still wasn't finished, even though there were only five days left to work on it, and tension mounted as weeks of relentless pressure were taking their toll on the team (see Real Artists Ship).  When the Newsweek photographer arrived, he wanted to photograph me in my office, but I was afraid that would be too disruptive to the rest of the team, so I told him that I often worked at home, and convinced him to take the picture in the messy office of my house in Palo Alto.
 
-![Newsweek cover they used instead](images/Macintosh/skies_safe.jpg)
+![Newsweek cover they used instead](images/skies_safe.jpg)
 
 Unfortunately, somehow the San Jose Mercury found out that we had been granted the Newsweek cover, and mentioned it in their business gossip column that came out on Friday.  Newsweek didn't want the world to think their cover was pre-determined, so that was enough to make them change it - switching, at the last minute, to a stand-by cover asking the burning question "Can We Keep The Skies Safe?"
 

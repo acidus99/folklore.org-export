@@ -15,7 +15,7 @@ summary: Burrell had a unique approach to playing Defender
 * Characters: Burrell Smith, Donn Denman, Andy Hertzfeld
 * Summary: Burrell had a unique approach to playing Defender
 
-![Defender was Burrell's favorite video game](images/Macintosh/defenderscreen.gif) 
+![Defender was Burrell's favorite video game](images/defenderscreen.gif) 
     
 Working 90 hours a work week requires frequent, and highly effective, work breaks.  In the center of Macintosh work area in Bandley 3 we had a ping pong table, a nice stereo system, and a Defender video game machine.  We found that competitive play gave us a jolt of adrenaline, and a refreshed mind-set when we resumed work.  We also learned a lot about our coworkers and how they excel during competition.  While playing Defender one day I got some great insight into how Burrell accelerates his own learning process.
 
@@ -25,7 +25,7 @@ The goal of Defender is to defend your humans from abduction by aliens.  The evi
 
 After a while, surviving the first few game levels was pretty easy, unless you had been up all night programming or something.  The Defender machine was probably a pretty good objective measure of current mental capacity.  "Gee, I can't even get through level 2!  I guess it's time to get some sleep."  Better to put in a bad performance on the defender game than mess up the current programming task, or start down the wrong path on some hardware design.
 
-![Woz playing Defender in Bandley 3](images/Macintosh/WozDefender.jpg)
+![Woz playing Defender in Bandley 3](images/WozDefender.jpg)
 
 One day Burrell started doing something radical.  Andy came by my cube and said "You've got to come see what Burrell's doing with Defender."  "How can you innovate with a video game?" I wondered.  I'd seen Burrell and Andy innovate on all kinds of things, but I couldn't image how he could somehow step outside the box of a video game - the machine controlled the flow and dictated the goals.  How could you gain some control in that environment?
 

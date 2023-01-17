@@ -15,7 +15,7 @@ summary: A curious style of programming
 * Characters: Bud Tribble, Tom Malloy, Charles Simonyi, Bill Atkinson
 * Summary: A curious style of programming
 
-![Charles Simonyi in the early days](images/Macintosh/simonyi.jpg) 
+![Charles Simonyi in the early days](images/simonyi.jpg) 
     
 The Macintosh used the same Motorola 68000 microprocessor as its predecessor, the Lisa, and we wanted to leverage as much code written for Lisa as we could.  But most of the Lisa code was written in the Pascal programming language.  Since the Macintosh had much tighter memory constraints, we needed to write most of our system-oriented code in the most efficient way possible, using the native language of the processor, 68000 assembly language.  Even so, we could still use Lisa code by hand translating the Pascal into assembly language.
 

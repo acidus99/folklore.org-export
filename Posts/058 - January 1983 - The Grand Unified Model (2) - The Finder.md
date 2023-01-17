@@ -15,7 +15,7 @@ summary: The evolution of the Finder
 * Characters: Bruce Horn, Larry Kenyon, Steve Jobs, Frank Ludolph, Steve Capps, Dan Smith, Bill Atkinson, Andy Hertzfeld
 * Summary: The evolution of the Finder
 
-![The Finder](images/Macintosh/finder_logo.gif) 
+![The Finder](images/finder_logo.gif) 
     
 One of the first things I did when I joined the Mac group was to begin working on the Finder.  The first Finder, written in early 1982 with Andy's help, was a simple diskette image with tabs that represented the files on the disk.  (see Early Demos).  This Finder was the first to begin to take advantage of the idea of spatial organization: you could drag the tabs around and place them wherever you wanted on the floppy image.  Also, my experience with Smalltalk showed through: the big "Do It" button was named after the Do It menu item in Smalltalk, which evaluated a selected expression.  This Finder was actually usable, and served as a placeholder until the real Finder was available.
 

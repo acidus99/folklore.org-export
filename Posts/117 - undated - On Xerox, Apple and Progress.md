@@ -21,7 +21,7 @@ This essay was written by Bruce in 1996, and is reprinted here with his permissi
 
 ## Where It All Began
 
-![Building sign for Xerox PARC](images/Macintosh/parc.jpg)
+![Building sign for Xerox PARC](images/parc.jpg)
 
 For more than a decade now, I've listened to the debate about where the Macintosh user interface came from. Most people assume it came directly from Xerox, after Steve Jobs went to visit Xerox PARC (Palo Alto Research Center). This "fact" is reported over and over, by people who don't know better (and also by people who should!). Unfortunately, it just isn't true - there are some similarities between the Apple interface and the various interfaces on Xerox systems, but the differences are substantial.
 

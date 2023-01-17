@@ -15,7 +15,7 @@ summary: A double standard for secrecy
 * Characters: Jerry Manock, Terry Oyama, Steve Jobs, Jef Raskin
 * Summary: A double standard for secrecy
 
-![Joan Baez](images/Macintosh/joan_baez.jpg) 
+![Joan Baez](images/joan_baez.jpg) 
     
 The Macintosh Team was sworn to the utmost secrecy about our project.  We were moved to the top floor of a nondescript two story office building about two blocks from the established Bandley Drive Apple complex.  There was no identification on our door.  Our view west was of a Texaco gas station... thus the name "Texaco Towers" spontaneously evolved for the new Macintosh-in-development headquarters (see Texaco Towers).  Steve Jobs would come over to visit us several times a day to stay on top of our progress.  On these visits he alternated between "cheerleader" and "strict parent."  Ever-present was his enthusiasm, his dedication to  excellent design, and his exhortation to keep our project confidential.
 

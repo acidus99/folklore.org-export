@@ -15,7 +15,7 @@ summary: A visit to the Lisa offices by former Governor Jerry Brown
 * Characters: Jerry Brown, Dan Cochran, Steve Jobs, John Sculley, Al Mandel
 * Summary: A visit to the Lisa offices by former Governor Jerry Brown
 
-![Apple Appoints New CEO?](images/Macintosh/jbrown.jpg) 
+![Apple Appoints New CEO?](images/jbrown.jpg) 
     
 On April 8th of 1983, Steve Jobs came by the Lisa offices on Bandley Drive with the former governor of California, Jerry Brown, in tow. I had just arrived at the office, with a full day of work already scheduled, but had to drop everything when Steve asked me to brief Brown on the Lisa and to give him a tour of the offices.
 

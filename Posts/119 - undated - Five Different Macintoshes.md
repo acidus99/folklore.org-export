@@ -15,7 +15,7 @@ summary: Burrell actually designed 5 different Macintoshes
 * Characters: Burrell Smith, Bud Tribble, Wendell Sander, Steve Jobs, Jef Raskin, Bill Atkinson
 * Summary: Burrell actually designed 5 different Macintoshes
 
-![The final version of the Mac digital board](images/Macintosh/mac_digital_board.jpg) 
+![The final version of the Mac digital board](images/mac_digital_board.jpg) 
     
 The awesomely creative design of the Macintosh digital board was always the seed crystal of brilliance at the core of the project,  but there wasn't just one design; Burrell redesigned the digital board four different times as development proceeded, finally arriving at the shipping design in the fall of 1982.
 

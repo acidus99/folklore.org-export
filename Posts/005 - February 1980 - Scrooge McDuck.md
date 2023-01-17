@@ -15,7 +15,7 @@ summary: The very first image on the very first Macintosh
 * Characters: Burrell Smith, Andy Hertzfeld, Jef Raskin, Tom Whitney, Bob Bishop, Cliff Huston, Dick Huston
 * Summary: The very first image on the very first Macintosh
 
-![This image is similar to the first image ever displayed on a Macintosh](images/Macintosh/scrooge.jpg) 
+![This image is similar to the first image ever displayed on a Macintosh](images/scrooge.jpg) 
     
 Burrell Smith liked to do intensive design work over the Christmas break, so the very first prototype of the very first Macintosh sprung to life early in the first month of the new decade, in January 1980.  It wasn't really a stand-alone computer yet, as the prototype resided on an Apple II peripheral card, but it already contained the essential hardware elements of Jef Raskin's Macintosh dream: a Motorola 6809E microprocessor, 64K of memory, and a 256 by 256 bit-mapped graphic frame buffer, which was hooked up to a cute, tiny 7 inch black and white display.  Burrell used the Apple II host to poke values into the memory of the prototype, so he could initialize the control registers and run small programs with the 6809.
 
@@ -23,7 +23,7 @@ I went out to lunch with Burrell a few weeks later and, knowing my appreciation 
 
 By now, Burrell thought that he had the graphics running properly, but he wasn't really sure; he still needed to write some software to try it out.  I told him that I'd look into it when I had some time. He gave me a copy of a handwritten page that contained the magic addresses that I'd have to use, hoping that I'd get around to it soon.
 
-![Page with code necessary to put Apple II's graphics into the Mac prototype's frame-buffer](images/Macintosh/burrelldma.jpg)
+![Page with code necessary to put Apple II's graphics into the Mac prototype's frame-buffer](images/burrelldma.jpg)
 
 I was used to coming back to the lab at Apple after dinner, to see if anything interesting was going on and working on various extra-curricular projects.  I had some spare time that night, so I got out Burrell's instructions and wrote an Apple II (6502) assembly language routine to do the necessary bit-twiddling to transfer whatever was on the Apple II's hi-res graphic display to the Mac prototype's frame-buffer, using Burrell's unusual synchronization scheme.
 

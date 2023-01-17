@@ -15,7 +15,7 @@ summary: MacPaint 2.0
 * Characters: Bill Atkinson, Gene Pope, David Ramsey, Rich Page
 * Summary: MacPaint 2.0
 
-![MacPaint 2.0's](images/Macintosh/AboutPaint.jpg) 
+![MacPaint 2.0's](images/AboutPaint.jpg) 
     
 I was hired at Apple in early 1986. Oddly, I was given nothing to do when I started, so after setting up my cube and getting my Lisa (all Mac programming was done on the Lisa back then) running, I wandered over to my manager's cube and asked if he had the source to MacPaint. He had-- he handed me a single Lisa diskette with all of MacPaint on it.
 

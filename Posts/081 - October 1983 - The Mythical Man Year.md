@@ -15,7 +15,7 @@ summary: Steve estimates the effort that went into Quickdraw
 * Characters: Steve Jobs, Bill Atkinson
 * Summary: Steve estimates the effort that went into Quickdraw
 
-![Bill and Burrell on the cover of Byte](images/Macintosh/bill-byte-cover.jpg) 
+![Bill and Burrell on the cover of Byte](images/bill-byte-cover.jpg) 
     
 One of our first encounters with the press was a group interview with Byte magazine in October 1983. We wanted an article to come out concurrently with the Mac intro the third week of January, and Byte had a three month lead time, so they were the first.
 

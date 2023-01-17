@@ -15,7 +15,7 @@ summary: The creation of resources
 * Characters: Andy Hertzfeld, Bob Belleville, Bruce Horn, Alan Kay, Steve Capps, Bill Atkinson, Dan Smith, Frank Ludolph, Larry Kenyon, Joanna Hoffman, Ted Kaehler, Steve Jobs
 * Summary: The creation of resources
 
-![Applications contained many resources](images/Macintosh/resources.gif) 
+![Applications contained many resources](images/resources.gif) 
     
 Imagine the challenge: designing and implementing a brand new, graphical user interface, operating system, and core applications for a small personal computer to compete with the IBM PC.  That's what we were going to do with the Macintosh.
 

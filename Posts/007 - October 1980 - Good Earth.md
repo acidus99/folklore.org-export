@@ -15,7 +15,7 @@ summary: The original Mac team's original office
 * Characters: Bud Tribble, Steve Jobs, Jef Raskin, Bill Atkinson, Rod Holt, Burrell Smith, Joanna Hoffman, Brian Howard, Steve Wozniak, Mike Scott, Mike Markkula
 * Summary: The original Mac team's original office
 
-![Nerf balls were a favorite toy](images/Macintosh/nerfball.jpg) 
+![Nerf balls were a favorite toy](images/nerfball.jpg) 
     
 In 1979 and 1980, Jef Raskin's Macintosh project was a four person research effort with a tenuous existence.  It wasn't considered to be very important within Apple, and was almost cancelled a couple of times.  When Apple had another major reorganization in the fall of 1980, it was terminated again, but Jef pleaded with Mike Scott and Mike Markkula for more time, and was granted three more months to show that he was really onto something. As part of the re-org, the four person Macintosh team (Jef Raskin, Brian Howard, Burrell Smith, Bud Tribble, soon to be joined by Joanna Hoffman) relocated to a small office building a few blocks from the main Apple campus.
 

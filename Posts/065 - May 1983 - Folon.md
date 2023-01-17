@@ -15,7 +15,7 @@ summary: Early Mac art from Jean-Michel Folon
 * Characters: Folon, Andy Hertzfeld, Steve Jobs, Susan Kare
 * Summary: Early Mac art from Jean-Michel Folon
 
-![Jean-Michel Folon](images/Macintosh/jean-michel-folon.jpg) 
+![Jean-Michel Folon](images/jean-michel-folon.jpg) 
     
 In early 1982, Steve Jobs had another one of his self-proclaimed crazy ideas.  He proposed contriving a surreptitious little animated character dubbed "Mr. Macintosh", who would lurk in the subterranean depths of the system software, surfacing every once in a while to startle the user (see Mister Macintosh)
 
@@ -25,7 +25,7 @@ We were excited to show the Mac to an accomplished artist like Folon, and curiou
 
 Folon seemed fascinated by the embryonic Macintosh; after we demoed MacSketch to him, we could barely restrain him from taking over the mouse for himself.   After experimenting for a few minutes, he found a pen size that he liked, cleared the screen and started drawing in his inimitable style.  He quickly sketched a cartoon featuring a man holding a gigantic Apple on his outstretched arm, with a bite taken out of it in the same place as the Apple logo.  The man's mouth was wide open, mimicking the hole in the apple.
 
-![Folon's signed MacSketch drawing](images/Macintosh/folon.jpg)
+![Folon's signed MacSketch drawing](images/folon.jpg)
 
 It was an amazing first try and was definitely worth preserving for posterity, but we hadn't gotten around to implementing a "Save" command in MacSketch yet.   Fortunately, we did have a rudimentary "Print" command working, so we were able to capture it on paper.   I folded up a copy and kept it in my wallet to occasionally use as an example of what could be done with the Mac.   Apple rewarded Folon with a commission to try to come up with a look for Mr. Macintosh and other marketing materials.
 

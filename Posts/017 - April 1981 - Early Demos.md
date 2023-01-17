@@ -15,7 +15,7 @@ summary: Various demos showed off what the hardware could do
 * Characters: Andy Hertzfeld, Bud Tribble, Rich Page, Bob Bishop, Bill Atkinson, Bruce Horn
 * Summary: Various demos showed off what the hardware could do
 
-![Early Finder Prototype from Feb 1982](images/Macintosh/microfinder.jpg) 
+![Early Finder Prototype from Feb 1982](images/microfinder.jpg) 
     
 The first demo program for the 68000-based Macintosh was written by Bud Tribble, as part of the original boot ROM.  It filled the screen with the word 'hello' in tiny letters, more than a hundred times.  When the Mac was switched on, it performed some hardware diagnostics, filled the screen with 'hello', and then listened to its serial ports for commands to execute.  The 'hellos' told us that everything was working OK.
 

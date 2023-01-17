@@ -15,7 +15,7 @@ summary: Burrell Smith was creative in more than just engineering.
 * Characters: Burrell Smith, Andy Hertzfeld, Wendell Sander, Steve Wozniak
 * Summary: Burrell Smith was creative in more than just engineering.
 
-![Andy and Burrell in January 1983](images/Macintosh/Burrell_and_Andy.jpg) 
+![Andy and Burrell in January 1983](images/Burrell_and_Andy.jpg) 
     
 Toward the end of my first week as an Apple employee in August 1979, I noticed that someone had left a black binder on my desk, with a hand-written title that read, "Apple II: Principles of Operation".  It contained a brilliant, concise description of how the Apple II hardware worked, reverently explaining details of Woz's epic, creative design hacks, in a clearer fashion than I'd ever read before.  I didn't know who left it there, but the title page said it was written by "Burrell C. Smith".
 

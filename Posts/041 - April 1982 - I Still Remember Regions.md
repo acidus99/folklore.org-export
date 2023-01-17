@@ -15,7 +15,7 @@ summary: We almost lose Bill in a car accident
 * Characters: Bill Atkinson, Steve Jobs
 * Summary: We almost lose Bill in a car accident
 
-![Regions were the heart of QuickDraw](images/Macintosh/regions.jpg) 
+![Regions were the heart of QuickDraw](images/regions.jpg) 
     
 The single most significant component of the original Macintosh technology was QuickDraw, the graphics package written by Bill Atkinson for the Lisa project, which pushed pixels around the frame buffer at blinding speeds to create the celebrated user interface.  One of QuickDraw's main jobs was to provide the primitives for quickly drawing text and graphics into overlapping windows, when the window that you're drawing into may be partially obscured by other windows.  Applications could just draw without worrying if their window was obstructed because Quickdraw, with a little help from the window manager, would take care of the clipping to make sure pixels stayed inside in their window.
 

@@ -15,7 +15,7 @@ summary: Steve confronts Bill Gates about copying the Mac
 * Characters: Steve Jobs, Neil Konzen, Mike Boich, Bill Gates
 * Summary: Steve confronts Bill Gates about copying the Mac
 
-![The Xerox Star was an influential predecessor](images/Macintosh/xerox-star.jpg) 
+![The Xerox Star was an influential predecessor](images/xerox-star.jpg) 
     
 When Steve Jobs recruited Microsoft to be the first third party applications software developer for the Macintosh, he was already concerned that they might try to copy our ideas into a PC-based user interface.  As a condition of getting an early start at Macintosh development, Steve made Microsoft promise not to ship any software that used a mouse until at least one year after the first shipment of the Macintosh.
 

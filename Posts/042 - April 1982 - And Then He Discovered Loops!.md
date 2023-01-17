@@ -15,7 +15,7 @@ summary: Bob has written many lines of code
 * Characters: Bob Belleville, Rich Williams
 * Summary: Bob has written many lines of code
 
-![Bob Belleville in 1983](images/Macintosh/bob_belleville.jpg) 
+![Bob Belleville in 1983](images/bob_belleville.jpg) 
 
     
 We interviewed quite a few candidates to replace Bud as the software manager before encountering Bob Belleville, who was one of the main hardware designers of the Xerox Star, the first commercial computer with a graphical user interface.  He was intelligent and soft-spoken, and dryly skeptical about human nature.  One of his many aphorisms was "The Law of Conservation of Misery" (no matter what course of action is taken, the total human misery in any given situation is maintained), which seemed particularly applicable to large computer companies.

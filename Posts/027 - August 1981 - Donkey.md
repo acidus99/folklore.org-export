@@ -15,7 +15,7 @@ summary: We discover who wrote an awkward game for the PC
 * Characters: Bill Gates, Neil Konzen, Steve Jobs, Charles Simonyi
 * Summary: We discover who wrote an awkward game for the PC
 
-![the original IBM PC](images/Macintosh/PC.jpg) 
+![the original IBM PC](images/PC.jpg) 
     
 The first version of the IBM PC was introduced in August 1981.  Apple responded by running an ad in the Wall Street Journal with the headline "Welcome, IBM.  Seriously."   Even though he was usually tight with money, Steve Jobs allowed the Mac team to buy an early unit to dissect and evaluate.  The day it became available, we ran to the store and purchased one to take back to the lab.
 

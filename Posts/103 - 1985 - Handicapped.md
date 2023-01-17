@@ -15,7 +15,7 @@ summary: The reason that Steve parks in the handicapped space
 * Characters: Steve Jobs, Jean-Louis Gassee, Andy Hertzfeld, Steve Wozniak
 * Summary: The reason that Steve parks in the handicapped space
 
-![Handicapped Parking sign](images/Macintosh/HANDI.gif) 
+![Handicapped Parking sign](images/HANDI.gif) 
 
 Most of the anecdotes that I've written for Folklore are based on incidents that I observed myself, but sometimes a second or third hand story is just too good to pass up.  I have to issue a disclaimer here that I didn't actually witness the punch line to this one, and it certainly seems too good to be true.
     

@@ -15,7 +15,7 @@ summary: We stay late to bring up the first printed circuit board
 * Characters: Burrell Smith, Brian Howard, Dan Kottke, Steve Jobs, Bud Tribble
 * Summary: We stay late to bring up the first printed circuit board
 
-![Our reward: Pineapple Pizza](images/Macintosh/pineapplepizza.jpg) 
+![Our reward: Pineapple Pizza](images/pineapplepizza.jpg) 
     
 When I began working on the Mac project in February 1981, there was still only one single 68000-based Macintosh prototype in existence, the initial digital board that was wire-wrapped by Burrell himself.  It was now sitting in the corner of Bud Tribble's office, on one of the empty desks, attached to a small, seven-inch monitor.  When powered up, the code in the boot ROM filled the screen with the word 'hello', in lower case letters and a tiny font, rendered crisply on the distinctive black-on-white display.
 

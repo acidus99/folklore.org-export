@@ -15,7 +15,7 @@ summary: The first product I developed for Apple
 * Characters: Andy Hertzfeld, Steve Wozniak, Victor Bull
 * Summary: The first product I developed for Apple
 
-![The Apple Silentype](images/Macintosh/apple-silent-type.jpg) 
+![The Apple Silentype](images/apple-silent-type.jpg) 
 
 In the summer of 1979, I abandoned grad school to start working at Apple Computer as a systems programmer. I was already thoroughly obsessed with their main product, the Apple II, so it was a dream come true to become an Apple employee and meet the amazing people behind the company.
 

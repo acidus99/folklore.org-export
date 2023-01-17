@@ -15,7 +15,7 @@ summary: The Mac division undergoes an inconceivable reorganization
 * Characters: Bob Belleville, Joanna Hoffman, John Warnock, Mike Scott, Bud Tribble, Steve Jobs, John Sculley, Steve Capps, Bill Atkinson, Burrell Smith, Mike Murray, Jean-Louis Gassee, Andy Hertzfeld
 * Summary: The Mac division undergoes an inconceivable reorganization
 
-![Steve Jobs and John Sculleyin November 1984](images/Macintosh/Jobs_Sculley.jpg) 
+![Steve Jobs and John Sculleyin November 1984](images/Jobs_Sculley.jpg) 
     
 The original Macintosh enjoyed robust sales following its spectacular launch in January 1984 (see The Times They Are A-Changin').  Steve Jobs defined success as selling 50,000 units in the first 100 days, which was a high hurdle for a brand new computer with only a handful of applications available.   In fact, Apple was able to sell more than 72,000 Macintoshes by end of April, and continued to ramp up to sell over 60,000 units in June 1984 alone.
 

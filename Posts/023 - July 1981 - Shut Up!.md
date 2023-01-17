@@ -15,7 +15,7 @@ summary: The first time we demoed the Macintosh to Microsoft
 * Characters: Andy Hertzfeld, Bud Tribble, Steve Jobs, Bill Gates, Charles Simonyi
 * Summary: The first time we demoed the Macintosh to Microsoft
 
-![This movie had a scene based on this story](images/Macintosh/pirates.jpg) 
+![This movie had a scene based on this story](images/pirates.jpg) 
     
 Apple had already learned the value of having a thriving third party software market with the Apple II, whose sales increased more than ten-fold when Visicalc, developed by a tiny company called Software Arts, caught on in the business market.  The Macintosh intended to replicate the success of the Apple II as an industry standard platform, so it was very important to bring third party developers into the picture as soon as possible.
 

@@ -15,7 +15,7 @@ summary: Why the Mac design team got credit for their work
 * Characters: Bill Atkinson, Steve Jobs, Bob Belleville, Bruce Daniels, Larry Tesler, Wayne Rosing, Andy Hertzfeld, Rich Page, Rod Holt, Steve Wozniak, John Couch
 * Summary: Why the Mac design team got credit for their work
 
-![The La Playa Hotel in Carmel](images/Macintosh/laplaya.jpg) 
+![The La Playa Hotel in Carmel](images/laplaya.jpg) 
     
 The Macintosh team held a series of off-site retreats, every six months or so starting in January 1982.  A retreat usually lasted two full days, including an overnight stay.  We'd travel by bus to a naturally beautiful resort an hour or two from Apple's offices in Cupertino, like Pajaro Dunes near Monterey Bay. Every employee on the team was invited, as well as folks from other parts of the company who were contributing to the project. The retreats were a mixture of a divisional communications meeting, an inspirational pep talk and a company party, featuring chats with industry legends like Robert Noyce (inventor of the integrated circuit) or Ben Rosen (the VC who funded Compaq and Lotus), and entertainment from Wyndham Hill artists like Liz Story.
 

@@ -15,7 +15,7 @@ summary: The Mac Team hoists a pirate flag
 * Characters: Steve Capps, Susan Kare, Steve Jobs
 * Summary: The Mac Team hoists a pirate flag
 
-![The pirate flag, as posed for Fortune Magazine in 1984.](images/Macintosh/pirate_flag.jpg) 
+![The pirate flag, as posed for Fortune Magazine in 1984.](images/pirate_flag.jpg) 
     
 The Mac team held another off-site retreat in Carmel in January 1983, just after the Lisa introduction (see Credit Where Due).  Steve Jobs began the retreat with three "Sayings from Chairman Jobs", intended to inspire the team and set the tone for the meeting.   The sayings were:
 

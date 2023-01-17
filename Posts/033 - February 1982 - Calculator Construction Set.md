@@ -15,7 +15,7 @@ summary: Chris tries to make a Steve-approved calculator
 * Characters: Chris Espinosa, Steve Jobs, Donn Denman
 * Summary: Chris tries to make a Steve-approved calculator
 
-![The Calculator](images/Macintosh/calculator.gif) 
+![The Calculator](images/calculator.gif) 
     
 Chris Espinosa was one of Apple's earliest and youngest employees, who started work for the company at the ripe age of 14.  He left Apple in 1978 to go to college at UC Berkeley, but he continued to do freelance work during the school year, like writing the Apple II Reference Manual, the replacement for the legendary "Red Book".
 

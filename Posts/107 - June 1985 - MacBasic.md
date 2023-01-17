@@ -15,7 +15,7 @@ summary: The sad story of MacBasic
 * Characters: Donn Denman, Bryan Stearns, Jerome Coonen, Randy Wigginton, John Sculley, Bill Gates, Bill Atkinson, Steve Wozniak
 * Summary: The sad story of MacBasic
 
-![Applesoft Basic Cassette](images/Macintosh/applesoft.jpg) 
+![Applesoft Basic Cassette](images/applesoft.jpg) 
 
 When the Apple II was first introduced in April 1977, it couldn't do very much because there were few applications written for it. It was important to include some kind of programming language, so users, who were mostly hobbyists, could write their own programs. "Basic", which was designed for teaching introductory programming by two Dartmouth professors in the 1960s, became the language of choice for early microcomputers because it was interactive, simple and easy to use. The Apple II included a Basic interpreter known as "Integer Basic", written from scratch by Steve Wozniak, which was almost as idiosyncratically brilliant as his hardware design, stored in 5K bytes of ROM on the motherboard.  It also came with Microsoft's Basic interpreter, dubbed "Applesoft Basic", on cassette tape.  Sadly, Applesoft eventually displaced Integer Basic in ROM in the Apple II Plus because it had the floating point math routines that Woz never got around to finishing.
 

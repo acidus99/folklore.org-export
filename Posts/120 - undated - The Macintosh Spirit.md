@@ -15,7 +15,7 @@ summary: The attitudes and values of the team forged the spirit of the Macintosh
 * Characters: Steve Jobs, John Couch, Jef Raskin, Burrell Smith
 * Summary: The attitudes and values of the team forged the spirit of the Macintosh
 
-![mac drawing in the style of Picasso](images/Macintosh/macpicasso.jpg) 
+![mac drawing in the style of Picasso](images/macpicasso.jpg) 
     
 The original Macintosh was designed by a small team that worked long hours with a passionate, almost messianic fervor, inculcated by our leader, Steve Jobs, and the excitement that we felt during its creation shines through in the finished product.  The attitudes, values and personalities of the designers are reflected in the thousands of subtle choices that they make in the course of their design, coalescing into a spirit or feeling imparted to its users.
 

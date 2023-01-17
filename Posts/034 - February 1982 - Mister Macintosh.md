@@ -15,7 +15,7 @@ summary: Steve has a unique idea for the software
 * Characters: Steve Jobs, Andy Hertzfeld, Susan Kare, Folon
 * Summary: Steve has a unique idea for the software
 
-![Mr. Macintosh,as rendered by Folon (courtesy of Digibarn)](images/Macintosh/folon_mrmac.jpg) 
+![Mr. Macintosh,as rendered by Folon (courtesy of Digibarn)](images/folon_mrmac.jpg) 
     
 Steve Jobs often came by Texaco Towers after dinner, to see what was new, and we'd usually show him whatever recent progress we made. Sometimes he'd be pissed off about something, but other times he'd be really excited about a new idea.
 

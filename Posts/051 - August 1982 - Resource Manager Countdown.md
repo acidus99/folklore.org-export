@@ -15,7 +15,7 @@ summary: Bob gives Bruce thirty days to finish the Resource Manager
 * Characters: Bruce Horn, Bob Belleville
 * Summary: Bob gives Bruce thirty days to finish the Resource Manager
 
-![Bruce used one note for each remaining day](images/Macintosh/postit.jpg) 
+![Bruce used one note for each remaining day](images/postit.jpg) 
 
 The Resource Manager was one of the cornerstones of the Macintosh Toolbox.  It provided a way to manage chunks of data so they could be easily accessed by the code but be stored and edited independently from it.  This was the basis of our localization, for example, since text strings could be stored as resources and translated without having to change the code and rebuild the entire application.
 

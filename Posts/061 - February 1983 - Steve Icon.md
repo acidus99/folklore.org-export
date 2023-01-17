@@ -15,7 +15,7 @@ summary: Having your own icon became a status symbol
 * Characters: Susan Kare, Steve Jobs, Bill Atkinson, Burrell Smith
 * Summary: Having your own icon became a status symbol
 
-![The Steve Jobs icon, by Susan Kare, in the Icon Editor](images/Macintosh/steveicon.jpg) 
+![The Steve Jobs icon, by Susan Kare, in the Icon Editor](images/steveicon.jpg) 
     
 In February 1983, I worked on putting together an icon editor for Susan Kare to use to create icons for the Finder.  Inspired by the "Fat Bits" pixel editing mode that Bill Atkinson had recently added to MacPaint, it had a large window with a 32 by 32 grid, displaying each pixel at eight times its natural size, as well as a small window that showed the icon at its actual size.   Clicking on a pixel would invert it, and subsequent dragging would propagate the change to the dragged over pixels.
 
@@ -23,7 +23,7 @@ Susan started working on icons for the Finder, but she also would draw lots of o
 
 Icons were only 32 by 32 black or white pixels, 1024 dots in total, and I didn't think it was possible to do a very good portrait in that tiny a space, but somehow Susan had succeeded in crafting an instantly recognizable likeness with a mischevious grin that captured a lot of Steve's personality.  Everyone she showed it to liked it, even Steve himself.
 
-![Bill Atkinson icon by Susan Kare](images/Macintosh/billicon.jpg)
+![Bill Atkinson icon by Susan Kare](images/billicon.jpg)
 
 Bill Atkinson was so impressed with the Steve icon that he asked Susan to do one of him, that he could use in the MacPaint about box.  He sat in Susan's cubicle for an hour or so, chatting with her while she crafted his icon. I don't think it turned out quite as good as the Steve icon, but it certainly was an unmistakable likeness, and did become part of MacPaint.
 

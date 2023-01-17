@@ -15,7 +15,7 @@ summary: Bill decides to leave out a very impressive feature
 * Characters: Steve Jobs, Bill Atkinson, Rod Perkins
 * Summary: Bill decides to leave out a very impressive feature
 
-![MacPaint tool palette](images/Macintosh/macpaint_tools.jpg) 
+![MacPaint tool palette](images/macpaint_tools.jpg) 
     
 While Bill Atkinson was developing LisaGraf, the crucial, lightning fast graphics package that was the foundation of both the Lisa and Macintosh user interface (it was renamed QuickDraw for the Mac), he also worked sporadically on a simple bitmap-based drawing program for the Lisa called SketchPad.  SketchPad enabled mouse-based drawing with a selection of paintbrushes and patterns, and gave Bill a quick way to test out and show off new features or improvements as they were added to LisaGraf.
 
@@ -29,7 +29,7 @@ In fact, despite the Macintosh's limited memory, he used two offscreen buffers, 
 
 After getting basic updating working well, Bill began to add more tools to the palette.  He added a rectangular selection tool, to allow the user to perform operations on a subset of the document.  The selection rectangle was depicted by inverting the pixels beneath it, which worked well enough over solid areas, but was confusing and hard to see when the underlying image was complex, like a digitized picture.  Bill knew he had to find a better way to do it.
 
-![The inspiration for "marching ants"](images/Macintosh/hamms_sign.jpg)
+![The inspiration for "marching ants"](images/hamms_sign.jpg)
 
 He was thinking about the selection problem one evening when he went to dinner at an old beer and hamburger joint in Los Gatos, the kind of place where decades worth of initials are carved into the wooden tables.  He ordered a beer, looked around the bar, and noticed a Hamm's beer sign. The beer sign featured an impressive animated waterfall, with the water seeming to flow down the waterfall into the lake. Bill figured out the animation was accomplished by a mask layer moving beneath the surface of the sign that varied which portion of the image was visible below.it.
 

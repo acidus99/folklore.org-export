@@ -15,7 +15,7 @@ summary: The puzzle desk accessory became controversial.
 * Characters: Andy Hertzfeld, Jerome Coonen
 * Summary: The puzzle desk accessory became controversial.
 
-![The Puzzle desk accessory](images/Macintosh/puzzle-desk-accessory.jpg) 
+![The Puzzle desk accessory](images/puzzle-desk-accessory.jpg) 
     
 The original Macintosh could only run one real application at a time, but it could also concurrently run little programs called "desk accessories" that shared memory with the main application.  Like the system itself, most of the desk accessories were written in 68000 assembly language, but in the fall of 1982, I decided to write one in Pascal as a proof of concept and to show developers how to do it, by writing a tiny adaptor that the Pascal code linked with.
 

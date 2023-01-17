@@ -15,7 +15,7 @@ summary: The story of how this site turned into a book
 * Characters: Steve Jobs, Andy Hertzfeld, Mike Markkula, Steve Wozniak, Tim O'Reilly, Allen Noren, Michelle Weatherbee, Melanie Wang
 * Summary: The story of how this site turned into a book
 
-![Book Cover for Revolution in the Valley](images/Macintosh/revolution.jpg) 
+![Book Cover for Revolution in the Valley](images/revolution.jpg) 
     
 **Revolution in the Valley** is a new hardcover book, published by O'Reilly Media in December 2004, that is based on the anecdotes from this website.  This story describes the book and how it came to be, and what it means to Folklore.org moving forward.
 

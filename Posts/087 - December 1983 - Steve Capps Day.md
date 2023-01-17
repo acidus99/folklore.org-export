@@ -15,7 +15,7 @@ summary: We all dress up in honor of Steve Capps
 * Characters: Jerome Coonen, Steve Capps, Bruce Horn, Larry Kenyon
 * Summary: We all dress up in honor of Steve Capps
 
-![The software team, all dressed up like Capps](images/Macintosh/capps_day_story.jpg) 
+![The software team, all dressed up like Capps](images/capps_day_story.jpg) 
     
 The Macintosh software finally seemed to be coming together as the fall of 1983 wore on.  The ROMs containing most of the system software were finished, and they seemed to mostly be holding up.  Larry Kenyon devised a clever technique for fixing problems in the ROM by patching the nearest system trap to the problem, with the patch code looking on the stack for the ROM address of the caller, which allowed us to fix problems with tiny, surgical incisions, adding some code snippets here or there, without needing to replace large chunks of the ROM with precious RAM as we had originally envisioned.
 

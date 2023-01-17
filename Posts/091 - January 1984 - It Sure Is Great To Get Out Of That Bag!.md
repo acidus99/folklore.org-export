@@ -15,7 +15,7 @@ summary: We need a demo for the intro
 * Characters: Steve Jobs, Steve Capps, Bruce Horn, Andy Hertzfeld, Susan Kare, Mike Boich, Mark Barton, Steve Hayden
 * Summary: We need a demo for the intro
 
-![Cover of Intro Brochure](images/Macintosh/out_of_the_bag.jpg) 
+![Cover of Intro Brochure](images/out_of_the_bag.jpg) 
 
 It took a monumental effort, fueled by inordinate amounts of chocolate covered espresso beans (see Real Artists Ship), to finally finish the first release of the Macintosh software in time for the introduction.  We finished with literally no time to spare,  shipping the "golden master" of the "Write/Paint" disk to the factory at 6am on Monday morning January 16th, a week before the introduction.  By that point, most of the software team hadn't slept for days, so we all went home to collapse.
 

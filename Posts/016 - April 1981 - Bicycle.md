@@ -15,7 +15,7 @@ summary: Rod wants to change the name of the project
 * Characters: Rod Holt, Steve Jobs, Jef Raskin
 * Summary: Rod wants to change the name of the project
 
-![Logo for Mac University Consortium](images/Macintosh/bicycle.gif) 
+![Logo for Mac University Consortium](images/bicycle.gif) 
     
 Jef Raskin chose the name "Macintosh", after his favorite kind of apple, so when Jef was forced to go on an extended leave of absence in February 1981, Steve Jobs and Rod Holt decided to change the name of the project, partially to distance it from Jef. They considered "Macintosh" to be a code name anyway, and didn't want us to get too attached to it.
 

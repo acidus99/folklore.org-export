@@ -15,7 +15,7 @@ summary: Steve Jobs was almost 1982's Man of the Year
 * Characters: Dan Kottke, Steve Jobs, Jef Raskin, Mike Moritz
 * Summary: Steve Jobs was almost 1982's Man of the Year
 
-![Steve on the cover of Time](images/Macintosh/steve_time_cover.jpg) 
+![Steve on the cover of Time](images/steve_time_cover.jpg) 
 
 The February 15th, 1982 edition of Time magazine featured none other than Steve Jobs on its cover, appearing in an article entitled "Striking It Rich: America's Risk Takers".  Instead of a photograph, Steve was depicted in a drawing with a red apple balanced on his head that was pierced by a zig-zag bolt of light emanating from an Apple II.
 
@@ -27,7 +27,7 @@ Macintosh development was shrouded in secrecy, even within Apple, so we were sur
 
 The previous year, a development team at Data General was immortalized by Tracy Kidder's best selling book, "The Soul of a New Machine", about the ups and downs of developing a new mini-computer.  Now it seemed like Mike Moritz was going to do something similar for the Mac team.
 
-![Mike Moritz in 1984](images/Macintosh/moritz_84.jpg)
+![Mike Moritz in 1984](images/moritz_84.jpg)
 
 Over the next few months, Mike spent lots of time hanging around the Mac team, attending various meetings and conducting interviews over lunch or dinner, to learn our individual stories.  Mike had grown up in South Wales and attended Oxford before moving to the US for grad school, obtaining an MBA from Wharton.  He was in his mid-twenties, about the same age as most of us, and was very smart, with a sharp, cynical sense of humor, so he fit right in, and seemed to understand what we were trying to accomplish.
 
@@ -37,7 +37,7 @@ Instead of crowning Steve Jobs as the Man of the Year as we expected, Time's edi
 
 The cover story did include another profile of Steve Jobs, containing some comments that were less than complimentary.  One unspecified friend was quoted saying "something is happening to Steve that's sad and not pretty", but the best quote was attributed to Jef Raskin:  "He would have made an excellent King of France."
 
-![Mike's book](images/Macintosh/little_kingdom.jpg)
+![Mike's book](images/little_kingdom.jpg)
 
 Steve became quite upset when he read an advance copy of the Time article on New Year's eve, and even called up Dan Kottke and Jef Raskin early on New Year's Day to complain to them about it.   Soon, Mike Moritz was no longer welcome on the Apple campus; in fact, Steve told the software team "if any one of you ever talk to him again, you'll be fired on the spot!"
 

@@ -15,7 +15,7 @@ summary: Developer documentation was crucial to our success.
 * Characters: Steve Jobs, Joanna Hoffman, Randy Wigginton, Bill Atkinson, Chris Espinosa, Caroline Rose, Steve Chernicoff, Brad Hacker, Bob Anders
 * Summary: Developer documentation was crucial to our success.
 
-![The phone book edition of Inside Macintosh](images/Macintosh/inside_mac.gif) 
+![The phone book edition of Inside Macintosh](images/inside_mac.gif) 
     
 One of the main differences between the Lisa and Macintosh projects was the way that they viewed third party developers. The Lisa team was writing an integrated suite of seven office-oriented applications internally, so they didn't see a need to support third party developers at first, although they planned to do it eventually.
 

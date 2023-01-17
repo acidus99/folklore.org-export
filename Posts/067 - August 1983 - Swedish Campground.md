@@ -15,7 +15,7 @@ summary: How we got the unusual symbol used for the menu command key
 * Characters: Susan Kare, Steve Jobs
 * Summary: How we got the unusual symbol used for the menu command key
 
-![Command Key Symbol](images/Macintosh/command_key.jpg) 
+![Command Key Symbol](images/command_key.jpg) 
     
 We thought it was important for the user to be able to invoke every menu command directly from the keyboard, so we added a special key to the keyboard to invoke menu commands, just like our predecessor, Lisa.   We called it the "Apple key"; when pressed in combination with another key, it selected the corresponding menu command.   We displayed a little Apple logo on the right side of every menu item with a keyboard command, to associate the key with the command.
 

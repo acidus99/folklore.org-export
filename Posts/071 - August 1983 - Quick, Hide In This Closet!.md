@@ -15,7 +15,7 @@ summary: Steve forbid us to work with Sony
 * Characters: George Crow, Bob Belleville, Larry Kenyon, Steve Jobs, Rod Holt, Rich Williams, Hide Kamoto
 * Summary: Steve forbid us to work with Sony
 
-![A Twiggy diskette](images/Macintosh/twiggy.jpg) 
+![A Twiggy diskette](images/twiggy.jpg) 
     
 In 1980, Apple reorganized again, splitting off a new "Disk Division" headed by John Vennard, responsible for developing a hard disk code-named "Pippin" and a next generation floppy disk code-named "Twiggy".  Both were intended to be used first by the Lisa project, and eventually across Apple's entire product line.  At Rod Holt's request, I had written some early diagnostics for Twiggy using an Apple II, but I felt lucky that they asked Rich Williams instead of me to transfer to the disk division as their software guy, since focusing exclusively on disks seemed pretty limiting.
 

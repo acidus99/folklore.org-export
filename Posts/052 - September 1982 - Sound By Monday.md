@@ -15,7 +15,7 @@ summary: Steve threatens to remove Mac's sound capability
 * Characters: Burrell Smith, Andy Hertzfeld, Steve Jobs
 * Summary: Steve threatens to remove Mac's sound capability
 
-![Cartoon from IEEE Spectrum](images/Macintosh/Sound_By_Monday.jpg) 
+![Cartoon from IEEE Spectrum](images/Sound_By_Monday.jpg) 
     
 When Burrell redesigned the Macintosh digital board in August 1982 after the Integrated Burrell Machine effort fell apart, one of the most significant improvements involved the sound generation capability.  All of the extra logic available in the IBM chip allowed Burrell to implement four simultaneous channels of sound, each using a custom wavetable.   That was too expensive to keep without the custom chip, but he was able to maintain the fundamental capability, DMA-fetched sound using 8 bits per sample and a clever, pulse width modulated digital to analog converter.
 

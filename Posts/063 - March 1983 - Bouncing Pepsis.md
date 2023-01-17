@@ -15,7 +15,7 @@ summary: We cook up a special demo for John Sculley
 * Characters: Andy Hertzfeld, Steve Jobs, John Sculley, Susan Kare, Bill Atkinson, Mike Murray
 * Summary: We cook up a special demo for John Sculley
 
-![We added Pepsi Icons for John Sculley's visit](images/Macintosh/pepsi.gif) 
+![We added Pepsi Icons for John Sculley's visit](images/pepsi.gif) 
     
 The Window manager was the one of the most important parts of the User Interface toolbox, and the ultimate showcase for Quickdraw's "region clipping" technology.  The window manager had to calculate various regions for windows as they were created, moved and resized, and objects drawn inside the windows were automatically clipped as necessary.
 

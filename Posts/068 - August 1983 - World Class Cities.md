@@ -15,7 +15,7 @@ summary: We needed to come up with a naming scheme for our fonts
 * Characters: Steve Jobs, Bill Atkinson, Andy Hertzfeld, Susan Kare
 * Summary: We needed to come up with a naming scheme for our fonts
 
-![here's a sampler of someoriginal Mac fonts](images/Macintosh/fonts.jpg) 
+![here's a sampler of someoriginal Mac fonts](images/fonts.jpg) 
     
 Landing in the Macintosh group as a bitmap graphic designer was a lucky break for me, and one interesting part of the job was designing screen fonts. It was especially enjoyable because the Macintosh was able to display proportional typefaces, leaving behind the tyranny of monospace alphabets with their narrow m's and wide i's.
 

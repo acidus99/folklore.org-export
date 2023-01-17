@@ -15,7 +15,7 @@ summary: We were always dealing with memory limitations
 * Characters: Larry Kenyon, Andy Hertzfeld, Bill Atkinson, Burrell Smith, Steve Capps
 * Summary: We were always dealing with memory limitations
 
-![Capps drew this  with an earlyversion of MacPaint, tocelebrate a ROM release](images/Macintosh/rom2.0.jpg) 
+![Capps drew this  with an earlyversion of MacPaint, tocelebrate a ROM release](images/rom2.0.jpg) 
     
 From the beginning, the Macintosh was conceived to be a very low cost, high volume personal computer.  It was important for the design team to keep manufacturing costs as low as possible.  Since memory was relatively expensive, we were always dealing with memory limitations.
 

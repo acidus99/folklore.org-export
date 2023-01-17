@@ -15,7 +15,7 @@ summary: Steve inspires Bill by pointing out something about the real world
 * Characters: Steve Jobs, Bill Atkinson
 * Summary: Steve inspires Bill by pointing out something about the real world
 
-![Photo of screen with Round Rect demo](images/Macintosh/roundrects.jpg) 
+![Photo of screen with Round Rect demo](images/roundrects.jpg) 
     
 Bill Atkinson worked mostly at home, but whenever he made significant progress he rushed in to Apple to show it off to anyone who would appreciate it.   This time, he visited the Macintosh offices at Texaco Towers to show off his brand new oval routines, which were implemented using a really clever algorithm.
 

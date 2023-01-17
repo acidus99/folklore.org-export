@@ -15,7 +15,7 @@ summary: The big day finally arrives
 * Characters: Steve Jobs, John Sculley, Burrell Smith, Andy Hertzfeld, Mike Markkula
 * Summary: The big day finally arrives
 
-![Bow-tie era Steve Jobs](images/Macintosh/bowtiesteve.jpg) 
+![Bow-tie era Steve Jobs](images/bowtiesteve.jpg) 
 
 January 24, 1984 - the big day had finally arrived.  We had looked forward to the date for so long that it didn't seem real to be actually experiencing the long-awaited public unveiling of the Macintosh at Apple's 1984 annual shareholder's meeting. We were excited, of course, but also nervous about our hastily contrived demo software, and still exhausted from the final push to finish the system software (see Real Artists Ship)
 
@@ -76,7 +76,7 @@ The rest of the meeting was an anti-climactic blur, as Steve runs through some m
 
 Every member of the audience was given a copy of the first issue of MacWorld magazine, with Steve on the cover, as they departed.  Most of the Mac team hung around near the stage, congratulating each other, waiting for the crowd to disperse.
 
-![Certificate for gift Mac](images/Macintosh/certificate.jpg)
+![Certificate for gift Mac](images/certificate.jpg)
 
 A little bit later, after we returned to Bandley 3, we were surprised by a large Apple truck that pulled up in the parking lot near the back of the building.  It contained 100 brand new Macintoshes, one for each member of the team, personalized with a little plaque on the back. Steve presented one at a time to each team member with a handshake and a smile as the rest of us stood around cheering.
 

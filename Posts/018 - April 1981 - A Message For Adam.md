@@ -15,7 +15,7 @@ summary: We encounter Adam Osborne at the West Coast Computer Faire
 * Characters: Adam Osborne, Steve Jobs
 * Summary: We encounter Adam Osborne at the West Coast Computer Faire
 
-![The Osborne 1 portable computer](images/Macintosh/osborne1.jpg) 
+![The Osborne 1 portable computer](images/osborne1.jpg) 
     
 The Apple II was officially introduced at the First West Coast Computer Faire in April 1977, one of the very first trade shows dedicated to the newly emerging microcomputing industry.  I loved the Computer Faires because they were attended by passionate hobbyists in the days before commercial forces completely dominated.
 

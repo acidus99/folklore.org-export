@@ -15,7 +15,7 @@ summary: Steve is concerned with the esthetics of the PC board
 * Characters: Steve Jobs, Burrell Smith, George Crow, Brian Howard, Dan Kottke
 * Summary: Steve is concerned with the esthetics of the PC board
 
-![A wire-wrapped Macintosh prototype](images/Macintosh/wire-wrap.jpg) 
+![A wire-wrapped Macintosh prototype](images/wire-wrap.jpg) 
     
 The first Mac prototypes were hand-made using a technique called "wire-wrapping", where each individual signal is routed by wrapping an individual wire around two pins.   Burrell wire-wrapped the first prototype himself, and then others were done by Brian Howard and Dan Kottke.  But wire-wrapping is time consuming and error prone.
 

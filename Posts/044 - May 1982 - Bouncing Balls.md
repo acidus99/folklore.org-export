@@ -15,7 +15,7 @@ summary: My interview with Chris Espinosa
 * Characters: Chris Espinosa, Caroline Rose
 * Summary: My interview with Chris Espinosa
 
-![Caroline Rose in 1982](images/Macintosh/CarolineRose.jpg) 
+![Caroline Rose in 1982](images/CarolineRose.jpg) 
     
 When I interviewed for a job in the Macintosh group in May 1982, I was working at Tymshare (just down the block), where I had been immersed in the computer timesharing industry for so long that I hadn't kept up with what was going on in the world of personal computing. But I'd always been quick to learn new technologies, so I wasn't worried when I went to talk to Chris Espinosa about the possibility of writing what would come to be known as Inside Macintosh.
 

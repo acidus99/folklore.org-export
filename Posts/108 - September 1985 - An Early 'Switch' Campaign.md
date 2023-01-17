@@ -15,7 +15,7 @@ summary: Steve Jobs tries to get Bo Derek to abandon her PC in favor of a Mac
 * Characters: Bo Derek, Steve Jobs
 * Summary: Steve Jobs tries to get Bo Derek to abandon her PC in favor of a Mac
 
-![Bo Derek, PC User](images/Macintosh/bo_derek.jpg) 
+![Bo Derek, PC User](images/bo_derek.jpg) 
 
 My former wife, Laura Bachko, had been a book editor in New York and had worked on a project with Bo Derek before we moved to California.  One night when Laura and I were having dinner with Steve, Bo's name came up -- as did the factoid that Bo was a heavy duty computer jockey, albeit of the IBM persuasion.  Steve took this as a personal challenge; he was going convert Bo to a Mac user -- and who knew what else.  Clearly the computer could be a foot in the door.  He persuaded Laura to make him an appointment with Bo.
 

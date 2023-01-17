@@ -15,7 +15,7 @@ summary: The Mac group gets business cards
 * Characters: Andy Hertzfeld, Burrell Smith, Steve Jobs
 * Summary: The Mac group gets business cards
 
-![Photograph of Andy Hertzfeld's business card](images/Macintosh/software_wizard.jpg) 
+![Photograph of Andy Hertzfeld's business card](images/software_wizard.jpg) 
 
 By the spring of 1982, the Macintosh project was considered more legitimate within Apple.  It was beginning to transition from a research effort into a mainstream project.  We had to get more organized as the team grew.
 

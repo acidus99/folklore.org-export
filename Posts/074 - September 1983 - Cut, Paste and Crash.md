@@ -15,7 +15,7 @@ summary: We uncover a particularly bad bug shortly after ROM freeze
 * Characters: Larry Kenyon, Susan Kare, Andy Hertzfeld
 * Summary: We uncover a particularly bad bug shortly after ROM freeze
 
-![The sneaker was used to demo cut and paste](images/Macintosh/sneaker.jpg) 
+![The sneaker was used to demo cut and paste](images/sneaker.jpg) 
     
 One of the last parts of the Macintosh system software to be finished before freezing the ROM in September 1983 was the "clipboard manager", which was the code responsible for facilitating cutting and pasting information between applications.   The clipboard manager provided some simple calls to access and manipulate the "clipboard", a memory buffer that held the last piece of data that was cut or copied.  The trickiest part of the clipboard manager was the way it managed memory when the user quit an application.
 
