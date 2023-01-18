@@ -15,7 +15,7 @@ summary: My first job on the Macintosh project
 * Characters: Andy Hertzfeld, Steve Wozniak, Burrell Smith, Brian Howard
 * Summary: My first job on the Macintosh project
 
-![An Apple II Disk Drive](images/disk2.gif) 
+![An Apple II Disk Drive](images/disk-ii.jpg) 
     
 My very first job on the Mac project was to help Burrell Smith and Brian Howard verify that the disk controller was working properly. They had just wired up a Woz-style disk controller to the Macintosh prototype, but they had no way to test if it was working properly without writing a fairly complicated program.
 
