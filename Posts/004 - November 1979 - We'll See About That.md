@@ -15,7 +15,7 @@ summary: Burrell proves his mettle with the 80k language card.
 * Characters: Burrell Smith, Bill Atkinson, Jef Raskin, Steve Wozniak
 * Summary: Burrell proves his mettle with the 80k language card.
 
-![Apple II Language Card](images/language_card.jpg) 
+![Apple II Language Card](images/card-apple-ii-language.jpg) 
     
 Burrell Smith was a 23 year old, self-taught engineer, without a college degree, who was drawn to Apple by the sheer elegance of the Apple II design.  He was hired into Apple in February 1979, as Apple employee #282, a lowly service technician responsible for fixing broken Apple IIs that were sometimes returned by customers.  As he debugged broken logic boards, sometimes more than a dozen in a single day, he began to develop a profound respect and empathy for Steve Wozniak's unique, creative design techniques.
 
