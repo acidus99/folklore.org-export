@@ -15,7 +15,7 @@ summary: The Lisa had a different screen resolution than the Macintosh
 * Characters: Bill Atkinson, Burrell Smith, Rich Page, Wayne Rosing, Tom Malloy
 * Summary: The Lisa had a different screen resolution than the Macintosh
 
-![The Apple Lisa](images/lisa.jpg) 
+![The Apple Lisa](images/apple-lisa.jpg) 
 
 From the very beginning, even before it had a mouse, the Lisa was designed to be an office machine, and word processing was considered to be its most important application.  In the late seventies, the acid test for an office computer (as compared with a hobby computer) was the ability to display 80 columns of text.
 
