@@ -27,14 +27,13 @@ Gemtext versions of these posts are available on my Gemini Capsule: [gemini://ge
 
 Many of the images from Folklore.org are rare and hard to come across anywhere else. Unfortunately they tend to be lower resolution. Where possible I have updated the images with high-resolution sources with appropriate licenses.
 
-
-* [applesoft.jpg](Posts/images/applesoft.jpg) - Photo of AppleSoft IIa cassette. Source: [Apple II Documentation Project](https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Software/Cassettes/Applesoft%20IIa.jpg).
-* [apple-silent-type.jpg](Posts/images/apple-silent-type.jpg) - Photo of Apple Silentype Printer. Source [Wikimedia Commons](apple-silent-type.jpg).
-* [bill-byte-cover.jpg](Posts/images/bill-byte-cover.jpg) - Byte Magazine February 1984 [Internet Archive](https://archive.org/details/byte-magazine-1984-02).
-* `disk2.gif` replaced with [`disk-ii.jpg`](Posts/images/disk-ii.jpg) - Photo of Disk-II floppy disk drive. Source [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Disk_II.jpg).
-* `inside_mac.gif` replaced with [`book-inside-machintosh.jpg`](Posts/images/book-inside-machintosh.jpg). Photo of the cover of Inside Macintosh Promotional Edition. Source: [Internet Archive](https://archive.org/details/bitsavers_applemacInionalEdition1985_53888388).
-* `language_card.jpg`replaced with `card-apple-ii-language.jpg`. Photo of Apple II Language Card. Source: [Apple II Documentation Project](https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Interface%20Cards/Language%20Cards/Apple%20Language%20Card/Photos/Apple%20Language%20Card%201979%20-%20Front.JPG).
-* `lisa.jpg` replaced with Photo of Apple Lisa. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apple_Lisa_Computer.jpg)
-* `PC.jpg` replaced with Photo of IBM PC. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:IBM_PC-IMG_7271_(transparent).png).
-* `pirates.jpg` updated with Photo of the Pirates of Silicon Valley. Source: [Wikipedia Commons](https://en.wikipedia.org/wiki/File:Movieposterposv.jpg).
-* [tscan_brochure.jpg](Posts/images/tscan_brochure.jpg) - Thunderscan ad from MacWorld Magazine July 1985. Source [Internet Archive](https://archive.org/details/MacWorld_8507_July_1985)
+* [`applesoft.jpg`](Posts/images/applesoft.jpg) updated with a photo of AppleSoft IIa cassette. Source: [Apple II Documentation Project](https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Software/Cassettes/Applesoft%20IIa.jpg).
+* [`apple-silent-type.jpg`](Posts/images/apple-silent-type.jpg) updated with a photo of Apple Silentype Printer. Source [Wikimedia Commons](apple-silent-type.jpg).
+* [`bill-byte-cover.jpg`](Posts/images/bill-byte-cover.jpg) updated with a high resolution front cover of Byte Magazine February 1984 [Internet Archive](https://archive.org/details/byte-magazine-1984-02).
+* `disk2.gif` replaced with [`disk-ii.jpg`](Posts/images/disk-ii.jpg), a photo of the Disk-II floppy disk drive. Source [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Disk_II.jpg).
+* `inside_mac.gif` replaced with [`book-inside-machintosh.jpg`](Posts/images/book-inside-machintosh.jpg), a photo of the cover of Inside Macintosh Promotional Edition. Source: [Internet Archive](https://archive.org/details/bitsavers_applemacInionalEdition1985_53888388).
+* `language_card.jpg`replaced with [`card-apple-ii-language.jpg`](Posts/images/card-apple-ii-language.jpg), a photo of the Apple II Language Card. Source: [Apple II Documentation Project](https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Interface%20Cards/Language%20Cards/Apple%20Language%20Card/Photos/Apple%20Language%20Card%201979%20-%20Front.JPG).
+* `lisa.jpg` replaced with a photo of the Apple Lisa. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apple_Lisa_Computer.jpg)
+* `PC.jpg` replaced with a photo of the IBM PC. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/File:IBM_PC-IMG_7271_(transparent).png).
+* `pirates.jpg` updated with a photo of the cover of "The Pirates of Silicon Valley". Source: [Wikipedia Commons](https://en.wikipedia.org/wiki/File:Movieposterposv.jpg).
+* [`tscan_brochure.jpg`](Posts/images/tscan_brochure.jpg) updated with a higher resolution version of the Thunderscan ad from MacWorld Magazine July 1985. Source [Internet Archive](https://archive.org/details/MacWorld_8507_July_1985)
